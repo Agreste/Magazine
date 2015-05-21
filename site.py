@@ -110,6 +110,9 @@ def page(path):
 
     # Get custom template
     template = page.meta.get('template', 'page.html')
+    title = page.meta.get('title', 'page.html')
+    subtitle = page.meta.get('subtitle', 'page.html')
+    background_image =  page.meta.get('background', 'page.html')
 
     # Verify if need redirect
     redirect_ = page.meta.get('redirect', None)
@@ -119,10 +122,15 @@ def page(path):
     today = datetime.datetime.now().strftime("%B %dth %Y")
 
     # Render the page
-    return render_template(template, page=page, today=today, pages=pages)
+    return render_template(template, page=page
+                                   , today=today
+                                   , pages=pages
+                                   , background_image=background_image
+                                   , title=title
+                                   , subtitle=subtitle)
 
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == 'build':
         freezer.freeze()
     else:
-        app.run(port=8000)
+        app.run(host='0.0.0.0', port=8000)

@@ -1,0 +1,212 @@
+@font-face {
+    font-family: OpenSans;
+    src: url('/static/fonts/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('/static/fonts/OpenSans-LightItalic.ttf');
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: BebasNeue;
+    src: url('/static/fonts/BebasNeue.otf');
+}
+
+
+/* background setup */
+.background {
+    background-repeat:no-repeat;
+    /* custom background-position */
+    background-position:50% 50%;
+    /* ie8- graceful degradation */
+    background-position:50% 50%\9 !important;
+    background-size: cover;
+}
+
+/* fullscreen setup */
+html, body {
+    /* give this to all tags from html to .fullscreen */
+    height:100%;
+    min-height:100%;
+    /* background-repeat: no-repeat; 
+    background-size: 100%; */
+    background-attachment: fixed;
+}
+
+body {
+    background-color: black;
+}
+
+.fullscreen,
+.content-a {
+    width:100%;
+    min-height:100%;
+}
+.not-fullscreen,
+.not-fullscreen .content-a,
+.fullscreen.not-overflow,
+.fullscreen.not-overflow .content-a {
+    height:100%;
+}
+
+/* content centering styles */
+.content-a {
+    display:table;
+}
+
+.content-a-text {
+    width: 400px;
+    background-color: black;
+}
+
+.content-b-title {
+    display:table-cell;
+    position:relative;
+    vertical-align:middle;
+    text-align: center;
+}
+
+.content-b-title .box {
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    max-width: 50%;
+    margin: auto;
+}
+
+.content-b-title h1 {
+    font-family: BebasNeue;
+    font-size: 45px;
+    color: #fff;
+}
+
+.content-b-title h2 {
+    font-family: BebasNeue;
+    font-size: 25px;
+    color: #fff;
+}
+
+.content-b {
+/*    display:table-cell; */
+    position:relative;
+    vertical-align:middle;
+    text-align: left;
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    margin-bottom: 100%;
+    font-family: OpenSans;
+    background-color: white;
+    padding: 40px 60px;
+    font-size: 110%;
+}
+
+/* visual styles */
+body{
+    margin:0;
+    font-family:sans-serif;
+    font-size:18px;
+/*    line-height:100px; */
+    color:#000;
+    text-align:center;
+}
+section {
+    background:#9ed100;
+}
+.not-fullscreen {
+    height:50%;
+}
+
+#menu { 
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+    right: 0;
+    vertical-align: middle;
+    z-index: 10;
+}
+
+#menu img {
+    height: 50%;
+    margin-top: 10px;
+    margin-left: 30px;
+    float: left;
+    opacity: 0.6;
+}
+
+.figure {
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#art-menu {
+    font-family: BebasNeue;
+    float: right;
+    width: 100px;
+    height: 100%;
+    line-height: 50px;
+    vertical-align: middle;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: rgba(255,255,255, 0.8);
+    position: relative;
+}
+
+#art-menu:hover {
+    background-color: rgba(255,255,255,0.8);
+    color: rgba(0,0,0, 1);
+}
+
+#art-menu ul {
+  padding: 0;
+  position: absolute;
+  top: 32px;
+  right: 0;
+  width: 200px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  list-style: none;
+  -webkit-transiton: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  -transition: opacity 0.2s;
+}
+
+ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+
+#art-menu:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  background: rgba(0,0,0,0.6);
+  color: rgba(255,255,255,0.6);
+}
+
+#art-menu:hover ul li:hover  {
+  background-color: rgba(255,255,255, 0.7);
+}
+
+#art-menu:hover ul li:hover a {
+  color: black;
+}
+
+
+#art-menu:hover ul li a {
+  color: rgba(255,255,255,1);
+  text-decoration: none;
+}

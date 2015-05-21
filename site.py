@@ -111,7 +111,7 @@ def page(path):
     # Get custom template
     template = page.meta.get('template', 'page.html')
     title = page.meta.get('title', 'page.html')
-    subtitle = page.meta.get('subtitle', 'page.html')
+    subtitle = page.meta.get('subtitle', '')
     background_image =  page.meta.get('background', 'page.html')
 
     # Verify if need redirect

@@ -79,10 +79,6 @@ A ambigüidade, por sua vez, não busca minimizar os ruídos. Ela pode, pelo con
 
 2. http://bookdeprotesto.tumblr.com/
 
-<a name="2"></a>
-
-2. http://bookdeprotesto.tumblr.com/
-
 <a name="3"></a>
 
 3. Imagens do ensaio, informações sobre o coletivo e um belo texto sobre o projeto podem ser encontrados aqui: https://ninja.oximity.com/article/Ocupe-a-Liberdade-Os-corpos-nus-do-Est-3

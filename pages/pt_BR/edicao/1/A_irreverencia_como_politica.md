@@ -71,34 +71,18 @@ A ambigüidade, por sua vez, não busca minimizar os ruídos. Ela pode, pelo con
 
 ### Notas
 
-<a name="1"></a>
+<a name="1">1. O I e o II Ocupe Estelita, realizados nos anos de 2012 e 2013, buscaram, durante um dia inteiro de domingo, ocupar o entorno do Cais José Estelita, na cidade do Recife, com programação cultural e política, rodas de diálogo e atividades públicas de lazer. O movimento surgiu em contraposição à especulação imobiliária e à lógica de privatização dos espaços urbanos levada a cabo pela aliança entre poder público, empreiteiras, setores empresariais e imprensa tradicional. O carro-chefe dessa lógica predatória é o Projeto Novo Recife, investida de gentrificação e descaracterização do centro histórico da capital pernambucana mediante a construção de uma fileira de prédios residenciais, torres empresariais e condomínios fechados ao longo do antigo cais da cidade. Em 2014, quando as construtoras começaram a demolir, de maneira ilegal, os galpões e destruir a antiga malha viária localizada na área do cais, o Ocupe Estelita se converteu num acampamento que permaneceu na área durante cerca de um mês. Tais ações, tomadas em conjunto, se inserem num contexto local muito mais complexo que seria impossível de relatar aqui sem desencadear uma gigantesca digressão.</a>
 
-1. O I e o II Ocupe Estelita, realizados nos anos de 2012 e 2013, buscaram, durante um dia inteiro de domingo, ocupar o entorno do Cais José Estelita, na cidade do Recife, com programação cultural e política, rodas de diálogo e atividades públicas de lazer. O movimento surgiu em contraposição à especulação imobiliária e à lógica de privatização dos espaços urbanos levada a cabo pela aliança entre poder público, empreiteiras, setores empresariais e imprensa tradicional. O carro-chefe dessa lógica predatória é o Projeto Novo Recife, investida de gentrificação e descaracterização do centro histórico da capital pernambucana mediante a construção de uma fileira de prédios residenciais, torres empresariais e condomínios fechados ao longo do antigo cais da cidade. Em 2014, quando as construtoras começaram a demolir, de maneira ilegal, os galpões e destruir a antiga malha viária localizada na área do cais, o Ocupe Estelita se converteu num acampamento que permaneceu na área durante cerca de um mês. Tais ações, tomadas em conjunto, se inserem num contexto local muito mais complexo que seria impossível de relatar aqui sem desencadear uma gigantesca digressão.
+<a name="2">2. http://bookdeprotesto.tumblr.com/</a>
 
-<a name="2"></a>
+<a name="3">3. Imagens do ensaio, informações sobre o coletivo e um belo texto sobre o projeto podem ser encontrados aqui: https://ninja.oximity.com/article/Ocupe-a-Liberdade-Os-corpos-nus-do-Est-3</a>
 
-2. http://bookdeprotesto.tumblr.com/
+<a name="4">4. https://www.youtube.com/watch?v=PR9jlChDFjg</a>
 
-<a name="3"></a>
+<a name="5">5. https://www.youtube.com/watch?v=EFpJ_EipxUU</a>
 
-3. Imagens do ensaio, informações sobre o coletivo e um belo texto sobre o projeto podem ser encontrados aqui: https://ninja.oximity.com/article/Ocupe-a-Liberdade-Os-corpos-nus-do-Est-3
+<a name="6">6. https://vimeo.com/84605440</a>
 
-<a name="4"></a>
+<a name="7">7. https://vimeo.com/96132032</a>
 
-4. https://www.youtube.com/watch?v=PR9jlChDFjg
-
-<a name="5"></a>
-
-5. https://www.youtube.com/watch?v=EFpJ_EipxUU
-
-<a name="6"></a>
-
-6. https://vimeo.com/84605440
-
-<a name="7"></a>
-
-7. https://vimeo.com/96132032
-
-<a name="8"></a>
-
-8. Outras informações, filmes e materiais sobre o coletivo em www.deslumbramento.com
+<a name="8">8. Outras informações, filmes e materiais sobre o coletivo em www.deslumbramento.com</a>

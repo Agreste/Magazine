@@ -1,5 +1,5 @@
 ﻿template: article.html
-background: /static/img/1/estudo_em_vermelho
+background: /static/img/1/estudo_em_vermelho.jpg
 title: "A irreverência como política"
 
 ___Fábio Ramalho___

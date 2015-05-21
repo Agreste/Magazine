@@ -40,6 +40,8 @@ Para Ruttman a música não existe no cinema, ela perde sua característica de m
 
 A relação embrionária do cinema, imagem e som não se dá em espaços separados, mas sim na constituição de um mesmo objeto. A ideia de Ruttman era fazer um cinema sonoro, que pudesse ser “ouvido” e não somente “visto”.
 
+## Notas
+
 <a name="2">1. CAESAR, Rodolfo.  O som como imagem. IV Seminário Música Ciência e Tecnologia: Fronteiras e Rupturas. Departamento de Música- ECA. Universidade de São Paulo, julho, 2012.</a>
 
 <a name="2">2. _Idem. Ibidem._</a>

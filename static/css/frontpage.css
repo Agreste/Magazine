@@ -17,7 +17,7 @@ h2 {
 }
 
 
-#minhha a {
+#minhha a:link {
    color: #e7757c;
 
 }
@@ -146,7 +146,7 @@ h2 {
 }
 
 
-.enquadrando a, a:hover, a:active, a:visited {
+.enquadrando a:link, a:hover, a:active, a:visited {
     color: white;
 }
 
@@ -155,7 +155,7 @@ h2 {
    padding: 5px;
 }
 
-.yellowback a, a:hover {
+.yellowback a:link,a:hover {
    color:  #e7757c;
 }
 

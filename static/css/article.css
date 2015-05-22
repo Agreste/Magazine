@@ -201,13 +201,28 @@ ul li:hover ul {
   background-color: rgba(255,255,255, 0.7);
 }
 
-#art-menu:hover ul li:hover a {
+#art-menu:hover ul li:hover a:link, a:hover {
+  font-size: 18px;
   color: black;
 }
 
 
-#art-menu:hover ul li a {
-  color: rgba(255,255,255,1);
+#art-menu:hover ul li a:link {
   text-decoration: none;
   padding: 10px;
+}
+
+.fullvideo {
+  padding-top: 100px;
+}
+
+.vimeo-links {
+  background-color: rgba(0,0,0,0.8);
+  padding: 20px 0;
+  color: white;
+}
+
+.vimeo-links a:link, a:hover, a:visited {
+  color: white;
+  font-size: 30px;
 }

@@ -1,2 +1,4 @@
+template: frontpage.html
 
-Lista
+
+Frontpage

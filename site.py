@@ -99,7 +99,7 @@ def root():
     path = 'main'
     page = pages.get_or_404(add_l10n_prefix(path))
 
-    return render_template('root.html', page=page, pages=pages)
+    return render_template('frontpage.html', page=page, pages=pages)
 
 @app.route('/<path:path>/')
 def page(path):

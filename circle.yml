@@ -1,0 +1,13 @@
+dependencies:
+    pre:
+	- sudo apt-get install pandoc
+
+machine:
+    timezone:
+        America/Los_Angeles
+
+deployment:
+    production:
+        branch: master
+        commands:
+            - python site.py build

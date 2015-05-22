@@ -1,3 +1,14 @@
+@font-face {
+    font-family: BebasNeue;
+    src: url('/static/fonts/BebasNeue.otf');
+}
+
+body {
+    font-family: BebasNeue;
+
+}
+
+
 /*  SECTIONS  */
 .section {
 	clear: both;
@@ -57,9 +68,180 @@
 }
 
 #frontpage_1_1 {
-    background-image: url('/static/img/frontpage_1_1.png');
+}
+
+#frontpage_1_2 {
+    background-image: url('/static/img/frontpage/lincoln.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    min-width: 348px;
-    min-height: 249px;
+}
+
+
+#back_1_1 {
+   background-color: rgba(233, 218, 176, 0.8);
+   padding: 80px 40px 80px 10px;
+}
+
+#back_1_2 {
+   background-color: rgba(199, 219, 232, 0.8);
+}
+
+
+#back_1_1 img {
+    width: 100%;
+}
+
+.blueback {
+   background-color: rgba(199, 219, 232, 0.8);
+   color: #e6737a;
+}
+
+.blue2back {
+   background-color: rgba(153, 183, 175, 0.8);
+   color: #fff;
+}
+
+.gray2back {
+   background-color: rgba(161, 159, 147, 0.8);
+   color: white;
+   margin: 10px;
+   padding: 5px;
+}
+
+.gray3back {
+   background-color: rgba(101, 84, 88, 0.8);
+   color: white;
+   margin: 10px;
+   padding: 5px;
+}
+
+.gray4back {
+   background-color: rgba(77, 60, 66, 0.9);
+   color: white;
+   margin: 10px;
+   padding: 5px;
+}
+
+.grayback {
+   background-color: rgba(148, 148, 148, 0.8);
+   color: white;
+}
+
+.blue2back h2 {
+    color: black;
+}
+
+.black {
+    color: black;
+}
+
+.enquadrando {
+   background-image: url('/static/img/frontpage/ewa.jpg');
+   background-size: 100%;
+   background-repeat: no-repeat;
+   color: white;
+}
+
+.enquadrando h1 {
+   background-color: rgba(0,0,0,0.5);
+}
+
+.enquadrando h2 {
+   color: #e7757c;
+}
+
+.lightred {
+   color: #e7757c;
+}
+
+.enquadrando a {
+    color: white;
+}
+
+.yellowback {
+   background-color: rgba(248, 245, 224, 0.8);
+   padding: 5px;
+}
+
+.yellowback h2 {
+   font-size: 20px; 
+}
+
+.clearyellow {
+   background-color: rgba(248,245,224, 0.8);
+   padding: 5px 20px;
+}
+
+.estranhamento h1 {
+   font-size: 23px; 
+   color: #e7757c;
+
+}
+
+.pacificacao {
+   background-image: url('/static/img/frontpage/yann.jpg');
+   background-size: 100%;
+   background-repeat: no-repeat;
+   height: 250px;
+   padding: 0;
+   text-align: right;
+}
+
+.pacificacao h2 {
+   padding-top: 40px;
+   padding-right: 20px;
+   font-size: 24px; 
+}
+
+.pacificacao h3 {
+   font-size: 20px; 
+   padding-right: 10px;
+   color: black;
+}
+
+
+.pacificacao .blueback {
+   height: 250px;
+   float: right;
+   color: white;
+   width: 100%;
+}
+
+/* columns of same height styles */
+
+.row-full-height {
+  height: 100%;
+}
+.col-full-height {
+  height: 100%;
+  vertical-align: middle;
+}
+.row-same-height {
+  display: table;
+  width: 100%;
+  /* fix overflow */
+  table-layout: fixed;
+}
+.col-xs-height {
+  display: table-cell;
+  float: none !important;
+}
+
+@media (min-width: 768px) {
+  .col-sm-height {
+    display: table-cell;
+    float: none !important;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-height {
+    display: table-cell;
+    float: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-height {
+    display: table-cell;
+    float: none !important;
+  }
 }

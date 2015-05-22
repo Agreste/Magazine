@@ -11,4 +11,3 @@ deployment:
         branch: master
         commands:
             - python site.py build
-            - scp -r build magazine@agre.st:

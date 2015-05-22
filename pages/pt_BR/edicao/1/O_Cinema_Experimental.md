@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/nao_voce_como_voce_back.jpg
+background: /static/img/1/casadalapa.jpg
 title: "O Cinema Experimental Na Era Do Capitalismo Flexível"
 subtitle: "Formas Alternativas de Produção e a Suposta Autonomia"
 

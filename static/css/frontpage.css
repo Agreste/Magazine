@@ -121,6 +121,11 @@ h2 {
     color: black;
 }
 
+.white {
+    color: white;
+}
+
+
 .enquadrando {
    background-image: url('/static/img/frontpage/ewa.jpg');
    background-size: 100%;

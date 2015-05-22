@@ -1,6 +1,6 @@
 dependencies:
     pre:
-	- sudo apt-get install pandoc
+        - sudo apt-get install pandoc
 
 machine:
     timezone:

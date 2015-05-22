@@ -40,6 +40,14 @@ body {
     background-color: black;
 }
 
+a {
+ color:white;
+}
+
+.content-b a {
+ color: black;
+}
+
 .fullscreen,
 .content-a {
     width:100%;
@@ -201,7 +209,7 @@ ul li:hover ul {
   background-color: rgba(255,255,255, 0.7);
 }
 
-#art-menu:hover ul li:hover a:link, a:hover {
+#art-menu:hover ul li:hover a:link {
   font-size: 18px;
   color: black;
 }
@@ -209,6 +217,7 @@ ul li:hover ul {
 
 #art-menu:hover ul li a:link {
   text-decoration: none;
+  color: white;
   padding: 10px;
 }
 
@@ -222,7 +231,17 @@ ul li:hover ul {
   color: white;
 }
 
-.vimeo-links a:link, a:hover, a:visited {
+.vimeo-links  a:link {
+  color: white;
+  font-size: 30px;
+}
+
+.vimeo-links  a:hover {
+  color: white;
+  font-size: 30px;
+}
+
+.vimeo-links  a:visited {
   color: white;
   font-size: 30px;
 }

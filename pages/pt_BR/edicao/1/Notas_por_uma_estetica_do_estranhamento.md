@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/framing_back.jpg
+background: /static/img/1/yellow_helmet.jpg
 title: Notas por uma estética do estranhamento 
 
 ___Sebastian Wiedemann___

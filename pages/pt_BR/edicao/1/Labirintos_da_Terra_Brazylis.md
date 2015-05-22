@@ -3,7 +3,7 @@ background: /static/img/1/luta_II_zabaneiras.jpg
 title: Labirintos da Terra Brazylis
 subtitle: "Glauber, Teat(r)o Oficina e a Epifania Final"
 
-___Ewa Mazierska___
+___Josafá Veloso___
 
 1. Nunca mais fui o mesmo depois de ver Os Sertões - Luta II - O Desmassacre no Teat(r)o Oficina de São Paulo. “Foi destino certo”, como diz cego Júlio para Antônio das Mortes em Deus e o Diabo, de Glauber. Nunca havia visto um espetáculo do Oficina. Haviam me dito que aquela era a última parte da adaptação da obra clássica de Euclides e que durava mais de seis horas (!). Ao término do primeiro Ato. Três horas e meia depois, eu realmente achei que todas as seis horas de espetáculo haviam se passado. Senti isso não por tédio, mas por êxtase. Ali, na terra da Rua Jaceguai, eu havia passado por uma experiência de transe, de não-tempo: Um gostinho de ETHERNIDADE. Bateu no meu corpo um ritual antropofágico que no mesmo caldeirão misturava o profeta-bailarino Zaratustra, o rigor cósmico de Artaud, a alegria de Oswald e as alegorias de Glauber. 
 

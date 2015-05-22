@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/framing_back.jpg
+background: /static/img/1/vicio_inerente.jpg
 title: Vício Inerente
 
 ___Felipe Moraes___

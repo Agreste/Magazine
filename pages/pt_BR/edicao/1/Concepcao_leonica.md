@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/framing_back.jpg
+background: /static/img/1/concepcao.jpg
 title: Concepção leônica rodrigal colorífera
 
 ___Letícia Simões___

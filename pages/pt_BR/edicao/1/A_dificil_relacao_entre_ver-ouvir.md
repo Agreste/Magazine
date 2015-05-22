@@ -12,9 +12,9 @@ A relação ver/ouvir acontece, até mesmo, na sua condição física. Rodolfo C
 
 Ainda segundo Caesar o problema em transformar som em imagem é que o som não tem uma fixação tátil, ele sempre sofre um anteparo, nunca é a imagem do som em si. E que muito recentemente, com a produção fonográfica é que o status entre ver/ouvir pôde ser colocado em comparação.
 
-Segundo Michel Chion em sua tese _Audio-vision_ diz que a música se constituiu num espetáculo audiovisual, que imagens sempre fizeram parte da prática, difusão e percepção da música. A música teve embrionariamente relação com a imagem mesmo na época das músicas de concerto quando o concertista se apresentava em público, existia o figurino, o cenário,... E que quando a música começou a ser gravada (música acusmática), a imaginação constituiria a parte visual da música. Chion faz uma distinção importante do que seria duas formas de hibridação entre som e imagem, uma que se chama audio-vision, que seria própria dos filmes em que a música entra para ampliar o sentido da imagem, pois a imagem é que prevalece. E o _visionaudition_, em que é a partir da música que as imagens são geradas, pois é a música que prevalece.
+Segundo Michel Chion em sua tese _Audio-vision_ diz que a música se constituiu num espetáculo audiovisual, que imagens sempre fizeram parte da prática, difusão e percepção da música. A música teve embrionariamente relação com a imagem mesmo na época das músicas de concerto quando o concertista se apresentava em público, existia o figurino, o cenário,... E que quando a música começou a ser gravada (música acusmática), a imaginação constituiria a parte visual da música. Chion faz uma distinção importante do que seria duas formas de hibridação entre som e imagem, uma que se chama _audio-vision_, que seria própria dos filmes em que a música entra para ampliar o sentido da imagem, pois a imagem é que prevalece. E o _visionaudition_, em que é a partir da música que as imagens são geradas, pois é a música que prevalece.
 
->Por “audio-vision” ele [Chion] designa um tipo de percepção própria do cinema e da televisão, onde a escuta influencia a visão, onde o som acrescenta a todo momento uma série de efeitos, de sensações, de significações que, por um fenômeno de projeção são atribuídos à imagem. Assim, uma vez que um som acrescenta um sentido a uma imagem, este sentido parece emanar da imagem por si só, ou seja, o som fica sub-entendido na imagem. Simetricamente, o termo ‘visionaudition’ se aplica a um tipo de percepção que é conscientemente concentrada sobre o audível, como no caso do concerto, onde a audição está acompanhada, reforçada, em todo caso, transformada por um contexto visual que a influencia, podendo projetar sobre ela certas percepções.[[3]](#3)
+>Por “_audio-vision_” ele [Chion] designa um tipo de percepção própria do cinema e da televisão, onde a escuta influencia a visão, onde o som acrescenta a todo momento uma série de efeitos, de sensações, de significações que, por um fenômeno de projeção são atribuídos à imagem. Assim, uma vez que um som acrescenta um sentido a uma imagem, este sentido parece emanar da imagem por si só, ou seja, o som fica sub-entendido na imagem. Simetricamente, o termo ‘visionaudition’ se aplica a um tipo de percepção que é conscientemente concentrada sobre o audível, como no caso do concerto, onde a audição está acompanhada, reforçada, em todo caso, transformada por um contexto visual que a influencia, podendo projetar sobre ela certas percepções.[[3]](#3)
 
 Para Chion, a relação entre imagem e som cria percepções totalmente diferentes. Não se vê a mesma imagem quando se ouve um som e não se ouve o mesmo som quando se vê uma imagem. 
 
@@ -42,12 +42,12 @@ A relação embrionária do cinema, imagem e som não se dá em espaços separad
 
 ## Notas
 
-<a name="2">1. CAESAR, Rodolfo.  O som como imagem. IV Seminário Música Ciência e Tecnologia: Fronteiras e Rupturas. Departamento de Música- ECA. Universidade de São Paulo, julho, 2012.</a>
+<a name="2">1. CAESAR, Rodolfo.  _O som como imagem_. IV Seminário Música Ciência e Tecnologia: Fronteiras e Rupturas. Departamento de Música- ECA. Universidade de São Paulo, julho, 2012.</a>
 
 <a name="2">2. _Idem. Ibidem._</a>
 
-<a name="3">3. LEITE, Op. cit, p. 03</a>
+<a name="3">3. LEITE, _Op. cit_, p. 03</a>
 
-<a name="4">4. VERTOV apud XAVIER, Ismail. Nascimento do cine-olho, 1924. In:  A experiência do cinema, pg. 260.</a>
+<a name="4">4. VERTOV apud XAVIER, Ismail. _Nascimento do cine-olho_, 1924. In:  A experiência do cinema, pg. 260.</a>
 
-<a name="5">5. RODRIGUES, Claudiney, CHAVES, Renan Paiva In: O PENSAMENTO SONORO-VISUAL DE WALTER RUTTMANN E A MÚSICA DE BERLIM: SINFONIA DE UMA METRÓPOLE (1927)</a>
+<a name="5">5. RODRIGUES, Claudiney, CHAVES, Renan Paiva In: _O PENSAMENTO SONORO-VISUAL DE WALTER RUTTMANN E A MÚSICA DE BERLIM: SINFONIA DE UMA METRÓPOLE_ (1927)</a>

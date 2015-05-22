@@ -33,12 +33,12 @@ Nós espectadoras e espectadores somos implicados no documentário; a história 
 
 Há um momento no filme em que a enfermeira Maria afirma que não se pode compreender verdadeiramente uma dor estando fora dela. Mas por meio da arte isso talvez seja possível. A obra de Rodrigo Siqueira nos convoca a sentir essa dor.
 
-<a name="1">: Em janeiro deste ano, 2015, policiais foram julgados e condenados pelo assassinato do filho do personagem Daniel Eustáquio de Oliveira, ocorrido em 2012, mas durante a realização do filme o caso permanecia impune. Para mais informações sobre o caso ver [http://ponte.org/pms-presos-apos-pai-de-vitima-investigar-execucao-sao-julgados/](http://ponte.org/pms-presos-apos-pai-de-vitima-investigar-execucao-sao-julgados/)</a>
+<a name="1">1. Em janeiro deste ano, 2015, policiais foram julgados e condenados pelo assassinato do filho do personagem Daniel Eustáquio de Oliveira, ocorrido em 2012, mas durante a realização do filme o caso permanecia impune. Para mais informações sobre o caso ver [http://ponte.org/pms-presos-apos-pai-de-vitima-investigar-execucao-sao-julgados/](http://ponte.org/pms-presos-apos-pai-de-vitima-investigar-execucao-sao-julgados/)</a>
 
-<a name="2">: No caso de Soledad, além da entrevista com sua filha o diretor usa o recurso de registrar buscas sobre o caso na internet, incluindo um trecho do programa Roda Viva no Youtube, que tem Cabo Anselmo como entrevistado.</a>
+<a name="2">2. No caso de Soledad, além da entrevista com sua filha o diretor usa o recurso de registrar buscas sobre o caso na internet, incluindo um trecho do programa Roda Viva no Youtube, que tem Cabo Anselmo como entrevistado.</a>
 
-<a name="3">: Teatro localizado no subterrâneo da Casa do Povo, no Bom Retiro, que foi um reduto de intensa atividade contra a ditadura militar.</a>
+<a name="3">3. Teatro localizado no subterrâneo da Casa do Povo, no Bom Retiro, que foi um reduto de intensa atividade contra a ditadura militar.</a>
 
-<a name="4">: Inspirado na tragédia “Oréstia”, de Ésquilo, na qual Orestes é absolvido de ter matado sua mãe para vingar a morte do pai. A referência é descrita logo no primeiro letreiro do filme (posteriormente espero publicar o parágrafo de descrição aqui).</a>
+<a name="4">4. Inspirado na tragédia “Oréstia”, de Ésquilo, na qual Orestes é absolvido de ter matado sua mãe para vingar a morte do pai. A referência é descrita logo no primeiro letreiro do filme (posteriormente espero publicar o parágrafo de descrição aqui).</a>
 
-<a name="5">: Filmes de Mohsen Makhmalbaf (1995) e Abbas Kiarostami (1990), respectivamente. Há dois pequenos textos meus sobre esses filmes no meu site pessoal: _O chorar de verdade em Salve o cinema_ -[http://www.naocaber.org/o-chorar-de-verdade-de-salve-o-cinema/](http://www.naocaber.org/o-chorar-de-verdade-de-salve-o-cinema/) e _O tribunal paralelo de Close-up_ -    [http://www.naocaber.org/o-tribunal-paralelo-de-close-up/](http://www.naocaber.org/o-tribunal-paralelo-de-close-up/).</a>
+<a name="5">5. Filmes de Mohsen Makhmalbaf (1995) e Abbas Kiarostami (1990), respectivamente. Há dois pequenos textos meus sobre esses filmes no meu site pessoal: _O chorar de verdade em Salve o cinema_ -[http://www.naocaber.org/o-chorar-de-verdade-de-salve-o-cinema/](http://www.naocaber.org/o-chorar-de-verdade-de-salve-o-cinema/) e _O tribunal paralelo de Close-up_ -    [http://www.naocaber.org/o-tribunal-paralelo-de-close-up/](http://www.naocaber.org/o-tribunal-paralelo-de-close-up/).</a>

@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/estudo_em_vermelho.jpg
+background: /static/img/1/indigena.jpg
 title: "Cinemas Indígenas e Trânsitos da Representação"
 
 ___Fábio Ramalho___

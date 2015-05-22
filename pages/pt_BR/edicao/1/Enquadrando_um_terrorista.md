@@ -96,40 +96,126 @@ Neste artigo, eu foquei em dois filmes recentes acerca do terrorismo islâmico q
 
 <a name="1"> 1. Walter Laqueur, _The Age of Terrorism_ (London: Weidenfeld and Nicolson, 1987),9.</a>
 
-<a name="2"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of
-European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University
-Press, 2000), 129.</a>
+<a name="2"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University Press, 2000), 129.</a>
 
-<a name="3"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
-Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
-(London: Profile Books, 2009), 99–101.</a>
+<a name="3"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth, Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence (London: Profile Books, 2009), 99–101.</a>
 
-<a name="4"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+<a name="4"> 4. Sobre os esteriótipos orientalistas, ver Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
 
 <a name="5"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
 
-<a name="6"></a>
+<a name="6"> 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach, ”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist Gaze 3.0 (London: Sage, 2011).</a>
+
+<a name="7"> 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press, 2000).</a>
+
+<a name="8"> 8. Há, contudo, excessões a este tópico, sobretudo na forma do “_dark tourism_.” Pessoas que realizam este tipo de turismo visitam locais alamitosos, normalmente por consequência dos conflitos coloniais. Entretanto, mesmo neste caso, as estratégias de embelezamento e homogeneização ainda existem. Sobre esta discussão, ver John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster (London: Continuum, 2000).</a>
+ 
+<a name="9"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press, 2004), 1.</a>
+
+<a name="10"> 10. Varon, Bringing the War Home, 2.</a>
+
+<a name="11"> 11. Nelson 2006; Bhabha 2006.</a>
+
+<a name="12"> 12. Eric Hobsbawm, Age of Extremes: The Short Twentieth Century 1914–1991 (Abacus:London, 1995), 403.</a>
+
+<a name="13"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
+Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
+(London: Profile Books, 2009), 99–101.</a>
+
+<a name="14"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+
+<a name="15"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+
+<a name="16"></a>
 
  6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
 ”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
 Gaze 3.0 (London: Sage, 2011).
 
-<a name="7"></a>
+<a name="17"></a>
 
  7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
 2000).
 
-<a name="8"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
+<a name="18"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
 People engaging in tourism of this kind visit places of atrocities, often caused by colonial
 conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
 homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
 John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
 (London: Continuum, 2000).</a>
  
-<a name="9"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and
+<a name="19"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and
 Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press,
 2004), 1.</a>
 
-<a name="10"> 10. Varon, Bringing the War Home, 2.</a>
+<a name="20"> 10. Varon, Bringing the War Home, 2.</a>
 
-<a name="11"> 11. Nelson 2006; Bhabha 2006.</a>
+<a name="21"> 11. Nelson 2006; Bhabha 2006.</a>
+
+<a name="22"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of
+European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University
+Press, 2000), 129.</a>
+
+<a name="23"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
+Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
+(London: Profile Books, 2009), 99–101.</a>
+
+<a name="24"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+
+<a name="25"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+
+<a name="26"></a>
+
+ 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
+”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
+Gaze 3.0 (London: Sage, 2011).
+
+<a name="27"></a>
+
+ 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
+2000).
+
+<a name="28"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
+People engaging in tourism of this kind visit places of atrocities, often caused by colonial
+conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
+homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
+John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
+(London: Continuum, 2000).</a>
+ 
+<a name="29"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and
+Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press,
+2004), 1.</a>
+
+<a name="30"> 10. Varon, Bringing the War Home, 2.</a>
+<a name="31"> 11. Nelson 2006; Bhabha 2006.</a>
+
+<a name="32"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of
+European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University
+Press, 2000), 129.</a>
+
+<a name="33"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
+Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
+(London: Profile Books, 2009), 99–101.</a>
+
+<a name="34"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+
+<a name="35"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+
+<a name="36"></a>
+
+ 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
+”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
+Gaze 3.0 (London: Sage, 2011).
+
+<a name="37"></a>
+
+ 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
+2000).
+
+<a name="38"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
+People engaging in tourism of this kind visit places of atrocities, often caused by colonial
+conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
+homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
+John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
+(London: Continuum, 2000).</a>
+ 

@@ -118,24 +118,17 @@ Neste artigo, eu foquei em dois filmes recentes acerca do terrorismo islâmico q
 
 <a name="12"> 12. Eric Hobsbawm, Age of Extremes: The Short Twentieth Century 1914–1991 (Abacus:London, 1995), 403.</a>
 
-<a name="13"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
-Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
-(London: Profile Books, 2009), 99–101.</a>
+<a name="13"> 13. Hobsbawm, Age of Extremes, 403; David Harvey, A Brief History of Neoliberalism (Oxford:
+Oxford University Press, 2005), 5–24.</a>
 
-<a name="14"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+<a name="14"> 14. Uma definição simples e compreensível do neoliberalismo é oferecida por David Harvey. Ele o descreve como "acumulação por expropriação." Tal acumulação é obtida por: (1) Privatização e comoditização de béns públicos, (2) financialização, na qual qualquer tipo de bem pode ser tornado instrumento da especulação econômica, (3) administração e manipulação de crises, e (4) redistribuição estatal, na qual o Estado se torna agente da redistribuição desigual da renda, inclusive com os países pobres subsidiando os ricos. Veja Harvey, _A Brief History of Neoliberalism_, 160–62.</a>
 
-<a name="15"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+<a name="15"> 15. Irmgard Emmelhainz, “From Th ird Worldism to Empire: Jean-Luc Godard and the Palestine
+Question,” Th ird Text, 5 (2009): 650</a>
 
-<a name="16"></a>
+<a name="16">16. Mike Wayne, Political Film: Th e Dialectics of Th ird Cinema (London: Pluto, 2001), 1.</a>
 
- 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
-”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
-Gaze 3.0 (London: Sage, 2011).
-
-<a name="17"></a>
-
- 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
-2000).
+<a name="17"> 17. Este mote usado como prefácio de um dos trabalhis semais sobre o Terceito Cinema, a coleção _Questions of Third Cinema_, vem das palavras de Teshome Gabriel:"A principal caracterítica do Terceiro Cinema não é a do local em que ele é feito, nem mesmo quem o fz, mas, ao contrário, a ideologia que ele expõe e as consequências de seus dispositivos." Veja o "prefácio" de Jim Pines ao _Questions of Th ird Cinema_, editado por Jim Pines e Paul Willemen (London: British Film Institute), vii. Também veja Paul Willemen, “The Third Cinema Question: Notes and Reflections,” no mesmo lívro</a>
 
 <a name="18"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
 People engaging in tourism of this kind visit places of atrocities, often caused by colonial
@@ -187,6 +180,7 @@ Revolutionary Violence in the Sixties and Seventies (Berkeley: University of Cal
 2004), 1.</a>
 
 <a name="30"> 10. Varon, Bringing the War Home, 2.</a>
+
 <a name="31"> 11. Nelson 2006; Bhabha 2006.</a>
 
 <a name="32"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of

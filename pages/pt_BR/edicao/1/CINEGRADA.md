@@ -27,14 +27,16 @@ O Cinegrada busca valorizar a identidade negra, dando visibilidade a diretores n
 
 As secções acontecem toda terceira quinta-feira do mês, dentro do Instituto Psiquiátrico Nise da Silveira, no Hotel da Loucura, uma das alas desativadas do instituto que é ocupada por diversos coletivos culturais, entre eles, o Crua. <font color="#a1caf1">(Quem é essa galera que está com vocês lá, pessoal?)</font>
 
-<font color="#ff7f50">* Sede da Universidade Popular de Arte e Ciência
-* Núcleo de Cultura, Ciência e Saúde 
-* Norte Comum
-* TV Caiçara
-* Vo Pixá Pelada
-* Nectar
-* CRUA
-* Teatro de DyoNise
+<font color="#ff7f50">
+
+ * Sede da Universidade Popular de Arte e Ciência
+ * Núcleo de Cultura, Ciência e Saúde 
+ * Norte Comum
+ * TV Caiçara
+ * Vo Pixá Pelada
+ * Nectar
+ * CRUA
+ * Teatro de DyoNise
 
 Você pode ver mais na página do Hotel da Loucura no facebook:
 

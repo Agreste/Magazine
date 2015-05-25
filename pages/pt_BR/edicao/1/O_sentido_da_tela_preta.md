@@ -1,5 +1,4 @@
 template: article.html
-background: /static/img/1/Orestes_Foto_Divulgacao.jpg
 title: O sentido da tela preta em Orestes de Rodrigo Siqueira
 
 ___Graziela Kunsch___

@@ -112,10 +112,10 @@ def page(path):
     page = pages.get_or_404(add_l10n_prefix(path))
 
     # Get custom template
-    template = page.meta.get('template', 'page.html')
-    title = page.meta.get('title', 'page.html')
+    template = page.meta.get('template', 'article.html')
+    title = page.meta.get('title', '')
     subtitle = page.meta.get('subtitle', '')
-    background_image =  page.meta.get('background', 'page.html')
+    background_image =  page.meta.get('background', '')
 
     # Verify if need redirect
     redirect_ = page.meta.get('redirect', None)

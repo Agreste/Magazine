@@ -6,7 +6,7 @@
     <meta name="description" content="{{ description }}">
     <link href="/static/css/article.css" rel="stylesheet">
 </head>
-<body class="background" style="background-image:url('{{ background_image }}');">
+<body class="background" {% if background_image %} style="background-image:url('{{ background_image }}');" {% endif %}>
 <div id="menu">
     <a href="/"><img src="/static/img/logo.svg"></a>
     <div id="art-menu">

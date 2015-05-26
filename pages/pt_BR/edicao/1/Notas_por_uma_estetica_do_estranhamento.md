@@ -4,9 +4,15 @@ title: Notas por uma estética do estranhamento
 
 ___Sebastian Wiedemann___
 
+
+<div align="right" style="display: inline-block; width: 100%; text-align: right;">
+<div style="width: 50%; float: right;" align="right">
 (Sempre que posso, escrevo -com- os filmes e não –sobre- eles.
 E neste caso, escrever um texto bem articulado seria a Lukas e seu estranhamento.)
+</div>
+</div>
 
+<div align="center">
 \*\
 O anômalo, o precário definem nossa contemporaneidade e mais ainda se se pertence aos dois terços do mundo que são excluídos. Ante tal estado de coisas só se pode ter um olhar de estranhamento, um que permita re-inventar e não re-(a)presentar, mas sim apresentar uma outra realidade, uma que seja fuga da já naturalizada.
 
@@ -43,3 +49,7 @@ Ser Lukas, ser estranho.
 Ser enigmático.
 
 Ser como a criança interior de Paul Klee. 
+
+![](/static/img/1/paul_klee.jpg)
+
+</div>

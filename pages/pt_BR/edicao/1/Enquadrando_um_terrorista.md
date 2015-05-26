@@ -35,7 +35,7 @@ O filme começa com uma voz _over_ de Godard que anuncia: "Este filme se chamava
 
 O começo transmite três aspectos da visão de Godard sobre o terrorismo, que são reiterados durante as demais partes do filme. Primeiro, ele se inscreve dentro do evento representado, opondo-se à postura de um observador objetivo e "desinteressado". Em segundo lugar, ele explicita a importância das relações temporais e geográficas na compreensão do terrorismo e, por extensão, de qualquer evento histórico. O terrorismo palestino afeta o que acontece na França e no resto do mundo e, ao mesmo tempo, as situações nos demais lugares influenciam a situação palestina. Turismo, terrorismo e colonialismo estão, assim, fortemente conectados.
 
-Da perspectiva dos protagonistas e realizadores de _Here and Elsewhere_, a situação em 1970 era bastante distinta daquela de 1974, pois entre estas datas ocorreu em Amã um massacre que devastou as esperanças palestinas por uma vitória rápida no conflito contra Israel.  Por essa razão, o filme do ano de 1974 não pode manter o título desejado em 1970. O diretor afirma que temos de avaliar nossa postura em relação ao momento em que um evento específico ocorreu pois os eventos subsequentes, o conhecimento acumulado com o tempo e outros diversos fatores adicionais podem acabar por alterar a nossa perspectiva. Esta opinião é reiterada posteriormente no filme, quando Godard diz com seu discreto e melancólico senso de humor: “Talvez, daqui a mil e uma noites, Sheherazade diga o contrário”. Sugere-se que apenas a mítica Sheherezade pode ter acesso à versão final de eventos; os humanos comuns só podem obter um conhecimento parcial e contingente sobre o passado. O terceiro aspecto do filme de Godard é sua insistência em que precisamos avaliar o terrorismo no contexto de outros tipos de violência — sobretudo a violência à qual os terroristas respondem e a qual suas ações podem levar. Se sugere que terrorismo e revolução ocorrem quando meios pacíficos de atingir objetivos políticos falham. Não se engajar no terrorismo/revolução, portanto, não garante o desaparecimento da violência, garante apenas que outros tipos de violência, como a institucionalizada exercida pelos Estados coloniais, permaneçam.
+Da perspectiva dos protagonistas e realizadores de _Here and Elsewhere_, a situação em 1970 era bastante distinta daquela de 1974, pois entre estas datas ocorreu em Amã um massacre que devastou as esperanças palestinas por uma vitória rápida no conflito contra Israel.[[18]](#18) Por essa razão, o filme do ano de 1974 não pode manter o título desejado em 1970. O diretor afirma que temos de avaliar nossa postura em relação ao momento em que um evento específico ocorreu pois os eventos subsequentes, o conhecimento acumulado com o tempo e outros diversos fatores adicionais podem acabar por alterar a nossa perspectiva. Esta opinião é reiterada posteriormente no filme, quando Godard diz com seu discreto e melancólico senso de humor: “Talvez, daqui a mil e uma noites, Sheherazade diga o contrário”. Sugere-se que apenas a mítica Sheherezade pode ter acesso à versão final de eventos; os humanos comuns só podem obter um conhecimento parcial e contingente sobre o passado. O terceiro aspecto do filme de Godard é sua insistência em que precisamos avaliar o terrorismo no contexto de outros tipos de violência — sobretudo a violência à qual os terroristas respondem e a qual suas ações podem levar. Se sugere que terrorismo e revolução ocorrem quando meios pacíficos de atingir objetivos políticos falham. Não se engajar no terrorismo/revolução, portanto, não garante o desaparecimento da violência, garante apenas que outros tipos de violência, como a institucionalizada exercida pelos Estados coloniais, permaneçam.
 
 Godard não esconde o fato de que ele está do lado dos insurrecionistas palestinos e quer que os espectadores compartilhem desta posição. O principal meio para este fim é a montagem. Seguindo a tradição marcada pelo trabalho de Walter Benjamin e pelos realizadores da vanguarda soviética, como Dziga Vertov e Sergei Eisenstein, Godard argumenta que a montagem intelectual (descontínua) nos permite ver relações obscurecidas pela ideologia e suplantar nossa ignorância (que também pode ser considerada como efeito de uma ideologia hegemônica). Neste caso, o massacre de Amã é comparado ao Holocausto, através da justaposição de fotografias de palestinos mortos com a de prisioneiros mortos em campos de concentração nazistas[[19]](#19). 
 
@@ -98,118 +98,79 @@ Neste artigo, eu foquei em dois filmes recentes acerca do terrorismo islâmico q
 
 <a name="2"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University Press, 2000), 129.</a>
 
-<a name="3"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth, Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence (London: Profile Books, 2009), 99–101.</a>
+<a name="3"> 3. Dipak H. Gupta, _Understanding Terrorism and Political Violence: The Life Cycle of Birth, Growth, Transformation, and Demise_ (London: Routledge, 2008), 6; Slavoj Žižek, _Violence_ (London: Profile Books, 2009), 99–101.</a>
 
-<a name="4"> 4. Sobre os esteriótipos orientalistas, ver Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+<a name="4"> 4. Sobre os esteriótipos orientalistas, ver Edward W. Said, _Orientalism_ (London: Penguin, 2003 [1978]).</a>
 
-<a name="5"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+<a name="5"> 5. Elizabeth Ezra and Terry Rowden, eds., _Transnational Cinema: The Film Reader_ (London: Routledge, 2006).</a>
 
-<a name="6"> 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach, ”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist Gaze 3.0 (London: Sage, 2011).</a>
+<a name="6"> 6. Patricia C. Albers and William R. James, _Travel Photography: A Methodological Approach_, _Annals of Tourism Research_, no. 15 (1988): 134–58; John Urry and Jonas Larsen, _The Tourist Gaze 3.0_ (London: Sage, 2011).</a>
 
-<a name="7"> 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press, 2000).</a>
+<a name="7"> 7. Michael Hardt and Antonio Negri, _Empire_ (Cambridge Mass.: Harvard University Press, 2000).</a>
 
 <a name="8"> 8. Há, contudo, excessões a este tópico, sobretudo na forma do “_dark tourism_.” Pessoas que realizam este tipo de turismo visitam locais alamitosos, normalmente por consequência dos conflitos coloniais. Entretanto, mesmo neste caso, as estratégias de embelezamento e homogeneização ainda existem. Sobre esta discussão, ver John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster (London: Continuum, 2000).</a>
  
-<a name="9"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press, 2004), 1.</a>
+<a name="9"> 9. Jeremy Varon, _Bringing the War Home: The Weather Underground, The Red Army Faction, and Revolutionary Violence in the Sixties and Seventies_ (Berkeley: University of California Press, 2004), 1.</a>
 
-<a name="10"> 10. Varon, Bringing the War Home, 2.</a>
+<a name="10"> 10. Varon, _Bringing the War Home_, 2.</a>
 
 <a name="11"> 11. Nelson 2006; Bhabha 2006.</a>
 
-<a name="12"> 12. Eric Hobsbawm, Age of Extremes: The Short Twentieth Century 1914–1991 (Abacus:London, 1995), 403.</a>
+<a name="12"> 12. Eric Hobsbawm, _Age of Extremes: The Short Twentieth Century 1914–1991_ (Abacus:London, 1995), 403.</a>
 
-<a name="13"> 13. Hobsbawm, Age of Extremes, 403; David Harvey, A Brief History of Neoliberalism (Oxford:
+<a name="13"> 13. Hobsbawm, _Age of Extremes_, 403; David Harvey, _A Brief History of Neoliberalism_ (Oxford:
 Oxford University Press, 2005), 5–24.</a>
 
 <a name="14"> 14. Uma definição simples e compreensível do neoliberalismo é oferecida por David Harvey. Ele o descreve como "acumulação por expropriação." Tal acumulação é obtida por: (1) Privatização e comoditização de béns públicos, (2) financialização, na qual qualquer tipo de bem pode ser tornado instrumento da especulação econômica, (3) administração e manipulação de crises, e (4) redistribuição estatal, na qual o Estado se torna agente da redistribuição desigual da renda, inclusive com os países pobres subsidiando os ricos. Veja Harvey, _A Brief History of Neoliberalism_, 160–62.</a>
 
-<a name="15"> 15. Irmgard Emmelhainz, “From Th ird Worldism to Empire: Jean-Luc Godard and the Palestine
-Question,” Th ird Text, 5 (2009): 650</a>
+<a name="15"> 15. Irmgard Emmelhainz, _From Th ird Worldism to Empire: Jean-Luc Godard and the Palestine
+Question,_ Third Text, 5 (2009): 650</a>
 
-<a name="16">16. Mike Wayne, Political Film: Th e Dialectics of Th ird Cinema (London: Pluto, 2001), 1.</a>
+<a name="16">16. Mike Wayne, _Political Film: The Dialectics of Third Cinema_ (London: Pluto, 2001), 1.</a>
 
 <a name="17"> 17. Este mote usado como prefácio de um dos trabalhis semais sobre o Terceito Cinema, a coleção _Questions of Third Cinema_, vem das palavras de Teshome Gabriel:"A principal caracterítica do Terceiro Cinema não é a do local em que ele é feito, nem mesmo quem o fz, mas, ao contrário, a ideologia que ele expõe e as consequências de seus dispositivos." Veja o "prefácio" de Jim Pines ao _Questions of Th ird Cinema_, editado por Jim Pines e Paul Willemen (London: British Film Institute), vii. Também veja Paul Willemen, “The Third Cinema Question: Notes and Reflections,” no mesmo lívro</a>
 
-<a name="18"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
-People engaging in tourism of this kind visit places of atrocities, often caused by colonial
-conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
-homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
-John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
-(London: Continuum, 2000).</a>
+<a name="18"> 18. Este massacre, ocorrido em setembro de 1970, é conhecido como _Black September_. Foi o mês em que o rei Hussein da Jordânia reprimiu a militância das organizações palestinas e restaurou a monarquia em todo o país. A violência deste ato resultou na morte de milhares de pessoas, em sua maioria Palestinos. O conflito armado durou até Júlho de 1971 com a expulsão das organizações palestinas e de milhares de guerreiros palestinos ao líbano. Para maiores informações, veja 
+David Raab, Terror in Black September: The First Eyewitness Account of the Infamous 1970 Hijackings (New York: Palgrave Macmillan, 2007).</a>
  
-<a name="19"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and
-Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press,
-2004), 1.</a>
+<a name="19"> 19. Godard explicou suas ideias sobre a montagem em diversas ocasiões, comparando a montagem com a forma com que as pessoas fazem conexões entre coisas distantes e aparentemente diferentes. Compare, por exemplo, Godard, segundo a citação em Alain Bergala, ed., _Jean-Luc Godard par Jean-Luc Godard, 1984–1998_, [tome 2] (Paris: Cahiers du cinéma, 1998), 242; Alan Wright, "Elizabeth Taylor at Auschwitz: JLG and the Real Object of Montage," in _The Cinema Alone: Essays on the Work of Jean-Luc Godard 1985–2000_, eds. Michael Temple and James S. Williams (Amsterdam: Amsterdam University Press, 2000), 56. A receita de Godard, embora independente de Godard, foi seguida por Slavoj Žižek, quem em seu livro _Violence_ (London: Profile Books, 2009), tenta olhar o terrorismo no sentido defendido pelo diretor Francês, através de continentes, épocas e culturas, para descobrir o que causa vilência e como ela se espalha zombando com as tentativas decontextualizar o terrorismo, concentrando-se em sua violência.</a>
 
-<a name="20"> 10. Varon, Bringing the War Home, 2.</a>
+<a name="20"> 20. Harvey, _A Brief History of Neoliberalism_, 160–62</a>
 
-<a name="21"> 11. Nelson 2006; Bhabha 2006.</a>
+<a name="21"> 21.  Michael Hardt and Antonio Negri, _Empire_.</a>
 
-<a name="22"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of
-European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University
-Press, 2000), 129.</a>
+<a name="22"> 22. Eric Hobsbawm, _Globalisation, Democracy and Terrorism_ (London: Abacus, 2007).</a>
 
-<a name="23"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
-Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
-(London: Profile Books, 2009), 99–101.</a>
+<a name="23"> 23.  Samuel P. Huntington, _The Clash of Civilizations: And the Remaking of World Order_ (London: Th   e Free Press, 2002).</a>
 
-<a name="24"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+<a name="24"> 24. Oliver Wright, “Baroness Warsi: Fewer than one in four people believe Islam is compatible with British way of life,” _The Independent_, 24 de Janeiro, 2013, acesso em 24 de abril de 2013, www.independent.co.uk/news/uk/home-news/baroness-warsi-fewer-than-one-in-four-people-believe-islam-is-compatible-with-british-way-of-life-8464026.html.</a>
 
-<a name="25"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+<a name="25"> 25.  Matthew Odam, “Interview: Chris Morris, director of Four Lions,” 4 de Novembro de 2010, acesso em 24 de abril de 2013, http://mo.austin360.com/blogs/content/shared-gen/blogs/austin/mo/entries/2010/11/04/did_you_hear_the_one.html</a>
 
-<a name="26"></a>
+<a name="26"> 26. _Ibid._</a>
 
- 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
-”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
-Gaze 3.0 (London: Sage, 2011).
+<a name="27"> 27.  Chris Morris, “The absurd world of Martin Amis,” _The Observer_, 25 de novembro de 2007, Acesso 26 de abril de 2013, www.guardian.co.uk/commentisfree/2007/nov/25/bookscomment.religion; Nick Fraser, “Four Lions: How satirist Chris Morris fixed his eye on ideology and bombers,” _The Observer_, 24 de janeiro de 2010, acesso 25 de abril de 2013, www.guardian.co.uk/uk/2010/jan/24/chris-morris-four-lions.</a>
 
-<a name="27"></a>
-
- 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
-2000).
-
-<a name="28"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
-People engaging in tourism of this kind visit places of atrocities, often caused by colonial
-conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
-homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
-John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
-(London: Continuum, 2000).</a>
+<a name="28"> 28. Matthew Odam, “Interview.”</a>
  
-<a name="29"> 9. Jeremy Varon, Bringing the War Home: The Weather Underground, The Red Army Faction, and
-Revolutionary Violence in the Sixties and Seventies (Berkeley: University of California Press,
-2004), 1.</a>
+<a name="29"> 29. _Nota do tradutor:_ No original: "puffin".</a>
 
-<a name="30"> 10. Varon, Bringing the War Home, 2.</a>
+<a name="30"> 30. Edward W. Said, _Orientalism_ (London: Penguin, 2003 [1978]), 21.</a>
 
-<a name="31"> 11. Nelson 2006; Bhabha 2006.</a>
+<a name="31"> 31. De modo similar, um campo de treinamento terrorista também é representado em _Der Baader Meinhof Komplex_ (Uli Edel, DE,2008).</a>
 
-<a name="32"> 2. Stefan Wolff , _“The fictionalisation of terrorism in West German cinema”_, in 100 Years of
-European Cinema, eds. Diana Holmes and Alison Smith (Manchester: Manchester University
-Press, 2000), 129.</a>
+<a name="32"> 32. Henrik Pedersen, “Terror on the stage: the German ‘Red Army Faction’ (RAF) as political performance.” in _Violence, Culture and Identity: Essays on German and Austrian Literature, Politics and Society_, ed. Helen Chambers (Oxford: Peter Lang, 2006), 327–42.</a>
 
-<a name="33"> 3. Dipak H. Gupta, Understanding Terrorism and Political Violence: The Life Cycle of Birth,
-Growth, Transformation, and Demise (London: Routledge, 2008), 6; Slavoj Žižek, Violence
-(London: Profile Books, 2009), 99–101.</a>
+<a name="33"> 33. John S. Nelson, “Four Forms for Terrorism: Horror, Dystopia, Thriller and Noir,” in _Transnational Cinema: Th   e Film Reader_, eds. Elizabeth Ezra and Terry Rowden (London: Routledge, 2006), 169–80.</a>
 
-<a name="34"> 4. On Orientalist stereotype, see Edward W. Said, Orientalism (London: Penguin, 2003 [1978]).</a>
+<a name="34"> 34.  Ian Traynor, “Poland admits role in CIA rendition programme,” _The Guardian_, 22 de fevereiro de 2010, acesso em 26 de maio de 2012, www.guardian.co.uk/world/2010/feb/22/poland-cia-rendition-flights; Krzysztof Kłopotowski, “Serce artysty, a rozum?” _Salon 24: Niezależne forum publicystów_ (2010), acesso em 17 de maio de 2012, http://klopotowski.salon24.pl/242595,serce-artysty-a-rozum. O incidente do afogamento [_waterboarding_] remete a _Le Petit soldat_ ( Jean-Luc Godard, FR, 1963) no qual tal tortura é mostrada.</a>
 
-<a name="35"> 5. Elizabeth Ezra and Terry Rowden, eds., Transnational Cinema: The Film Reader (London: Routledge, 2006).</a>
+<a name="35"> 35. Jakob Ladegaard, “On the Frontier of Politics: Ideology and the Western in Jerzy Skolimowski’s Essential Killing and Jim Jarmusch’s Dead Man,” _Studies in Eastern European Cinema_, 2 (2013): 190–94.</a>
 
-<a name="36"></a>
+<a name="36"> 36. Cavalos brancos eram usados extensivamente nos filmes pertencentes ao Polish School cycle, como _Lotna_ (1959) e _Popiół i diament_ (Andrzej Wajda, PL, 1957).</a>
 
- 6. Patricia C. Albers and William R. James, “Travel Photography: A Methodological Approach,
-”Annals of Tourism Research, no. 15 (1988): 134–58; John Urry and Jonas Larsen, The Tourist
-Gaze 3.0 (London: Sage, 2011).
+<a name="37"> 37. Giorgio Agamben, _Homo Sacer: Sovereign Power and Bare Life_, trans. Daniel Heller-Roazen (Stanford: Stanford University Press, 1998).</a>
 
-<a name="37"></a>
+<a name="38"> 38. Jakob Ladegaard, “On the Frontier of Politics,” 186–87.</a>
 
- 7. Michael Hardt and Antonio Negri, Empire (Cambridge Mass.: Harvard University Press,
-2000).
-
-<a name="38"> 8. There are, however, exceptions to this trend, most importantly in the form of “dark tourism.”
-People engaging in tourism of this kind visit places of atrocities, often caused by colonial
-conflicts. However, even in the case of “dark tourism,” the strategies of beautification and
-homogenisation are still in use. On the discussion of the phenomenon of “dark tourism,” see
-John Lennon and Malcolm Foley, eds., Dark Tourism: The Attraction of Death and Disaster
-(London: Continuum, 2000).</a>
- 
+<a name="39"> 39. Krzysztof Kłopotowski, “Serce artysty, a rozum?”</a>

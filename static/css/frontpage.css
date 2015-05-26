@@ -30,7 +30,7 @@ h2 {
 }
 
 .background {
-    background-image: url('/static/img/frontpage.png');
+    background-image: url('/static/img/frontpage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

@@ -2,7 +2,7 @@ template: article.html
 background: /static/img/1/indigena.jpg
 title: "Cinemas Indígenas e Trânsitos da Representação"
 
-___Fábio Ramalho___
+___Caio Lazaneo___
 
 ## Um olhar(es)
 

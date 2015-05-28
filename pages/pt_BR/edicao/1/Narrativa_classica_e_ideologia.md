@@ -12,7 +12,7 @@ A identificação do uso do método da narrativa clássica em um filme, signific
 As bases da narrativa clássica no cinema e sua consolidação de produção em escala industrial ocorrem na década de 20 do século XX, mas o período que a antecede é referente à invenção do cinema, momento essencial para compreender de forma clara que “a linguagem do cinema não tem nada de natural nem de eterna, ela tem uma história e é produzida pela história” (BURCH, 1987, p.16). Para tanto é necessário
 realizar uma breve passagem pelo contexto dos primeiros filmes, que surgiram no final do século XIX e foram difundidos em espaços de diversão popular como circos, quermesses, museu de cera e de aberrações.
 
->Mas foi nas casas de variedades (que, para efeito de simplificação, vamos chamar genericamente de vaudevilles[[3]](#3)), em pleno apogeu na virada do século,
+>Mas foi nas casas de variedades (que, para efeito de simplificação, vamos chamar genericamente de _vaudevilles_[[3]](#3)), em pleno apogeu na virada do século,
 que o cinema floresceu com maior vigor. Eram locais bastante populares e também um tanto mal-afamados por causa da atmosfera plebeia e do “baixo nível” dos espetáculos burlescos ali encenados. (MACHADO, 1997, p.78)
 
 Os primeiros filmes eram constituídos de apenas um plano de imagem (o termo plano é aqui utilizado em relação ao processo que compreende o início e o fim da gravação em uma única extensão de imagem) com a câmera posicionada, na maioria dos casos, em relação frontal à cena, reproduzindo o ângulo de visão do espectador sentado no centro da plateia do teatro. Posteriormente, nos filmes que articulavam mais de um plano, as cenas eram filmadas em plano geral com simultaneidade de acontecimentos e, em muitos filmes, os atores e atrizes se dirigiam diretamente ao espectador, quebrando o recurso realista do uso da quarta parede. Os filmes apresentavam gags, aberrações, paisagens, quadros vivos, situações burlescas, perseguições, lutas, ilustrações da paixão de Cristo, etc.
@@ -38,36 +38,35 @@ Tendo os empresários encontrado no cinema as características técnicas adequad
 
 >Ganhar um público mais sério e mais sofisticado: Como conseguir isso? Estava claro que o cinema deveria começar a perder a inocência, a sua gratuidade, a sua libertinagem e encaixar-se na linha de evolução das artes “elevadas”, tal como a entendia os homens de cinema da época, fossem eles realizadores ou comerciantes. [...] O que se deve fazer então? O modelo que se apresentou com maior naturalidade e ao qual a maioria dos realizadores se agarrou foi aquele dado pelo romance e pelo teatro oitocentista O cinema tinha de aprender a contar uma história, armar um conflito e pô-lo a desafiar-se em acontecimentos lineares, encarnar esse enredo em personagens nitidamente individualizados e dotados de densidade psicológica.(MACHADO, 1997, p. 83-84).
 
-É neste contexto que o cineasta D.W.Griffith passa a despontar como diretor de filmes da produtora Biograph, dos E.U.A. Ele é quem melhor realiza a junção de procedimentos do discurso cinematográfico com pressupostos da narrativa linear. Griffith, de início, se destaca por seus filmes de montagem paralela, onde duas ações ocorrem simultaneamente em espaços separados. A montagem intercala as ações, criando suspense para o desfecho que, em sua maioria, é de ordem moral. Dentro das fábulas morais, Griffith realiza em março de 1909 A Drunkard’s Reformation (A regeneração do alcoólatra), onde um pai alcoólatra leva sua filha ao teatro e assiste a uma peça que reproduz sua experiência: um marido bêbado bate em sua esposa diante da filha. Adaptando a montagem paralela para um mesmo espaço, Griffith passa a alternar cenas do palco com expressões do homem da plateia, estabelecendo uma lógica de causa-ação e efeito-reação. Ao final da peça o homem se regenera e leva tranquilidade ao lar (MACHADO, 1997; XAVIER, 1984). Esse procedimento chamado de campo/contracampo se tornará um dos fundamentos do cinema clássico, a encenação deixa de ser filmada do ponto de vista frontal e o espectador passa a acompanhar
-internamente as reações dos personagens, vê o que ele olha e enxerga com maior proximidade suas reações frente aos fatos, o que propicia a identificação com os personagens. Ismail Xavier em seu estudo sobre o filme de Griffith A Drunkard’s Reformation, destaca a relação entre linguagem e contexto social. “Mesmo atentos à linguagem, devemos reconhecer que ética puritana e invenção cinematográfica andaram juntas e ganhamos em precisão ao verificar como o próprio Griffith explicita os dados do jogo no filme.” (XAVIER, 1984, p.19). Arlindo Machado ao comentar o mesmo filme complementa: “o cinema descobre, enfim, a sua produtividade narrativa, ao mesmo tempo em que efetiva a sua função moralista e regeneradora dentro da sociedade”. (MACHADO, 1997, p.145)
+É neste contexto que o cineasta D.W.Griffith passa a despontar como diretor de filmes da produtora Biograph, dos E.U.A. Ele é quem melhor realiza a junção de procedimentos do discurso cinematográfico com pressupostos da narrativa linear. Griffith, de início, se destaca por seus filmes de montagem paralela, onde duas ações ocorrem simultaneamente em espaços separados. A montagem intercala as ações, criando suspense para o desfecho que, em sua maioria, é de ordem moral. Dentro das fábulas morais, Griffith realiza em março de 1909 _A Drunkard’s Reformation_ (A regeneração do alcoólatra), onde um pai alcoólatra leva sua filha ao teatro e assiste a uma peça que reproduz sua experiência: um marido bêbado bate em sua esposa diante da filha. Adaptando a montagem paralela para um mesmo espaço, Griffith passa a alternar cenas do palco com expressões do homem da plateia, estabelecendo uma lógica de causa-ação e efeito-reação. Ao final da peça o homem se regenera e leva tranquilidade ao lar (MACHADO, 1997; XAVIER, 1984). Esse procedimento chamado de campo/contracampo se tornará um dos fundamentos do cinema clássico, a encenação deixa de ser filmada do ponto de vista frontal e o espectador passa a acompanhar internamente as reações dos personagens, vê o que ele olha e enxerga com maior proximidade suas reações frente aos fatos, o que propicia a identificação com os personagens. Ismail Xavier em seu estudo sobre o filme de Griffith _A Drunkard’s Reformation_, destaca a relação entre linguagem e contexto social. “Mesmo atentos à linguagem, devemos reconhecer que ética puritana e invenção cinematográfica andaram juntas e ganhamos em precisão ao verificar como o próprio Griffith explicita os dados do jogo no filme.” (XAVIER, 1984, p.19). Arlindo Machado ao comentar o mesmo filme complementa: “o cinema descobre, enfim, a sua produtividade narrativa, ao mesmo tempo em que efetiva a sua função moralista e regeneradora dentro da sociedade”. (MACHADO, 1997, p.145)
 
 A partir de 1910, Griffith passa a sedimentar os fundamentos do cinema narrativo que vai ser dominante na indústria, ou seja, a narrativa clássica. A solidificação dessa narrativa é um fato cultural, que tem suas bases na concepção política e econômica de seus investidores, com isso não pode ser diretamente relacionada a preferência do gosto de público. Griffith foi quem melhor organizou a dinâmica dessa linguagem dentre tantos cineastas que também trabalhavam em prol de sua criação. No entanto, desde sua consolidação o método clássico já encontrava oposição de cineastas russos, como Vertov e Eisenstein, de surrealistas e teóricos franceses.
 
-Griffith, que tem seu ponto alto no cinema com os longas metragens O nascimento de uma nação (1915) e Intolerância (1916), é chamado popularmente de “pai do cinema”, talvez por ter sido o diretor central no processo de “salvar” o cinema dos recantos proletários e contribuir com a linguagem que fez do cinema um produto industrial, economicamente rentável e comparado às “belas artes”, como apontam os dois pesquisadores brasileiros, Arlindo Machado e Ismail Xavier.
+Griffith, que tem seu ponto alto no cinema com os longas metragens _O nascimento de uma nação_ (1915) e _Intolerância_ (1916), é chamado popularmente de “pai do cinema”, talvez por ter sido o diretor central no processo de “salvar” o cinema dos recantos proletários e contribuir com a linguagem que fez do cinema um produto industrial, economicamente rentável e comparado às “belas artes”, como apontam os dois pesquisadores brasileiros, Arlindo Machado e Ismail Xavier.
 
->Aos poucos, Griffith vai se dando conta de que a aparência naturalista do filme está fundada numa habilidade de dissimular a descontinuidade e a fragmentação geradas pela montagem. Na verdade, só nos anos 20 as regras do raccord com continuidade serão plenamente estabelecidas, quando então os cineastas (sobretudo em Hollywwod) começarão a ver como “problemas” coisas como a quebra do eixo da câmera, a inversão dos movimentos, o corte com quebra da continuidade da ação ou da direção dos olhares etc. (MACHADO, 1997, p.146).
+>Aos poucos, Griffith vai se dando conta de que a aparência naturalista do filme está fundada numa habilidade de dissimular a descontinuidade e a fragmentação geradas pela montagem. Na verdade, só nos anos 20 as regras do _raccord_ com continuidade serão plenamente estabelecidas, quando então os cineastas (sobretudo em Hollywwod) começarão a ver como “problemas” coisas como a quebra do eixo da câmera, a inversão dos movimentos, o corte com quebra da continuidade da ação ou da direção dos olhares etc. (MACHADO, 1997, p.146).
 
 
 Xavier, inclusive, reforça a relação desse cinema particular, o cinema clássico, com o contexto dos Estados Unidos em que viveu Griffith:
 
 >Os Estados Unidos da “era do progresso”, do domínio da natureza, das invenções e do festival de novas patentes que enreda o avanço tecnológico e vida cotidiana [...] Griffith cresce para mesclar, a seu modo, província e técnica, religião e pragmatismo, no momento em que o país das utopias agrárias e das comunidades religiosas mergulha decisivamente no capitalismo industrial, consagrando a competição como norma, a vivência do tempo como corrida e controle.
->É comum o historiador dizer que, neste particular, os norte-americanos tiveram uma experiência inaugural na história, o time is money e a obsessão com o uso do tempo marcando-se em termos de cinema, induz a apontar esta nova experiência como responsável pelo desenvolvimento da montagem acelerada e pela presença do “homem de ação”, competitivo, nos filmes – marcas características do cinema que Griffith ajudou a construir. (XAVIER, 1984, p. 24-25).
+>É comum o historiador dizer que, neste particular, os norte-americanos tiveram uma experiência inaugural na história, o _time is money_ e a obsessão com o uso do tempo marcando-se em termos de cinema, induz a apontar esta nova experiência como responsável pelo desenvolvimento da montagem acelerada e pela presença do “homem de ação”, competitivo, nos filmes – marcas características do cinema que Griffith ajudou a construir. (XAVIER, 1984, p. 24-25).
 
 Peter Szondi ao comentar a dialética de Hegel, destaca a relação forma-conteúdo, onde “o conteúdo não é nada mais que a conversão da forma em conteúdo, e a forma não é nada mais que a conversão do conteúdo em forma” (SZONDI, 2001, p.24). Segundo ele, trabalhar com a identificação da narrativa clássica tem por base entender, em sua forma, suas propriedades significativas e colocá-la não numa categoria sistemática, mas numa categoria histórica.
 
-Com esse breve contexto do início da construção da narrativa clássica, me dedico agora a organizar alguns pontos que caracterizam objetivamente esse estilo de narrativa. Ismail Xavier apresenta uma síntese do cinema clássico que se estrutura na tríade representação naturalista / decupagem clássica / mecanismo de identificação. 
+Com esse breve contexto do início da construção da narrativa clássica, me dedico agora a organizar alguns pontos que caracterizam objetivamente esse estilo de narrativa. Ismail Xavier apresenta uma síntese do cinema clássico que se estrutura na _tríade representação naturalista / decupagem clássica / mecanismo de identificação_. 
 
 Em relação à representação naturalista, Xavier não cria uma relação direta com o estilo literário que tem em Emile Zola seu principal autor. Existem pontos de contato, mas sua concepção em relação ao cinema se refere à:
 
->[...] construção de espaço cujo esforço se dá na direção de uma reprodução fiel das aparências imediatas do mundo físico, e a interpretação dos atores que busca uma reprodução fiel do comportamento humano, através de movimentos e reações “naturais”. Num sentido mais geral, refiro-me ao principio que está por trás das construções do sistema descrito: o estabelecimento da ilusão de que a plateia está em contato direto com o mundo representado, sem mediações, como se todos os aparatos de linguagem utilizados constituíssem um dispositivo transparente (o discurso como natureza).(XAVIER, 1997, p. 31-32, grifo nosso.)
+>[...] construção de espaço cujo esforço se dá na direção de <u>uma reprodução fiel das aparências imediatas do mundo físico, e a interpretação dos atores que busca uma reprodução fiel do comportamento humano, através de movimentos e reações “naturais”.</u> Num sentido mais geral, refiro-me ao principio que está por trás das construções do sistema descrito: o estabelecimento da ilusão de que a plateia está em contato direto com o mundo representado, sem mediações, como se todos os aparatos de linguagem utilizados constituíssem um dispositivo transparente (o discurso como natureza).(XAVIER, 1997, p. 31-32, _grifo nosso_.)
 
 Gostaria de chamar a atenção ao tipo de representação naturalista que Ismail Xavier destaca como referência do cinema identificado com a classe dominante; a história do naturalismo, assim como a da linguagem do cinema, tem seus conflitos e sua construção cultural. O naturalismo em seu início tinha como objetivo mostrar que as pessoas sãoseres sociais e com isso inseparáveis de seu ambiente físico e social.
 
 >Como um movimento contra as versões idealistas da experiência humana, nas quais as pessoas agem sob a providência divina ou movidas por uma natureza humana inata, ou ainda dentro de normas eternas e imateriais, o naturalismo insistia em que as ações seriam sempre especificamente contextuais e materiais. (WILLIANS, 2011, p.118)
 
-A representação naturalista adotada pelo cinema industrial não tinha como objetivo explorar as formações e desenvolvimentos da vida (que compunha o projeto do que Willians chama de naturalismo real), mas ser uma reprodução com aparências imediatas da realidade e destacar o comportamento humano como natural, criando histórias idealizadas e estereotipadas.
+A representação naturalista adotada pelo cinema industrial não tinha como objetivo explorar as formações e desenvolvimentos da vida (que compunha o projeto do que Willians chama de naturalismo real), mas ser uma reprodução com _aparências imediatas_ da realidade e destacar o comportamento humano como _natural_, criando histórias idealizadas e estereotipadas.
 
-Em relação à decupagem clássica, tomamos por base o texto Práxis do Cinema de Noel Burch, que tem uma acepção de decupagem como a própria feitura do filme.
+Em relação à decupagem clássica, tomamos por base o texto _Práxis do Cinema_ de Noel Burch, que tem uma acepção de decupagem como a própria feitura do filme.
 
 >Do ponto de vista formal, um filme é uma sucessão de pedaços de tempo e de pedaços de espaço. A decupagem é então a resultante, a convergência de um corte no espaço, executado no momento da filmagem, e de uma decupagem no tempo, entrevista em parte na filmagem, mas arrematada apenas na montagem. É através dessa noção dialética que se pode definir (e, portanto analisar) a feitura própria de um filme, seu resultado essencial. (BURCH, 2006, p.24)
 
@@ -104,7 +103,7 @@ Nesse inventário verifica-se a possibilidade de quinze relações entre o plano
 
 >O mecanismo de identificação resulta da combinação da representação naturalista com a decupagem clássica que forja ao cinema uma aparência de realidade, mas tem no chamado campo/contracampo o procedimento chave num cinema dramático construído dentro dos princípios da identificação (XAVIER, 1977, p.26)
 
-Para encerrar essa breve identificação do cinema clássico, é importante retomar que, no cinema, a narrativa clássica vem da incorporação de procedimentos da literatura e do teatro do século XVIII, sobretudo do que diz respeito ao gênero do drama que “resulta do fato de ele ter sua origem na consciência de classe da burguesia” (CARVALHO, 2007, p.08 in Prefácio SZONDI, 2007). No apontamento de Szondi, no livro Teoria do drama moderno, sobre os traços essenciais do drama é possível perceber pontos de contato direto com a linguagem clássica do cinema (incorporado pela indústria) como o resultado de seu aburguesamento, a característica primordial do drama é seu caráter absoluto, um gênero fechado em si mesmo, que apresenta cinco características:
+Para encerrar essa breve identificação do cinema clássico, é importante retomar que, no cinema, a narrativa clássica vem da incorporação de procedimentos da literatura e do teatro do século XVIII, sobretudo do que diz respeito ao gênero do drama que “resulta do fato de ele ter sua origem na consciência de classe da burguesia” (CARVALHO, 2007, p.08 in Prefácio SZONDI, 2007). No apontamento de Szondi, no livro _Teoria do drama moderno_, sobre os traços essenciais do drama é possível perceber pontos de contato direto com a linguagem clássica do cinema (incorporado pela indústria) como o resultado de seu aburguesamento, a característica primordial do drama é seu caráter absoluto, um gênero fechado em si mesmo, que apresenta cinco características:
 a) Deve ser desligado de tudo o que lhe é externo, ele não conhece nada além de si;
 b) O dramaturgo está ausente no drama, ele não fala, ele institui a conversação;
 c) Em relação ao espectador, assim como a fala dramática não é expressão do autor, tampouco é uma alocução dirigida ao público;
@@ -124,7 +123,7 @@ De acordo com Xavier, para além da linguagem ou do suporte técnico, é a rela�
 
 >Tudo neste cinema caminha em direção ao controle total da realidade criada pelas imagens – tudo composto, cronometrado e previsto. Ao mesmo tempo, tudo aponta para a invisibilidade dos meios de produção desta realidade. Em todos os níveis, a palavra de ordem é “parecer verdadeiro”, montar um sistema de representação que procura anular a sua presença como trabalho de representação.” (XAVIER, 1977, p. 31)
 
-O cinema clássico teve sua fase de maior hegemonia no período de 1920 a 1950, o que não significa que sua linguagem seja um procedimento do passado. Na edição de 1984 do livro O Discurso cinematográfico – a opacidade e a transparência, Ismail Xavier incorpora um pequeno acréscimo chamado Apêndice 1984, onde evidencia que o cinema clássico, apesar de modificado ao longo dos anos, ainda se apresenta como a linguagem hegemônica do cinema representante da indústria cultural. “Pela via da sofisticação tecnológica, o cinema industrial dominante se recupera, revive até grandes sucessos dos bons tempos num momento em que a crise geral do mercado dá menos espaço ainda ao que se convencionou chamar alternativo.” (XAVIER, 1984, p.173). Mais adiante o autor coloca na ordem do dia a necessidade de revigorar a crítica ao cinema clássico:
+O cinema clássico teve sua fase de maior hegemonia no período de 1920 a 1950, o que não significa que sua linguagem seja um procedimento do passado. Na edição de 1984 do livro _O Discurso cinematográfico – a opacidade e a transparência_, Ismail Xavier incorpora um pequeno acréscimo chamado _Apêndice 1984_, onde evidencia que o cinema clássico, apesar de modificado ao longo dos anos, ainda se apresenta como a linguagem hegemônica do cinema representante da indústria cultural. “Pela via da sofisticação tecnológica, o cinema industrial dominante se recupera, revive até grandes sucessos dos bons tempos num momento em que a crise geral do mercado dá menos espaço ainda ao que se convencionou chamar alternativo.” (XAVIER, 1984, p.173). Mais adiante o autor coloca na ordem do dia a necessidade de revigorar a crítica ao cinema clássico:
 
 >E a reflexão do cinema, afinada aos novos tempos, põe-se a renovar seus instrumentos para explicar melhor a sobrevivência do que se tentou demolir ou se julgou esgotado. Nos últimos anos, pensar o cinema é via de regra um explicar, de modo cada vez mais sofisticado, o cinema clássico e seus herdeiros. (XAVIER, 1984, p.173).
 
@@ -132,45 +131,41 @@ Com isso encerro aqui esse artigo onde meu esforço foi reunir apontamentos de i
 
 ## Bibliografia.
 
-ADORNO, Theodor; HORKHEIMER, Max. A dialética do esclarecimento. Rio de
-Janeiro, Zahar, 1985.
+ADORNO, Theodor; HORKHEIMER, Max. _A dialética do esclarecimento._ Rio de Janeiro, Zahar, 1985.
 
 BURCH, Noel. El tragaluz del infinito. Madri: Cátedra, 1987.
-____________. Práxis do Cinema. Trad. Marcelle Pithon, Regina Machado. São
-Paulo. Perspectiva.2006. Pg 24.
-CARVALHO, Sérgio. Prefácio. In: SZONDI, Peter. Teoria do Drama Burguês. São
-Paulo. Cosac&Naify, 2005.
-CHARNEY, Leo; SCHWARTZ, Vanessa R. (org.). O cinema e a invenção da vida
-moderna. São Paulo, Cosac & Naify, 2001.
 
-COSTA, F.C. O primeiro cinema: algumas considerações. In: BENTES, Ivana (Org.).
-Ecos do Cinema: de Lumiere ao digital. Rio de Janeiro. Editora UFRJ, 2007.
+____________. _Práxis do Cinema_. Trad. Marcelle Pithon, Regina Machado. São Paulo. Perspectiva.2006. Pg 24.
 
-___________. O primeiro cinema: espetáculo, narração, domesticação. Rio de
-Janeiro, Azougue Editorial, 2005.
-FERRO, Marc. Cinema e História. São Paulo. Paz e Terra, 2010.
-MACHADO, Arlindo. Pré-cinemas & pós-cinemas. Campinas, SP. Papirus, 1997.
+CARVALHO, Sérgio. Prefácio. _In_: SZONDI, Peter. _Teoria do Drama Burguês_. São Paulo. Cosac&Naify, 2005.
 
-SZONDI, Peter. Teoria do drama moderno [1880-1950]. São Paulo, Cosac&Naify,
-2001.
+CHARNEY, Leo; SCHWARTZ, Vanessa R. (org.). _O cinema e a invenção da vida moderna_. São Paulo, Cosac & Naify, 2001.
 
-WILLIAMS, Raymond. Política do modernismo. São Paulo, Ed. UNESP, 2011.
+COSTA, F.C. O primeiro cinema: algumas considerações. _In_: BENTES, Ivana (Org.). _Ecos do Cinema: de Lumiere ao digital. Rio de Janeiro_. Editora UFRJ, 2007.
 
-XAVIER, Ismail. O Discurso cinematográfico: a opacidade e a transparência. Rio
-de Janeiro, Paz e Terra, 1977.
+___________. _O primeiro cinema: espetáculo, narração, domesticação_. Rio de Janeiro, Azougue Editorial, 2005.
 
-________________. A noção clássica de representação e a teoria do espetáculo, de
-Griffith a Hitchcock. In: XAVIER, Ismail (Org.) O cinema no século. Rio de Janeiro.
-Imago Ed., 1996.
-________________. O cinema brasileiro moderno. São Paulo. Paz e Terra, 2001.
+FERRO, Marc. _Cinema e História_. São Paulo. Paz e Terra, 2010.
 
-_______________. D.W.Griffith – O nascimento de um cinema. São Paulo.
+MACHADO, Arlindo. _Pré-cinemas & pós-cinemas_. Campinas, SP. Papirus, 1997.
+
+SZONDI, Peter. _Teoria do drama moderno [1880-1950]_. São Paulo, Cosac&Naify, 2001.
+
+WILLIAMS, Raymond. _Política do modernismo_. São Paulo, Ed. UNESP, 2011.
+
+XAVIER, Ismail. _O Discurso cinematográfico: a opacidade e a transparência_. Rio de Janeiro, Paz e Terra, 1977.
+
+________________. A noção clássica de representação e a teoria do espetáculo, de Griffith a Hitchcock. _In_: XAVIER, Ismail (Org.) _O cinema no século_. Rio de Janeiro. Imago Ed., 1996.
+
+________________. _O cinema brasileiro moderno_. São Paulo. Paz e Terra, 2001.
+
+_______________. _D.W.Griffith – O nascimento de um cinema_. São Paulo.
 Brasilense. 1984.
 
 ## Notas
 
-<a name="1">1. XAVIER, Ismail. O Discurso cinematográfico: a opacidade e a transparência. Rio de Janeiro, Paz e Terra, 1977.</a>
+<a name="1">1. XAVIER, Ismail. _O Discurso cinematográfico: a opacidade e a transparência_. Rio de Janeiro, Paz e Terra, 1977.</a>
 
 <a name="2">2. Existem outras denominações como narrativo-dramático ou grau zero da escritura cinematográfica</a>
 
-<a name="3">3. Na França os locais de exibição de filmes eram os café-concerto e na Inglaterra music-hall, o termo vaudeville é referente as casas de shows populares dos Estados Unidos que também eram chamados de smoking concerts.</a>
+<a name="3">3. Na França os locais de exibição de filmes eram os café-concerto e na Inglaterra music-hall, o termo _vaudeville_ é referente as casas de shows populares dos Estados Unidos que também eram chamados de _smoking concerts_.</a>

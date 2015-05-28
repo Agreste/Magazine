@@ -5,7 +5,7 @@ title: Concepção leônica rodrigal colorífera
 ___Letícia Simões___
 
 CENA 05
-A porta branca é aberta e a câmera adentra o quarto psiquiátrico: a câmera encontra Rimbaud e Baudelaire que estão jogando pôquer na cama e conversam. No colo de Rimbaud, o cachorro azul de pelúcia de RSL. Rimbaud parece uma criança indefesa. Baudelaire é austero. Os dois estão à espera dele chegar, o dono do quarto e companheiro de Rimbaud. Rimbaud não quer ficar sozinho e insiste para Baudelaire ficar – segundo ele, chegou um novo paciente, um ex-combatente do Vietnã e ele não quer ficar sozinho. Baudelaire se cansa de jogar pôquer e vai à janela: está um dia de sol. Rimbaud diz que está com fome e vai até a mini-geladeira branca. Quando abre, tudo que está ali dentro é vermelho: maçã, ketchup, pimentas, tomates. Rimbaud pega uma maçã e senta-se na cama. Baudelaire comenta do azul do céu daqui ser mais azul do que o dos outros lugares. (A câmera nunca sai do quarto; está sempre acompanhando os dois. Ou seja: não vemos realmente a cor do céu). Rimbaud reclama que Baudelaire está muito mau-humorado naquele dia e resolve dançar para ele a Dança do Pelicano Azul. 
+A porta branca é aberta e a câmera adentra o quarto psiquiátrico: a câmera encontra Rimbaud e Baudelaire que estão jogando pôquer na cama e conversam. No colo de Rimbaud, o cachorro azul de pelúcia de RSL. Rimbaud parece uma criança indefesa. Baudelaire é austero. Os dois estão à espera _dele_ chegar, o dono do quarto e companheiro de Rimbaud. Rimbaud não quer ficar sozinho e insiste para Baudelaire ficar – segundo ele, chegou um novo paciente, um ex-combatente do Vietnã e ele não quer ficar sozinho. Baudelaire se cansa de jogar pôquer e vai à janela: está um dia de sol. Rimbaud diz que está com fome e vai até a mini-geladeira branca. Quando abre, tudo que está ali dentro é vermelho: maçã, ketchup, pimentas, tomates. Rimbaud pega uma maçã e senta-se na cama. Baudelaire comenta do _azul do céu daqui ser mais azul do que o dos outros lugares._ (A câmera nunca sai do quarto; está sempre acompanhando os dois. Ou seja: não vemos realmente a cor do céu). Rimbaud reclama que Baudelaire está muito mau-humorado naquele dia e resolve dançar para ele a _Dança do Pelicano Azul_. 
 
 
 no início, era o documentário.
@@ -16,7 +16,7 @@ no início, era o verbo.
 
 no entanto, no caso de rodrigo de souza leão, este verbo é retrabalhado à exaustão: até virar tinta, até virar suzana vieira, até virar VHS, até virar webcam, até virar remédio enganosamente engolido e transformado em maraca para instrumento da banda eletro-espacial 
 
-noite de verão
+<font face="Courier New">noite de verão
 gramados amarelo-punk
 chaminés cuspindo
 redondas formas
@@ -33,15 +33,15 @@ e em posição
 de sorriso
 eterno fluxo
 flutuante
-inclusive crepúsculo
+inclusive crepúsculo</font>
 
 quem cria os museus? para que servem suas paredes? para quem esteve em casa por vinte e três anos, o mundo é o museu 
 
 no início, decerto & portanto, o museu 
 
-esta imagem veio surrupiada de uma flor; uma semente, para ser mais precisa, de me roubaram uns dias contados. após atingir a fama & a glória como o van gogh brasileiro, o rodrigo pintor concede entrevistas aos principais jornais e programas de televisão - ratinho incluso. aliás, quem imaginou um dia a participação do maior artista plástico do país em um teste de DNA com o seu sósia / replicante / fã? examinado em minúcias, o ácido comentário de rodrigo é uma proposta radical: vamos investigar a concepção criadora dos inspiradores e dos inspirados; há mesmo algo que fica na obra quando alguém levanta a mão para dizer - fulano de tal é a minha grande referência?. mas voltando ao tema principal - perdão, a tergiversação é um sólido costume por aqui -, com o ápice fulgurante de sua produção plástica, o governo brasileiro erige-lhe um museu.
+esta imagem veio surrupiada de uma flor; uma semente, para ser mais precisa, de _me roubaram uns dias contados-. após atingir a fama & a glória como o van gogh brasileiro, o rodrigo pintor concede entrevistas aos principais jornais e programas de televisão - ratinho incluso. aliás, quem imaginou um dia a participação do maior artista plástico do país em um teste de DNA com o seu sósia / replicante / fã? examinado em minúcias, o ácido comentário de rodrigo é uma proposta radical: vamos investigar a concepção criadora dos inspiradores e dos inspirados; há mesmo algo que fica na obra quando alguém levanta a mão para dizer - fulano de tal é a minha grande referência?. mas voltando ao tema principal - perdão, a tergiversação é um sólido costume por aqui -, com o ápice fulgurante de sua produção plástica, o governo brasileiro erige-lhe um museu.
 
-Nomear
+<font color="#ff9624">Nomear</font>
 a porta é um rito
 uma passagem para algo
 
@@ -56,7 +56,7 @@ há cerca de quatro semanas, cientistas debruçaram-se sobre uma aparição esfu
 
 o nosso museu, em uma conexão souza leonina espaço-tempo, era essa fumaça de galáxia. foram cinco salas que funcionavam como portas para o pensamento criativo de rodrigo: 
 
-a primeira, o museu no sentido institucionalizado da palavra
+a primeira, o museu no sentido _institucionalizado_ da palavra
 
 a segunda, um corredor florestal de poemas (as palavras iam se erigindo à medida em que o filme caminhasse - até dominar todas as paredes, do chão ao teto)
 
@@ -67,7 +67,7 @@ a quarta, o hospital psiquiátrico onde rimbaud & baudelaire brigam pela atenç�
 a quinta & última, a sala azul da memória (os sonhos, as projeções). 
 
 
-Realcoisacional
+<font color="#ff9624">Realcoisacional</font>
 escrever poesia
 é como se perder
 
@@ -97,13 +97,13 @@ onde está o teste de dna?
 
 
 
-Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.
-Você pensa uma coisa e é outra que acontece. As personagens têm vida própria?
-Não sei. Personagens não são alucinações.
-Pensamentos são entidades autônomas?
-A gente fica parecido com os nossos pensamentos. Com as nossas personagens. Todas vocês se encontram em mim. Duvida disso?
-Não. Esse é o segundo livro que sou personagem.
-Vou te dar um fim melhor do que a morte. Mas você sabe que aqui todo mundo ressuscita, né?
+   Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.
+   Você pensa uma coisa e é outra que acontece. As personagens têm vida própria?
+   Não sei. Personagens não são alucinações.
+   Pensamentos são entidades autônomas?
+   A gente fica parecido com os nossos pensamentos. Com as nossas personagens. Todas vocês se encontram em mim. Duvida disso?
+   Não. Esse é o segundo livro que sou personagem.
+   Vou te dar um fim melhor do que a morte. Mas você sabe que aqui todo mundo ressuscita, né?
 
  
 anifesto videodrome

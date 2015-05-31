@@ -57,6 +57,7 @@ A despeito da autoria do filme ser de um não índio, o produto é fruto de um a
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe>
 <br />
+
 ## 2. Trânsitos da representação: Cinemas indígenas, por indígenas.
 
 >Em ciências humanas em particular a coisa mais importante é o que, em nosso jargão, chamamos de “feedback”. Isto é, o que pensam as pessoas que estudamos. E, nesse campo, eu e alguns colegas de Nanterre criamos uma antropologia nova, chamada “antropologia compartilhada”. Essa antropologia compartilhada, para lhes dar um exemplo bobo é: Se perguntamos a um padre totêmico se ele acredita em Deus, a única possibilidade é que ele possa responder: ‘E você?’ É um ser humano que questiona outro ser humano. (ROUCH in Jean Rouch – Subvertendo Fronteiras)

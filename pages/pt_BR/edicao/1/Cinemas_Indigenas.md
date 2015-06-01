@@ -55,7 +55,7 @@ A despeito da autoria do filme ser de um não índio, o produto é fruto de um a
 
 <img src="/static/img/1/indigena_3.png" alt="Indígenas digitais, o filme" width="100%" />
 <br /><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe>
 <br />
 
 ## 2. Trânsitos da representação: Cinemas indígenas, por indígenas.
@@ -64,7 +64,7 @@ A despeito da autoria do filme ser de um não índio, o produto é fruto de um a
 
 Por autorrepresentação “entende-se que, por exemplo, a atual cultura maia dos Chiapas atual e aquela brasileira vivida pelos jovens favelados podem e devem ser representadas também por uma fotografia expressa por quem vive no interior do seu espaço vital” (Canevacci, 2009, 174). Não só no suporte fotográfico, como em todas as matrizes de linguagens, um processo autorrepresentativo polifônico, se constitui de uma abertura metodológica no qual se torna possível não só questionar o “sujeito” da ação como a compartilhar e redefinir seus objetivos. Entretanto, pensar nesse modelo de representação implica levantar questões, sobre “como pode o trabalho intelectual, artístico e pedagógico ‘lidar’ com o multiculturalismo sem defini-lo de modo simplista como um espaço onde apenas os latinos podem falar dos latinos, somente os afro-americanos podem falar sobre os afro- americanos e assim por diante, com cada grupo prisioneiro de sua diferença reificada?” (Shohat, Stam, 2006). Vislumbramos uma possibilidade que se apresenta nos trânsitos de representação, nos quais seja possível, através da ênfase dialógica, repensar as autorias envolvidas no processo. “No corpo desse prefixo – auto – há um sujeito que não é mais inscritível em uma cultura de pertencimento compacto, compreensível graças a intervenção externa do etnógrafo. É a própria internalidade do sujeito à sua cultura que libera novos módulos narrativos” (Canevacci, 2009, 174). A possibilidade de articulação entre texto, imagem, som, movimento, interatividade, etc, em ambientes hipermidiáticos aponta para possibilidades transitivas de representação na comunicação digital. O que antes se convencionou delimitar numa relação objetiva, ou seja, sustentada pela determinação de um sujeito que observa e elabora hipóteses sobre um objeto, passa a ser redefinida quando a ênfase dialógica do processo deixa em suspensão essas categorias, elaborando um diferente trânsito no qual, “junto de, ao lado, e, frequentemente, contra esse discurso coloca-se com força  expressiva e conceitual sempre maiores, [...] os modos, também eles plurais, por meio do quais aqueles que durante muito tempo foram tratados apenas enquanto objetos de estudo revelam-se sujeitos que interpretam, em primeiro lugar, si próprios e, depois, também a cultura do eventual pesquisador externo” (p. 171).
 
-<img src="/static/img/1/indigena_4.png" alt="Indígenas digitais, o filme" width="100%" />
+<center><img src="/static/img/1/indigena_4.png" alt="Indígenas digitais, o filme" /></center>
 
 ### _TSÕ’REHIPÃRI_: Representação dialógica e reflexividade no cinema xavante. 
 
@@ -96,9 +96,9 @@ A hipermídia _Boé Ero Kurireu_ nos reforça que “a forma viva e dialógica d
 
 >Por isso, um pesquisador não pode permanecer tranquilo e imóvel em suas passadas certezas: iniciou-se o tempo fantástico e fantasioso em direção a modalidades inventivas que permitam desenvolver pesquisas diferentes, para afirmar polifonias de linguagens, estilos, metodologias, imagens e sons, a serem elaborados – é desejável – junto das outras irredutíveis subjetividades. (CANEVACCI, 2009, p. 172)
 
-<img src="/static/img/1/indigena_5.png" alt="Boé Ero Kurireu" width="100%" />
+<center><img src="/static/img/1/indigena_6.png" alt="Boé Ero Kurireu" /></center>
 <br />
-<iframe width="420" height="315" src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe>
 <br />
 ## BIBLIOGRAFIA:
 

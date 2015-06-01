@@ -34,3 +34,5 @@ Vagabundo, se for pra somar chega aí”<br />
 *Eu Sô Função – Dexter (part Função e Mano Brown) no disco Exilado Sim, Preso Não<br />
 <br />
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/79812993&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<small> Publicado originalmente em http://zagaiaemrevista.com.br/por-um-cinema-pedreiro/ </small>

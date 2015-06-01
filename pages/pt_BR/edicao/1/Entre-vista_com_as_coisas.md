@@ -19,17 +19,18 @@ Um cinema pedreiro virá de uma formação pública em cinema de risco, ou das r
 
 “Trabalhais para a humanidade. A classe operária tornou-se hoje o único representante da grande, da santa causa da humanidade” Mikhail Bakunin em Três Conferências feitas aos operários do vale de Saint-Imier, maio 1871. Tradução de Plínio Augusto Coelho
 
-“Meu beck, a caixa e o bumbo e o clap
-Cresci ali envolvidão qua função
-Na sola do pé bate o meu coração
-Esse som é do bom, dá uns dois e viaja
-Nós somos negros não importa o que haja
-O ritmo é nosso trazido de lá
-Das ruas de terra sem luzes e pá
-O fascínio não morre ele só começô
-Das festa de preto que os boy não colô
-Sô o que sô vivo aquilo que falo
-Meu rap é do gueto e não é pros embalo
-Vagabundo, se for pra somar chega aí”
-*Eu Sô Função – Dexter (part Função e Mano Brown) no disco Exilado Sim, Preso Não
-- See more at: http://zagaiaemrevista.com.br/por-um-cinema-pedreiro/#sthash.rTygzK6q.dpuf
+“Meu beck, a caixa e o bumbo e o clap<br />
+Cresci ali envolvidão qua função<br />
+Na sola do pé bate o meu coração<br />
+Esse som é do bom, dá uns dois e viaja<br />
+Nós somos negros não importa o que haja<br />
+O ritmo é nosso trazido de lá<br />
+Das ruas de terra sem luzes e pá<br />
+O fascínio não morre ele só começô<br />
+Das festa de preto que os boy não colô<br />
+Sô o que sô vivo aquilo que falo<br />
+Meu rap é do gueto e não é pros embalo<br />
+Vagabundo, se for pra somar chega aí”<br />
+*Eu Sô Função – Dexter (part Função e Mano Brown) no disco Exilado Sim, Preso Não<br />
+<br />
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/79812993&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

@@ -174,7 +174,7 @@ GARNHAM, N. Concepts of culture: public policy and the culture industries. Cultu
 
 MACHADO Jr., Rubens. “Agrippina é Roma-Manhattan, um quase-filme de Oiticica” in: Oiticica: a pureza é um mito. (org. Cauê Alves) Itaú Cultural, São Paulo, abril 2010, pp. 18-23, <http://issuu.com/itaucultural/docs/oiticica>. [isbn 978-85-7979-007-2]
 
-MACHADO Jr., Rubens. “Clássico, Anticlássico e Quase Clássico: aspirações, invenções e tradições do cinema brasileiro” in: Uma História do Cinema na Cinemateca Brasileira, Módulo 27. São Paulo: Cinemateca Brasileira, 26 de abril a 14 de junho de 2011; disponível em: http://www.cinemateca.com.br/, acessado em: 24 de maio de 2011.
+MACHADO Jr., Rubens. “Clássico, Anticlássico e Quase Clássico: aspirações, invenções e tradições do cinema brasileiro” in: Uma História do Cinema na Cinemateca Brasileira, Módulo 27. São Paulo: Cinemateca Brasileira, 26 de abril a 14 de junho de 2011; disponível em: <http://www.cinemateca.com.br/>, acessado em: 24 de maio de 2011.
 
 MACHADO Jr., Rubens. “Passos e descompassos à margem” in: Cinema Marginal e suas fronteiras: Filmes produzidos nas décadas de 60 e 70, orgs. Eugênio Puppo e Vera Haddad, São Paulo: Heco; CCBB, 2001, pp. 16-19.
 
@@ -198,7 +198,7 @@ REIS, Ana Carla. Economia da Cultura e desenvolvimento sustentável: o caleidosc
 
 ROCHA, Glauber, Revisão Crítica do Cinema Brasileiro, São Paulo, Cosac & Naify, 2003
 
-ROCHA, Glauber. A Estética da Fome. Nova York, Milão, Rio de Janeiro, Contracampo. 1965. Disponível em: http://www.contracampo.com.br/21/esteticadafome.htm Acesso em: Novembro. 2012
+ROCHA, Glauber. A Estética da Fome. Nova York, Milão, Rio de Janeiro, Contracampo. 1965. Disponível em: <http://www.contracampo.com.br/21/esteticadafome.htm> Acesso em: Novembro. 2012
 
 VALLAS, Steven Petter, Work. Cambridge: Polity Press,  2011. 
 
@@ -207,10 +207,9 @@ XAVIER, Ismail. O Discurso Cinematográfico. Rio de Janeiro, Paz e Terra, 2005.
 XAVIER, Ismail. Alegorias do subdesenvolvimento. Cinema novo, tropicalismo, cinema marginal. São Paulo, Brasiliense, 1993.
 
 WEFFORT, Francisco. Fapesp: Memória Roda Viva. São Paulo, 1998. 
-Disponível em: http://www.rodaviva.fapesp.br/materia/668/entrevistados/francisco_weffort_1998.htm Acesso em: Março 2013
+Disponível em: <http://www.rodaviva.fapesp.br/materia/668/entrevistados/francisco_weffort_1998.htm> Acesso em: Março 2013
 
-WEFFORT, Francisco. Revista de História. Edição N°· 92 – maio de 2013 Disponível em: http://www.revistadehistoria.com.br/secao/entrevista/francisco-weffort 
-Acesso em: Março 2013
+WEFFORT, Francisco. Revista de História. Edição N°· 92 – maio de 2013 Disponível em: <http://www.revistadehistoria.com.br/secao/entrevista/francisco-weffort> Acesso em: Março 2013
 
 ## Notas
 
@@ -218,7 +217,7 @@ Acesso em: Março 2013
 
 <a name="2">2. Os distribuidores operam mediante a política dos “lotes”, isto é: se o exibidor quer exibir um sucesso tipo Ben-Hur, é forçado a contratar um lote de fitas de segunda linha, tipo bang-bang, gangster ou comediazinhas de televisão. Assim é que, em casas de primeira linha, vemos constantemente tais fitas C sendo exibidas, enquanto os principais produtos do cinema brasileiro esperam datas e se contentam com casas de subúrbio, a preço baixo. (GLAUBER ROCHA, 1963/2003, p. 168) </a>
 
-<a name="3">3. Disponível em: [https://www.youtube.com/watch?v=DKWHkFYfHeQ](https://www.youtube.com/watch?v=DKWHkFYfHeQ) Acesso em: 05/05/2015.</a>
+<a name="3">3. Disponível em: <https://www.youtube.com/watch?v=DKWHkFYfHeQ> Acesso em: 05/05/2015.</a>
 
 <a name="4">4. NAGIB, Lucia. O Cinema da Retomada: Depoimentos de 90 Cineastas dos anos 90. São Paulo: Editora 34, 2002. _apud_ MELEIRO, 2012.</a>
 
@@ -228,7 +227,7 @@ Acesso em: Março 2013
 
 <a name="7">7. MELEIRO, 2012, p. 44.</a>
 
-<a name="8">8. Entrevista completa com o integrante da _casadalapa_ Fernando Sato (DVD Rumos – 2009) disponível em:  [http://www.youtube.com/watch?v=7Vl0RnTFC6U](http://www.youtube.com/watch?v=7Vl0RnTFC6U)  Acesso em: 25/04/2015.</a>
+<a name="8">8. Entrevista completa com o integrante da _casadalapa_ Fernando Sato (DVD Rumos – 2009) disponível em:  [www.youtube.com/watch?v=7Vl0RnTFC6U](http://www.youtube.com/watch?v=7Vl0RnTFC6U)  Acesso em: 25/04/2015.</a>
 
 <a name="9">9. Lev Kuleshov (1899 – 1970): cineasta russo e teórico do cinema. Um dos fundadores da primeira escola de cinema do mundo – A Escola de Cinema de Moscow (VGIK).</a>
 
@@ -238,12 +237,12 @@ Acesso em: Março 2013
 
 <a name="12">12. Aliados: termo utilizado pelos integrantes da _casadalapa_ para identificar os parceiros de trabalho que não são residentes, mas integram a rede.</a>
 
-<a name="13">13. Texto extraído do blog: [www.casadalapa.blogspot.com](www.casadalapa.blogspot.com)</a>
+<a name="13">13. Texto extraído do blog: [www.casadalapa.blogspot.com](http://www.casadalapa.blogspot.com)</a>
 
-<a name="14">14. Projeto contemplado pelo Rumos Itaú Cultural – vídeo experimental (2009). Disponível em: [http://www.casadalapa.blogspot.com.br/p/projetos.html](http://www.casadalapa.blogspot.com.br/p/projetos.html)  Acesso em: 20/04/2015</a>
+<a name="14">14. Projeto contemplado pelo Rumos Itaú Cultural – vídeo experimental (2009). Disponível em: [www.casadalapa.blogspot.com.br/p/projetos.html](http://www.casadalapa.blogspot.com.br/p/projetos.html)  Acesso em: 20/04/2015</a>
 
-<a name="15">15. Disponível em: [www.casadalapa.blogspot.com](www.casadalapa.blogspot.com) Acesso em: 20/04/2015.</a>
+<a name="15">15. Disponível em: [www.casadalapa.blogspot.com](http://www.casadalapa.blogspot.com) Acesso em: 20/04/2015.</a>
 
-<a name="16">16. Texto extraído do blog do coletivo. Disponível em: [www.casadalapa.blogspot.com](www.casadalapa.blogspot.com) Acesso em: 20/04.2015</a>
+<a name="16">16. Texto extraído do blog do coletivo. Disponível em: [www.casadalapa.blogspot.com](http://www.casadalapa.blogspot.com) Acesso em: 20/04.2015</a>
 
 <a name="17">17. Exército Industrial de Reserva: conceito criado por Karl Marx em sua Crítica da Economia Política para definir o emprego estrutural nas economias capitalistas.</a>

@@ -1,5 +1,5 @@
 template: article.html
-background: /static/img/1/indigena.jpg
+background: /static/img/1/criptopticon.jpg
 title: "A Ascensão do Cryptoptico"
 
 ___Siva Vaidhyanathan___

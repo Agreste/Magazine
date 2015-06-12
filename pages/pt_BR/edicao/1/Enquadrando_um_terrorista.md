@@ -6,6 +6,7 @@ subtitle: "A política da representação em Ici et ailleurs (1970–1974), Four
 ___Ewa Mazierska___
 
 ___Tradução por Eduardo Liron___
+
 ___Revisão por Luigi Parrini___
 
 Este ensaio discute dois filmes europeus recentes que representam muçulmanos como terroristas: _Four Lions_ (Christopher Morris, Reino Unido/França, 2010) e _Essential Killing_ (Jerzy Skolimowski, Polônia/Noriega/Irlanda/Hungria/França, 2010). Meu objetivo é capturar a agenda política específica expressa pela forma e conteúdo destes filmes, sobretudo pela caracterização de seus personagens principais e pelo uso da montagem. Como forma de explicitar suas especificidades, eu os situarei sobre o plano de fundo de _Here and Elsewhere_ (Jean-Luc Godard e Anne-Marie Miéville, Fança, 1970–1974), um filme que retrata a luta dos palestinos para reaver suas terras tomadas por Israel e que debate seu próprio método de apresentação de eventos políticos.

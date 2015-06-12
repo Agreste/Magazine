@@ -55,7 +55,7 @@ A despeito da autoria do filme ser de um não índio, o produto é fruto de um a
 
 <img src="/static/img/1/indigena_3.png" alt="Indígenas digitais, o filme" width="100%" />
 <br /><br />
-<iframe width="100%" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe>
 <br />
 
 ## 2. Trânsitos da representação: Cinemas indígenas, por indígenas.
@@ -98,9 +98,10 @@ A hipermídia _Boé Ero Kurireu_ nos reforça que “a forma viva e dialógica d
 
 <center><img src="/static/img/1/indigena_6.png" alt="Boé Ero Kurireu" /></center>
 <br />
-<iframe width="100%" src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe>
 <br />
-## BIBLIOGRAFIA:
+
+## Bibliografia
 
 BAIRON, Sérgio. A hipermídia como comunicação integrada e a retomada da experiência estética na produção de conhecimento. Tese de livre docência. Universidade de São Paulo, 2007.
 
@@ -131,7 +132,7 @@ SHOHAT, Ella e STAM, Robert. Crítica da imagem eurocêntrica: Multiculturalismo
 
 TACCA, Fernando. Rituaes e festas Bororo: a construção da imagem do índio como" selvagem" na Comissão Rondon. Revista de Antropologia, vol.45, no.1, São Paulo, 2002. Disponível em: <http://www.scielo.br/scielo.php?script=sci_pdf&pid=S0034-77012002000100006&lng=en&nrm=iso&tlng=pt> . Acessado em: 05/12/2010. 
 
-### Filmes:
+### Filmes
 
 GERLIC, Sebastian. Indígenas digitais, o filme. Direção de Sebatian Gerlic. Disponível em < http://www.vimeo.com/11283052 >, Acessado em: 15/03/2011.
 

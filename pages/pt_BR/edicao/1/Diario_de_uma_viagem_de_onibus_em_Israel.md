@@ -225,9 +225,9 @@ Ocupação da Palestina por Israel já se arrasta há 47 anos e está violando v
 <img src="/static/img/1/Bussresan_Pressbild_07.jpg" alt="Onde está?" width="100%" /><br />
 <img src="/static/img/1/Bussresan_Pressbild_08.jpg" alt="Onde está?" width="100%" /><br />
 
-Sarah Gampel, Animador e realizador
+Sarah Gampel, Animadora e realizadora
 
-Anna Padilla, documentarista
+Anna Padilla, Documentarista
 
 ## NOTAS
 

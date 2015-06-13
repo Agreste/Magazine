@@ -22,7 +22,7 @@ Nós pedimoas a todos artistas e cineastas que boicotem eventos culturais e acad
 
 # A viagem de Sarah
 
-Após ver um curta animado de Israel feito na Academia de Art de Bezalel em Herusalem, <http://www.dailymotion.com/video/x483ao_beton-day-to-day-life-of-war_creation> eu questionei a minha instituição escolar se existia alguma possibilidade de realizar um semestre de intercâmbio em Israel. O projeto era conhecido como “Film Bus Project”  e era parte do [festival internacional de cinema estudantil de Tel Aviv](http://www.aicf.org/artists/-Tel-Aviv-University-Department-of-Film-Television-A1135/?did=4&action=list&url=%2Fartists%2Ffilm%2Fall-artists).
+Após ver um [curta animado](http://www.dailymotion.com/video/x483ao_beton-day-to-day-life-of-war_creation) de Israel feito na Academia de Art de Bezalel em Herusalem,  eu questionei a minha instituição escolar se existia alguma possibilidade de realizar um semestre de intercâmbio em Israel. O projeto era conhecido como “Film Bus Project”  e era parte do [festival internacional de cinema estudantil de Tel Aviv](http://www.aicf.org/artists/-Tel-Aviv-University-Department-of-Film-Television-A1135/?did=4&action=list&url=%2Fartists%2Ffilm%2Fall-artists).
 
 <http://2014.taufilmfest.com/2066+Film+Bus>
 

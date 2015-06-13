@@ -93,7 +93,6 @@ Embora Skolimowski não seja tão notavelmente autorreflexivo quanto Godard em _
 
 Neste artigo, eu foquei em dois filmes recentes acerca do terrorismo islâmico que evocam o discurso colonial. Contudo, Four Lions sucumbe a este discurso enquanto _Essential Killing_ o utiliza com intenções críticas. Ambos trabalhos são filmes sobre diferentes modos de ver, sobretudo sobre formas de como o terrorista vê o mundo. _Four Lions_ compõe esta visão como incorreta e a ridiculariza. O filme se utiliza do humor para esconder sua força ideológica. _Essential Killing_ nos identifica com a visão do terrorista e de seus aliados, chamando atenção ao fato de que “ter uma visão” não é algo trivial. Privar alguém de visão é uma arma importante da Guerra ao Terror, assim como privar uma pessoa de sua voz. Também vale mencionar que Skolimowski se utiliza do silêncio para dignizar o sofrimento do terrorista islamico. Isso pode ser visto como um testemunho do poder do silêncio como arma política, ou com o fato de que os diretores europeus contemporâneos têm dificuldade em apoiar os terroristas no mesmo sentido em que Godard foi capaz no início dos anos 1970.
 
-
 ### Notas
 
 <a name="1"> 1. Walter Laqueur, _The Age of Terrorism_ (London: Weidenfeld and Nicolson, 1987),9.</a>
@@ -176,3 +175,5 @@ David Raab, Terror in Black September: The First Eyewitness Account of the Infam
 <a name="38"> 38. Jakob Ladegaard, “On the Frontier of Politics,” 186–87.</a>
 
 <a name="39"> 39. Krzysztof Kłopotowski, “Serce artysty, a rozum?”</a>
+
+<small>Este texto foi republicado a partir de 'Framing a Terrorist: The Politics of Representation in Ici et ailleurs, Four Lions and Essential Killing', por Ewa Mazierska em _Framework: The journal of Cinema and Media_, vol. 55, No 1, 102-20., Copyright © 2014 Wayne State University Press, com a permissão da Wayne State University Press.</small>

@@ -208,13 +208,12 @@ ul li:hover ul {
 
 #art-menu:hover ul li:hover  {
   background-color: rgba(255,255,255, 0.7);
-  color: black;
 }
 
-/*#art-menu:hover ul li:hover a:link {
-  font-size: 18px;
+#art-menu:hover ul li:hover a:link {
+  /*font-size: 18px;*/
   color: black;
-}*/
+}
 
 
 #art-menu:hover ul li a:link {

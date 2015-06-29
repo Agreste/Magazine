@@ -134,9 +134,9 @@ O média-metragem foi captado em diversos suportes (EX3, 5D, 7D, HVX 200) e apen
 O resultado final é uma espécie de documentário-intervenção, onde tudo é revelado: câmeras, maquinário e, principalmente, o processo de construção do experimento. A participação dos grafiteiros é chave para o processo de criação, pois além de contribuírem nas reuniões de rabisco, são eles quem contam a história nos muros do bairro, mobilizando e incorporando a cidade como suporte narrativo. Também são eles que trazem, através do “pixo”, a intervenção em espaços públicos, qualidade encontrada em filmes produzidos pelos superoitistas como: _Explendor do Martírio_(1974) de Sérgio Peo, em que a intervenção é levada as últimas consequências resultando na prisão do ator durante a filmagem. Já em outros momentos, o vídeo experimental _Enquadro II_, remete à qualidades do filme _Agrippina é Roma-Manhattan_(1972) de Hélio Oiticica, em que uma personagem vestida de vermelho circula pela cidade de Nova York assumindo uma postura entre o monumento e uma prostituta. Já no _Enquadro II_, uma mulher surge com uma máscara em diversos momentos do filme, tanto em primeiro plano como também no fundo do quadro, “escondida”. Essa mulher traz a ideia de guia ao mesmo tempo que evidencia as dificuldades de se narrar uma história nos dias atuais e ajuda, da sua forma, a encontrar possíveis soluções. 
 
 <table><tr><td>
-<img src="/static/img/1/PastedGraphic_1.jpg" alt="Cena do filme de Hélio Oiticica _Agrippina é Roma-Manhattan_(1972)" width="100%" />
+<img src="/static/img/1/PastedGraphic_1.jpg" alt="Cena do filme de Hélio Oiticica _Agrippina é Roma-Manhattan_(1972)" height="100%" />
 </td><td>
-<img src="/static/img/1/PastedGraphic_2.jpg" alt="Cena do filme do coletivo _casadalapa Enquadro II Tiaguinho da Redenção_(2010)" width="100%" />
+<img src="/static/img/1/PastedGraphic_2.jpg" alt="Cena do filme do coletivo _casadalapa Enquadro II Tiaguinho da Redenção_(2010)" height="100%" />
 </td></tr>
 <tr><td>
 <small style="font-size: smaller;">Cena do filme de Hélio Oiticica _Agrippina é Roma-Manhattan_ (1972)</small>

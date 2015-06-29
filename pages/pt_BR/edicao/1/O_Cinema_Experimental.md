@@ -133,10 +133,16 @@ O média-metragem foi captado em diversos suportes (EX3, 5D, 7D, HVX 200) e apen
 
 O resultado final é uma espécie de documentário-intervenção, onde tudo é revelado: câmeras, maquinário e, principalmente, o processo de construção do experimento. A participação dos grafiteiros é chave para o processo de criação, pois além de contribuírem nas reuniões de rabisco, são eles quem contam a história nos muros do bairro, mobilizando e incorporando a cidade como suporte narrativo. Também são eles que trazem, através do “pixo”, a intervenção em espaços públicos, qualidade encontrada em filmes produzidos pelos superoitistas como: _Explendor do Martírio_(1974) de Sérgio Peo, em que a intervenção é levada as últimas consequências resultando na prisão do ator durante a filmagem. Já em outros momentos, o vídeo experimental _Enquadro II_, remete à qualidades do filme _Agrippina é Roma-Manhattan_(1972) de Hélio Oiticica, em que uma personagem vestida de vermelho circula pela cidade de Nova York assumindo uma postura entre o monumento e uma prostituta. Já no _Enquadro II_, uma mulher surge com uma máscara em diversos momentos do filme, tanto em primeiro plano como também no fundo do quadro, “escondida”. Essa mulher traz a ideia de guia ao mesmo tempo que evidencia as dificuldades de se narrar uma história nos dias atuais e ajuda, da sua forma, a encontrar possíveis soluções. 
 
+<table>
+<tr><td colspan="15px">
+<img src="/static/img/1/PastedGraphic_1.jpg" alt="Cena do filme de Hélio Oiticica _Agrippina é Roma-Manhattan_(1972)" width="100%" />
 >Cena do filme de Hélio Oiticica _Agrippina é Roma-Manhattan_(1972) 	
-
+</td>
+<td>
+<img src="/static/img/1/PastedGraphic_2.jpg" alt="Cena do filme do coletivo _casadalapa Enquadro II Tiaguinho da Redenção_(2010)" width="100%" />
 >Cena do filme do coletivo _casadalapa Enquadro II Tiaguinho da Redenção_(2010)
-
+</td></tr>
+</table>
 
 Para além dessas questões estéticas e de experimentação, existe um problema chave na estrutura do coletivo e que muitas vezes é o fator desmobilizador de qualquer experimento nos dias atuais: o modelo de financiamento. Nenhum coletivo ou experimentação de ordem estética conta com um modelo de financiamento específico, mas sim, apenas, com tímidos e raros editais que são abertos de forma aleatória e com pouquíssimos recursos. O edital _Rumos Itaú Cultural_ é um exemplo. Suas diversas categorias, que vão desde Vídeo Experimental até Vídeo Instalação, estão apoiadas em critérios subjetivos de escolha, com uma convocação genérica de múltiplos artistas das mais distintas áreas, o que dá margem para pensar se estamos diante de uma convocação ou de um mecanismo de propaganda e divulgação, já que o orçamento disponibilizado para o edital não condiz com o esforço de divulgação do mesmo. Para se ter uma dimensão, o edital Rumos (2009) repassou para os contemplados valores entre R$ 15.000,00 (quinze mil reais) a R$ 70.000,00 (setenta mil reais). Nesta edição foram selecionados 24 projetos espalhados pelo Brasil, entre eles, na categoria Cinema e Vídeo, o média-metragem experimental _Enquadro II: Thiaguinho da Redenção_ da _casadalapa_, que recebeu R$ 50.000,00 (cinquenta mil reais). Com tal quantia não é possível pagar a produção de um média-metragem, muito menos os profissionais.
 

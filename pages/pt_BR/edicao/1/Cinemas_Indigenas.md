@@ -55,7 +55,7 @@ A despeito da autoria do filme ser de um não índio, o produto é fruto de um a
 
 <img src="/static/img/1/indigena_3.png" alt="Indígenas digitais, o filme" width="100%" />
 <br /><br />
-<center><iframe src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/T2I7ovB6E7k" frameborder="0" allowfullscreen></iframe></center>
 <br />
 
 ## 2. Trânsitos da representação: Cinemas indígenas, por indígenas.
@@ -98,7 +98,7 @@ A hipermídia _Boé Ero Kurireu_ nos reforça que “a forma viva e dialógica d
 
 <center><img src="/static/img/1/indigena_6.png" alt="Boé Ero Kurireu" /></center>
 <br />
-<center><iframe src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/8dogOs0Ihs0" frameborder="0" allowfullscreen></iframe></center>
 <br />
 
 ## Bibliografia

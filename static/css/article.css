@@ -215,6 +215,9 @@ ul li:hover ul {
   color: black;
 }
 
+#art-menu:hover ul li:hover a:hover {
+  color: black;
+}
 
 #art-menu:hover ul li a:link {
   text-decoration: none;

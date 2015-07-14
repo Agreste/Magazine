@@ -1,16 +1,26 @@
 template: article.html
 background: /static/img/1/Bussresan_Pressbild_05.jpg
-title: "Diário de uma viagem de ônibus em israel"
+title: "Diário pró-palestino sobre um festival israelense"
 
 ___Sarah Gampel e Anna Padilla___
 
 ___Tradução por Edgar Zanella e Eduardo Liron___
 
-# Diário de viagem do “The Film Bus trip” em Israel durante Maio de 2014
+# Diário de viagem do “The Film Bus Project” em Israel durante Maio de 2014
 
-Em 2012, Anna Padilla participou do programa chamado “The Film Bus Project”, enquanto Sarah Gampel participou também em 2014. O que segue é um sumário de suas experiências participando do “The Filme Bus Project”.
+> _Visão crítica da realidade:_
 
-Nós estávamos interessadas em ir a Israel e a Palestina no contexto de uma troca cultural entre jovens cineastas e queríamos encontrar e nos ligar a diferentes movimentos de paz e protresto que se opunham a ocupação da Palestina por Israel. Nós estávamos curiosas em como jovens estudantes de cinema israelenses e palestinos se relacionavam com a ocupação e o que a nova geração de cineastas pensavam sobre tal situação e como a representavam através da arte.
+> _Cinema road-movie de animação experimental universitário sueco pró-palestino_
+
+> _Tive o prazer de conhecer Sarah Gampel em 2014 no 16 (o) Tel Aviv International Student Film Festival, Israel.  Dentro do festival há um programa chamado The Film Bus Project onde alguns participantes são selecionados para conviver 15 dias em viagem por Israel (com exceção do território palestino) e exibir seus filmes em diferentes cidades. Minha identificação com Sarah se dá em todos os questionamentos e críticas que levantamos durante nossa experiência por lá. É um lugar politicamente insano e achei importante colocar as impressões de Sarah por aqui._
+
+> _Sarah é cineasta independente em Stockholm, Suécia. Seus filmes de animação foram exibidos no Nobel Museum (Stockholm), no Brooklyn, Nova York, em Givat Olga, em Ramallah e La Havana International Festival of New Latin American Cinema, Cuba.  Aqui ela nos abre seu diário técnico sobre a viagem por Israel, ação políticas pró-palestina de boicote aos festivais israelenses e alguns stills do processo do seu novo filme. Desde 2014 Sarah tem se dedicado a uma animação autobiográfica sobre a viagem._
+
+> _Bom ressaltar que todas as fotos aqui são do processo do filme da Sarah, ainda em construção: ‘Film stills are work in progress.’_
+
+> _Mirrah Iañez_
+
+Nós estávamos interessadas em ir a Israel e a Palestina no contexto de uma troca cultural entre jovens cineastas e queríamos encontrar e nos ligar a diferentes movimentos de paz e protesto que se opunham a ocupação da Palestina por Israel. Nós estávamos curiosas em como jovens estudantes de cinema israelenses e palestinos se relacionavam com a ocupação e o que a nova geração de cineastas pensavam sobre tal situação e como a representavam através da arte.
 
 Posteriormente, nós nos arrependemos de nossa participação no “The Film Bus Project” e de nossa experiência na universidade de Tel Aviv que organizou o projeto.
 
@@ -22,13 +32,13 @@ Nós pedimoas a todos artistas e cineastas que boicotem eventos culturais e acad
 
 # A viagem de Sarah
 
-Após ver um [curta animado](http://www.dailymotion.com/video/x483ao_beton-day-to-day-life-of-war_creation) de Israel feito na Academia de Art de Bezalel em Herusalem,  eu questionei a minha instituição escolar se existia alguma possibilidade de realizar um semestre de intercâmbio em Israel. O projeto era conhecido como “Film Bus Project”  e era parte do [festival internacional de cinema estudantil de Tel Aviv](http://www.aicf.org/artists/-Tel-Aviv-University-Department-of-Film-Television-A1135/?did=4&action=list&url=%2Fartists%2Ffilm%2Fall-artists).
+Após ver um [curta animado](http://www.dailymotion.com/video/x483ao_beton-day-to-day-life-of-war_creation) de Israel feito na Academia de Art de Bezalel em Herusalem,  eu questionei a minha instituição escolar se existia alguma possibilidade de realizar um semestre de intercâmbio em Israel. O projeto era conhecido como “Film Bus Project”  e era parte do [Tel Aviv International Student Film Festival](http://www.aicf.org/artists/-Tel-Aviv-University-Department-of-Film-Television-A1135/?did=4&action=list&url=%2Fartists%2Ffilm%2Fall-artists).
 
 <http://2014.taufilmfest.com/2066+Film+Bus>
 
-O projeto consiste em um grupo de estudantes de cinema – de Israel e internacionais – que viajam por Isarel em um ônibus, exibindo seus filmes em diferentes locais. Para aplicar ao projeto existia uma descrição que dizia que o projeto pretendia iniciar uma mudança social.
+O projeto consiste em um grupo de estudantes de cinema – de Israel e internacionais – que viajam por Isarel em um ônibus, exibindo seus filmes em diferentes locais. No ato da inscrição havia uma descrição que dizia que o projeto pretendia iniciar uma mudança social.
 
-Eu apliquei ao projeto pois acreditava que o “Film Bus” iria viajar tanto em cidades isaraelenses quanto palestinas e discutiria a ocupação da Palestina por Israel de uma forma crítica. 
+Eu me inscrevi para o projeto pois acreditava que o “Film Bus” iria viajar tanto em cidades isaraelenses quanto palestinas e discutiria a ocupação da Palestina por Israel de uma forma crítica. 
 
 Alguns dias antes de minha viagem, eu recebi um email com informações de quais cidades eu iria viajar; todas eram em Israel o que me deixou desapontada. Eu contactei Anna Padilla – uma estudante de cinema que já havia participado da viagem dois anos atrás, e Pea Holmquist – um diretor de documentários que viajava frequentemente por Israel e pela Palestina. Ambos Pea e Anna confirmaram meus receios quanto a falta de discurso crítico no projeto; o ônibus não viaja pela Palestina e não havia participantes de Gaz ou do West Bank. Durante a viagem de Anna, somente um estudante de cinema palestino participou, Samar, que era um cidadão de Israel que vivia em Tel Aviv. Mesmo com eles me avisando sobre a falta de crítica no projeto, eu decidi em participa-lo de qualquer modo.
 
@@ -42,9 +52,9 @@ O festival de filme estudantil internacional de Tel Aviv, a qual o projeto “Fi
 
 Todos os participantes se reuniram no campus da universidade de Tel Aviv para a cerimônia de abertura. Havia cerveja, champagne, pipoca e sanduíches. Nós colocamos nossas bagagens no ônibus e começamos nossa jornada.
 
-Nós dormimos em um kibbutz em Urim. Após a janta nós nos reunimos para conhecermos uns aos outros e para receber informações sobre os próximos dias. Nós descobrimos quais dias nós iríamos exibir nossos filmes e os estudantes que organizaram a viagem nos contaram sobre um projeto chamado "Filme Groups" (Grupos de Filmes); um projeto que involvia adolescentes das cidades que iríamos visitar. Juntos com os participantes do Projeto do Ônibus, esses adolescentes escrever um roteiro de um filme curta que seria apresentado no programa de exibições da noite.
+Dormimos em um kibbutz em Urim. Após a janta nos reunimos para conhecermos uns aos outros e para receber informações sobre os próximos dias. Descobrimos quais dias nós iríamos exibir nossos filmes e os estudantes que organizaram a viagem nos contaram sobre um projeto chamado "Film Groups" (Grupos de Filmes); um projeto que involvia adolescentes das cidades que iríamos visitar. Juntos com os participantes do _Film Bus_, esses adolescentes escreveriam um roteiro de um curta que seria apresentado no programa de exibições da noite.
 
-Posteriormente teria uma festa com cerveja e lícor. Eu perguntei a uma estudante de cinema como ela pensava sobre seu futuro em Israel e se ela estava envolvida no movimento de paz contra a ocupação. Ela demonstrou-se não confiante e disse pensar que Israel nunca deixaria a ocupação; a única coisa que poderia causa uma mudança seria uma pressão externa, como um boicote à Israel. Ela disse que críticas israelenses contra a ocupação poderiam levar a uma guerra civil.
+Posteriormente teria uma festa com cerveja e licor. Eu perguntei a uma estudante de cinema como ela pensava sobre seu futuro em Israel e se ela estava envolvida no movimento de paz contra a ocupação. Ela demonstrou-se não confiante e disse pensar que Israel nunca deixaria a ocupação; a única coisa que poderia causar uma mudança seria uma pressão externa, como um boicote à Israel. Ela disse que críticas israelenses contra a ocupação poderiam levar a uma guerra civil.
 
 Mais informações sobre o vilarejo palestino onde Urim foi construído:
 <http://www.palestineremembered.com/Beersheba/al-%27Imara/index.html>
@@ -53,17 +63,17 @@ Mais informações sobre o vilarejo palestino onde Urim foi construído:
 
 <img src="/static/img/1/Bussresan_Pressbild_04.jpg" alt="Ônibus" width="100%" />
 
-Toda manhã acordávamos cedo para o café da manhã e para nos organizarmos no cronograma do dia. Hoje iríamos visitar o Parque Ofakim que é um Parque Karim Kayemeth Lelsrael, [KKL]( http://www.kkl.org.il/eng/). KKL é também um dos maiores patrocinadores do festival de filmes. Quando chegamos ao parque tivemos uma palestra Zionística. O guia nos contou uma história de Israel de uma perspectiva Zionística e ela se referia aos estudantes de cinema como se todos fossem judeus (o que não era verdade). Infelizmente eu não estava preparada para isto e eu não consegui perguntar nada. Isto era o total oposto do que esperava do projetto "Film Bus".
+Toda manhã acordávamos cedo para o café da manhã e para nos organizarmos no cronograma do dia. Hoje iríamos visitar o Parque Ofakim que é um Parque Karim Kayemeth Lelsrael, [KKL]( http://www.kkl.org.il/eng/). KKL é também um dos maiores patrocinadores do Festival. Quando chegamos ao parque tivemos uma palestra sionista. O guia nos contou uma história de Israel de uma perspectiva sionista e ela se referia aos estudantes de cinema como se todos fossem judeus (o que não era verdade). Infelizmente eu não estava preparada para isto e eu não consegui perguntar nada. Isto era o total oposto do que esperava do projetto "Film Bus".
 
 A palestra foi como a KKL, com a ajuda do dinheiro coletado ao redor do mundo, plantou árvores e construiu parques em áreas que normalmente eram desertos vazios. (Posteriormente, eu encontrei informações sobre o desaparecimento de vilarejos palestinos que existiam anteriormente onde estes parques estão construídos hoje, <http://www.bdsmovement.net/activecamps/jnf> e <http://www.palestineremembered.com/GeoPoints/Jerusalem_528/SatelliteView.html>).
 
 Nós andamos pelo parque com um guia de pássaros. Este foi um dos locais mais assustadores que já estive. No meio do parque havia uma antiga estação policial árabe fechada. O guia contava sobre os diferentes pássaros e plantas. Ele contou-nos sobre o pássaro cuco e como ele colocava ovos nos ninhos de outros pássaros. Os ovos e os filhotes dos cucos são maiores que dos outros pássaros, que acabavam sendo empurrados para fora dos ninhos. O filhote de cuco então acabava ficando com toda comida trazida pelos pássaros pais que construiram os ninhos. O guia nos disse que apesar dos ovos serem maiores, os pássaros pais dos ninhos não faziam nada, dizendo que toleravam isso, sabendo ou não que os ovos eram seus. O guia concluia isso; mesmo que parecesse injusto, a longo prazo isso era insignificante pois o cuco só fazia isso algumas vezes. Ele chamava isso do balanço de terror da natureza. Depois ele contou que os cucos europeus eram diferentes dos de Israel pois eles podiam alterar o tamanho e a cor de seus ovos para não deixar os outros pássaros suspeitos. Mas isto era outra história, dizia ele, enquanto aproximávamos de uma plantação de eucaliptos.
 
-<img src="/static/img/1/DuvorOÌˆverMur01.jpg" alt="Pássaros" width="100%" />
+<img src="/static/img/1/DuvorOÌˆverMur01.jpg" alt="Pássaros" width="100%" />
 
-Durante toda a viagem eu sentia-me como faltando informação ou aprendizados sobre os locais que estava visitando. O guia apenas contávanos sobre a história que deixava Israel sobre um ponto de vista positivo e mantinha silência sobre a violenta história de Israel em relação a Palestina. Após isso, viajamos para Ofakim onde exibimos nossos filmes à noite. Nós distribuímos panfletos para trazer as pessoas à nossa exibição.
+Durante toda a viagem eu sentia-me como faltando informação ou aprendizados sobre os locais que estava visitando. O guia apenas nos contava sobre a história que deixava Israel sobre um ponto de vista positivo e mantinha silêncio sobre a violenta história de Israel em relação a Palestina. Após isso, viajamos para Ofakim onde exibimos nossos filmes à noite. Nós distribuímos panfletos para trazer as pessoas à nossa exibição.
 
-De noite, nós nos reunimos num anfiteatro externo. Nós exibimos filmes para os "Film Groups" (Grupos de Filmes) que foram gravados por jovens da cidade assim como filmes criados por participantes do "bus project". Antes de cada filme, seu diretor se apresentava e apresentava o filme.
+De noite, nós nos reunimos num anfiteatro externo. Exibimos filmes dos "Film Groups" (Grupos de Filmes) que foram gravados por jovens da cidade assim como filmes criados por participantes do "bus project". Antes de cada filme, seu diretor se apresentava e apresentava o filme.
 
 Após as exibições nós voltávamos para o kibbutz, onde havia uma festa para quem sentia vontade de festejar.
 
@@ -71,20 +81,20 @@ Após as exibições nós voltávamos para o kibbutz, onde havia uma festa para 
 
 <img src="/static/img/1/Bussresan_Pressbild_10.jpg" alt="Ônibus" width="100%" />
 
-Hoje viajamos para Netiv Ha’Asara, um _moshav_ situado próximo ao muro, fora de Gaza. Um dos residentes nos dá uma palestra em hebraico e nos mostra a uma colina onde podemos ver o muro e Gaza. O guia nos diz que as casas são construídas de modo que elas também funcionar como abrigos contra bombas, para mantê-los a salvo de mísseis a partir de Gaza. Ela também nos conta sobre a terapia da arte que eles fornecem para as crianças, para fazê-los se sentir seguros e não terem medo dos mísseis. (Um dos estudantes de cinema israelenses me diz que são jovens de 16 anos que construem esses mísseis e que eles raramente acertar o alvo.)<br />
-O motorista do ônibus diz que não precisa sentir pena desses moradores que vivem aqui já que eles são subsídados pelo Estado.
+Hoje viajamos para Netiv Ha’Asara, um _moshav_ situado próximo ao muro, fora de Gaza. Um dos residentes nos dá uma palestra em hebraico e nos leva a uma colina onde podemos ver o muro e Gaza. O guia nos diz que as casas são construídas de modo que elas também funcionam como abrigos contra bombas, para mantê-los a salvo de mísseis a partir de Gaza. Ela também nos conta sobre a terapia da arte que eles fornecem para as crianças, para fazê-los se sentir seguros e não terem medo dos mísseis. (Um dos estudantes israelenses me diz que são jovens de 16 anos que construem esses mísseis e que eles raramente acertam o alvo.)<br />
+O motorista do ônibus diz que não precisa sentir pena desses moradores que vivem aqui já que eles são subsidiados pelo Estado.
 
 Nós nunca falamos sobre o cerco de Israel e bloqueio de Gaza e sobre como as pessoas que vivem alí estão continuamente submetidas a ataques militares israelenses.
 
-Depois de ver Gaza da encosta, temos pressa para chegar à praia ao norte de Gaza. Os alunos nos dizem que precisamos nos apressar para termos tempo para se bronzear. Durante a viagem, normalmente estamos apressados para realizar diferentes actividades, como passar um tempo na praia e beber cerveja. Não há espaço para diálogo ou discussões. Este _stress_ constante às vezes me dá uma sensação de estar em um acampamento militar.
+Depois de ver Gaza da encosta, temos pressa para chegar à praia ao norte de Gaza. Os alunos nos dizem que precisamos nos apressar para termos tempo para se bronzear. Durante a viagem, normalmente estamos apressados para realizar diferentes atividades, como passar um tempo na praia e beber cerveja. Não há espaço para diálogo ou discussões. Este _stress_ constante às vezes me dá uma sensação de estar em um acampamento militar.
 
 Depois da praia, vamos mostrar nossos filmes em Netiv Ha'Asara. E depois festa.
 
 ## Dia 4, Sexta-Feira, 23 de Maio
 
-<img src="/static/img/1/GaÌŠAvBuss01.jpg" alt="Filmando" width="100%" />
+<img src="/static/img/1/GaÌŠAvBuss01.jpg" alt="Filmando" width="100%" />
 
-Hoje nós visitamos uma cidade beduína chamada Shegev Shalom e eu vou ajudar uma equipe cinematográfica na gravação de um curta-metragem com alguns jovens locais. Estou ansiosa para isso. Enquanto os outros visitam uma sociedade israelense, eu ajudo com as filmagens de hoje. Os jovens só falam árabe, mas temos a sorte que um dos estudantes de cinema israelenses também sabe árabe. Nós nos ajudamos durante as filmagens e mesmo que apenas um de nós saiba árabe, a filmagem correm de forma fácil e divertida. Os jovens moradores optaram por fazer um filme que muda a forma com que as outras pessoas, especialmente os israelenses, os vêm. É um filme sobre como a noção estereotipada de beduínos, como sendp violento e criminoso, não é real.
+Hoje nós visitamos uma cidade beduína chamada Shegev Shalom e eu vou ajudar uma equipe cinematográfica na gravação de um curta-metragem com alguns jovens locais. Estou ansiosa para isso. Enquanto os outros visitam uma sociedade israelense, eu ajudo com as filmagens de hoje. Os jovens só falam árabe, mas temos a sorte que um dos estudantes israelenses também sabe árabe. Nós nos ajudamos durante as filmagens e mesmo que apenas um de nós soubesse árabe, a filmagem corre de forma fácil e divertida. Os jovens moradores optaram por fazer um filme que muda a forma com que as outras pessoas, especialmente os israelenses, os vêm. É um filme sobre como a noção estereotipada de beduínos, como sendo violento e criminoso, não é real.
 
 Antes do jantar nós celebramos o kabbalah Shabbat e nós não bebemos tanto vinho como nas outras noites por respeito aos moradores que são muçulmanos.
 
@@ -96,7 +106,7 @@ Após a exibição todos nós dormimos em uma grande tenda.
 
 <img src="/static/img/1/FBiHotell.jpg" alt="Hotel" width="100%" />
 
-Durante a viagem de onibus para Haifa, um dos estudantes israelenses me entrevistar para um blog... Eu lhe pergunto se ele sabe de todas as organizações que trabalham pela colaborações entre israelenses e palestinos. Ele me diz que não é tão comum, mas que ele está participando de uma agora. É um projeto de filme em que israelenses e palestinos fazem curtas-metragens sobre o mesmo tema. O tema deste ano é de esportes e os filmes serão exibidos juntos no festival de cinema. Mas, como sempre acontece com esses projetos de colaboração entre israelenses e palestinos, os cineastas nunca se encontram. Todos eles fazem seus filmes separadamente... Aproveito a oportunidade para lhe perguntar quais os seus pensamentos sobre a Palestina. Ele me diz que ele não pode falar ou pensar sobre isso; é muito difícil e desconfortável. Isso é o fim da discussão.
+Durante a viagem de onibus para Haifa, um dos estudantes israelenses me entrevista para um blog... Eu lhe pergunto se ele sabe de todas as organizações que trabalham pela colaborações entre israelenses e palestinos. Ele me diz que não é tão comum, mas que ele está participando de uma agora. É um projeto de cinema em que israelenses e palestinos fazem curtas-metragens sobre o mesmo tema. O tema deste ano é de esportes e os filmes serão exibidos juntos no festival de cinema. Mas, como sempre acontece com esses projetos de colaboração entre israelenses e palestinos, os cineastas nunca se encontram. Todos eles fazem seus filmes separadamente... Aproveito a oportunidade para lhe perguntar quais os seus pensamentos sobre a Palestina. Ele me diz que ele não pode falar ou pensar sobre isso; é muito difícil e desconfortável. Isso é o fim da discussão.
 
 Nós visitamos Ein Hod, uma cidade de artistas com um Museu Yanco Dada. O guia fala sobre o movimento Dada e explica como ele se formou como um protesto contra a Primeira Guerra Mundial e a sociedade que permitiu esta guerra. Um dos estudantes israelenses se opõe e diz que o movimento Dadá não era um protesto contra qualquer coisa. Este é o único debate político durante toda a viagem.
 
@@ -118,13 +128,13 @@ Após a exibição e a palestra, vamos para a praia. Durante a noite eu apresent
 
 <img src="/static/img/1/Bussresan_Pressbild_09.jpg" alt="Ônibus" width="100%" />
 
-Antes do almoço nós fazemos yoga na praia. Em seguida, visitamos Harduf, um kibbutz antroposofico onde nós alimentamentamos os bezerros e as galinhas e preparamos um almoço orgânico. O guia nos mostra a escola local e explica o método de ensino da Antroposofia. Há uma breve discussão sobre se as crianças estão sofrendo lavagem cerebral.
+Antes do almoço nós fazemos yoga na praia. Em seguida, visitamos Harduf, um kibbutz antroposofico onde nós alimentamos os bezerros e as galinhas e preparamos um almoço orgânico. O guia nos mostra a escola local e explica o método de ensino da Antroposofia. Há uma breve discussão sobre se as crianças estão sofrendo lavagem cerebral.
 
-Antes da exibição da noite em uma cidade chamada Deir al-Asad, onde os moradores são palestinos com cidadania israelense, árabe-israelenses, temos uma reunião com alguns jovens locais. Nós nos encontramos com cinco alunos; uma das alunas nos fala sobre a ONG que ela começou. Sua finalidade é ajudar os jovens da cidade a estudar na universidade. A reunião termina abruptamente porque estamos atrazados para a exibição desta noite. Alguns dos estudantes israelenses tirar sarro de moradores da cidade, incluindo os que acabaramos de conhecer.
+Antes da exibição da noite em uma cidade chamada Deir al-Asad, onde os moradores são palestinos com cidadania israelense, árabe-israelenses, temos uma reunião com alguns jovens locais. Nós nos encontramos com cinco alunos; uma das alunas nos fala sobre a ONG que ela começou. Sua finalidade é ajudar os jovens da cidade a estudar na universidade. A reunião termina abruptamente porque estamos atrasados para a exibição desta noite. Alguns dos estudantes israelenses tirar sarro de moradores da cidade, incluindo os que acabaramos de conhecer.
 
 ## Dia 8, terça-feira, 27 de maio
 
-<img src="/static/img/1/IGraÌˆset01.jpg" alt="Parque" width="100%" />
+<img src="/static/img/1/IGraÌˆset01.jpg" alt="Parque" width="100%" />
 
 Durante meio-dia nós caminhamos em um parque KKL em Golan. O guia nos diz o quão patriótico ele se sente quando vê as plantações. Nós cantamos canções em hebraico que eu não entendo o que significam. Então nós nadamos em lago de Genesaré. Comemos melancia e bebemos cerveja.
 
@@ -134,7 +144,7 @@ A última sessão de cinema é em Beit She'an e depois há uma festa de despedid
 
 <img src="/static/img/1/IBussen01.jpg" alt="Ônibus" width="100%" />
 
-Antes de voltar para Tel Aviv, nos reunimos para ter uma reunião para que todos possam partilhar seus pensamentos sobre a viagem. A amioria estava contente e tinham passado por uma experiência incrível.
+Antes de voltar para Tel Aviv, nos reunimos para ter uma reunião para que todos pudessem partilhar seus pensamentos sobre a viagem. A maioria estava contente e tinham passado por uma experiência incrível.
 
 Depois de dois dias no festival de cinema estudantil Tel Aviv International, onde as perguntas aos diretores se centraram principalmente em falas sobre maconha, a praia e a vida noturna de Tel Aviv, eu decidi que eu já tinha visto o suficiente e viajei para Ramallah, Hebron e Belém nos territórios ocupados da Palestina.
 
@@ -142,7 +152,7 @@ Depois de dois dias no festival de cinema estudantil Tel Aviv International, ond
 
 Aqui está o clipe de abertura do festival de cinema, feito pelos alunos, que foi mostrado antes de cada seleção: <https://www.youtube.com/watch?v=Q43SBwGv20Q#t=22>
 
-Com a ajuda do documentarista Pea Holmquist, tive a oportunidade de visitar a Universidade de Birzeit fora de Ramallah, onde ele leciona a matéria de cinema documental. Nós assistimos a um documentário sobre uma mulher palestina que, apesar de vários ataques incendiários, se recusa a deixar sua casa para os colonos ilegais. Os estudantes estão frustrados depois de assistir ao filme. Eles querem fazer filmes sobre a ocupação e sua situação, mas eles sentem que é difícil de encontrar perspectivas novas e interessantes que se alcancem o resto do mundo, já que tantos filmes já foram feitos sobre o assunto. Há um contraste impressionante entre o silêncio e a ignorância dos estudantes de cinema israelense a respeito do assunto e da ânsia dos estudantes palestinos para discutir a ocupação usando os filmes como ferramenta para a mudança.
+Com a ajuda do documentarista Pea Holmquist, tive a oportunidade de visitar a Universidade de Birzeit fora de Ramallah, onde ele leciona a matéria de cinema documental. Nós assistimos a um documentário sobre uma mulher palestina que, apesar de vários ataques incendiários, se recusa a deixar sua casa para os colonos ilegais. Os estudantes estão frustrados depois de assistir ao filme. Eles querem fazer filmes sobre a ocupação e sua situação, mas eles sentem que é difícil de encontrar perspectivas novas e interessantes que alcancem o resto do mundo, já que tantos filmes já foram feitos sobre o assunto. Há um contraste impressionante entre o silêncio e a ignorância dos estudantes de cinema israelense a respeito do assunto e da ânsia dos estudantes palestinos para discutir a ocupação usando os filmes como ferramenta para a mudança.
 
 No final da palestra do dia eu me apresento à classe e lhes relato sobre o _Bus Film Project_. Os alunos me perguntam o que os estudantes israelenses dizem sobre a Palestina e qual a sua opinião sobre a ocupação. O que eles dizem sobre nós? Quais são suas discussões?
 
@@ -160,23 +170,23 @@ A descrição do projeto diz que os estudantes de cinema que organizam o festiva
 
 # A viagem de Anna
 
-A documentarista estudante Anna Padilla participou da primeira edição do _Bus Film Project_, 2012. Durante essa viagem ocorreram alguns eventos que incluíram críticas contra a ocupação, mas ao longo dos anos, eles foram sendo removidos.
+A documentarista estudante Anna Padilla participou da primeira edição do _Film Bus Project_, 2012. Durante essa viagem ocorreram alguns eventos que incluíram críticas contra a ocupação, mas ao longo dos anos, eles foram sendo removidos.
 
 Durante sua viagem, um dos eventos foi cancelado porque os estudantes de cinema israelenses que a organizaram sentiram que ele seria excessivamente crítico contra Israel e eles tiveram medo de que os estudantes internacionais formariam uma "idéia errada" sobre o país. O seminário que foi cancelado seria uma reunião com uma organização chamada _Breaking the Silence_. É uma organização israelense onde os ex-soldados da IDF (Forças de Defesa de Israel) testemunham sobre os abusos que eles cometeram e viram durante seu serviço militar.
 
 Foi depois de um seminário com a produtora de cinema israelense Liran Atzmor, que produziu o documentário _"The Law In These Parts"_ (2011), disse que alguns dos estudantes de cinema israelenses se irritaram e decidiram cancelar o encontro com o _Breaking the Silence_.
 
-O filme, que foi exibido durante o _Bus Film Project_ de 2012, é um documentário sobre a ocupação e do sistema jurídico militar que é imposto ao povo palestino.
+O filme, que foi exibido durante o _Film Bus Project_ de 2012, é um documentário sobre a ocupação e do sistema jurídico militar que é imposto ao povo palestino.
 
-Durante o seminário, Atzmor disse que "a maioria das pessoas não sai às ruas se eles souberem que a luta é contra a ocupação. Eles nunca saem em grane volume para lutar pelo fim da ocupação. Nunca houve um milhão de pessoas protestando em Israel contra a ocupação, mas em vez disso, contra o preço do queijo cottage no supermercado, houve um milhão de pessoas que saíram de suas casas para lutar. Isto é inacreditável. Como as pessoas podem ignorar a realidade de uma forma tão extrema."
+Durante o seminário, Atzmor disse que "a maioria das pessoas não sai às ruas se eles souberem que a luta é contra a ocupação. Eles nunca saem em grande volume para lutar pelo fim da ocupação. Nunca houve um milhão de pessoas protestando em Israel contra a ocupação, mas em vez disso, contra o preço do queijo cottage no supermercado, houve um milhão de pessoas que saíram de suas casas para lutar. Isto é inacreditável. Como as pessoas podem ignorar a realidade de uma forma tão extrema."
 
 Os estudantes de cinema israelenses se irritaram porque eles acharam que a produtora se aproveitou desta oportunidade para criticar Israel. Eles esperavam que ela discutisse o processo de realização do filme e que apenas mencionasse Israel com neutralidade.
 
-Samar Qupty de Nazaré. Ela é uma palestina com cidadania israelense, que agora vive em Tel Aviv. Ela é uma ex-estudante de cinema no _Tel Aviv University Film and TV Departament_. Samar foi a única estudante de cinema palestina que participou do _Bus Film Project_ de 2012. Ela nos disse que sua participação no _Bus Film Project_ a fez sentir-se como uma cúmplice; como se sua presença estivesse sendo usada para dar uma boa aparência o projeto e faze-lo parecer politicamente consciente. Ela é muito crítica ao projeto e diz que: "Esses projetos de intercâmbio, como o projeto de ônibus, não são aleatórios, eles estão lá por uma razão que não é meramente cultural ou acadêmica. Eles estão lá para mudar a idéia do mundo sobre Israel. Eles estão lá para espalhar uma "perspectiva" diferente da ocupação. Eles estão lá para trazer adolescentes do mundo todo, mostrar-lhes o país, alimentá-los com informações falsas sobre a história e torná-los se apaixonar por Israel — e não pela Palestina. É por isso que boicote cultural não é menos importante do que o boicote econômico".
+Samar Qupty de Nazaré. Ela é uma palestina com cidadania israelense, que agora vive em Tel Aviv. Ela é uma ex-estudante de cinema no _Tel Aviv University Film and TV Departament_. Samar foi a única estudante de cinema palestina que participou do _Film Bus Project_ de 2012. Ela nos disse que sua participação no _Bus Film Project_ a fez sentir-se como uma cúmplice; como se sua presença estivesse sendo usada para dar uma boa aparência o projeto e faze-lo parecer politicamente consciente. Ela é muito crítica ao projeto e diz que: "Esses projetos de intercâmbio, como o projeto de ônibus, não são aleatórios, eles estão lá por uma razão que não é meramente cultural ou acadêmica. Eles estão lá para mudar a idéia do mundo sobre Israel. Eles estão lá para espalhar uma "perspectiva" diferente da ocupação. Eles estão lá para trazer adolescentes do mundo todo, mostrar-lhes o país, alimentá-los com informações falsas sobre a história e torná-los se apaixonar por Israel — e não pela Palestina. É por isso que boicote cultural não é menos importante do que o boicote econômico".
 
 Samar diz que, sendo palestina, ela foi discriminada durante a sua educação cinematográfica na Universidade de Tel Aviv:
 
-> "A discriminação étnica começa com a língua. Como você sabe, a língua oficial nas universidades é o hebraico. Estudantes palestinos que vêm de pequenas vilas, ou mesmo da cidade (Nazareth por exemplo), não tiveram contacto com a língua hebraica antes. De repente, tudo o que ouvem é o hebraico acadêmico, tudo o que eles precisam para escrever é o hebraico acadêmico. Assim, desde o início, o aluno árabe eo estudante judeu não estão no mesmo nível. E isso leva a uma série de dificuldades que só fazem essa lacuna se tornar cada vez maior. Os feriados palestinos, por exemplo, não são considerados também, é evidente. Então, se você quer comemorar o Natal, ou o _Eid Elfeter_ ou o _El Adha_ com a sua família, você precisa saber que fará isso "às custas" do sacrifício de seus estudos e deveres académicos. Outro obstáculo que os estudantes palestinos enfrentam é uma missão acadêmica. Normalmente, os artigos que estão sendo usados nestas universidades são em Inglês, de modo que o aluno não só deve escrever hebraico, mas também precisa ler Inglês e muito provavelmente, pensar em árabe. Agora, teoricamente, segundo a lei, a universidade deveria permitir que os alunos árabes escrevessem suas tarefas de acadêmicas ou realizassem seus seminários em sua língua materna, sendo também obrigadas a fornecer professores capacitados para avaliar estas tarefas e lhes atribuir uma nota. Na prática, contudo, quando fui ao departamento Cinema na universidade reivindicando o meu direito de escrever um seminário em língua árabe, devido às minhas dificuldades de linguagem, a resposta foi: "Desculpe-nos, mas não temos nenhum professor que fale árabe para avaliar o seu seminário, assim você terá que escrevê-lo em hebraico ". Estes são apenas a alguns pontos que eu acho que são mais objetivos. Eu não vou falar sobre o racismo entre professores e alunos que acontece sobretudo nos corredores, nem sobre o racismo entre os próprios estudantes, especialmente em tempos difíceis como agora, porque não é o caso para todos, então eu não acho justo generalizar. Mas, vamos dizer, ele está lá em grande parte do tempo. Estou extremamente emotiva ultimamente por causa do massacre a de Israel em Gaza[[1]](#1). Eu tentei ser o mais objetiva possível quanto a isso, mas eu ainda estou procurando a luz no fim do túnel. Eu sei que ela está lá, só precisamos querer alcançá-la, muito mesmo!"
+> "A discriminação étnica começa com a língua. Como você sabe, a língua oficial nas universidades é o hebraico. Estudantes palestinos que vêm de pequenas vilas, ou mesmo da cidade (Nazareth por exemplo), não tiveram contacto com a língua hebraica antes. De repente, tudo o que ouvem é o hebraico acadêmico, tudo o que eles precisam para escrever é o hebraico acadêmico. Assim, desde o início, o aluno árabe eo estudante judeu não estão no mesmo nível. E isso leva a uma série de dificuldades que só fazem essa lacuna se tornar cada vez maior. Os feriados palestinos, por exemplo, não são considerados também, é evidente. Então, se você quer comemorar o Natal, ou o _Eid Elfeter_ ou o _El Adha_ com a sua família, você precisa saber que fará isso "às custas" do sacrifício de seus estudos e deveres académicos. Outro obstáculo que os estudantes palestinos enfrentam é uma missão acadêmica. Normalmente, os artigos que estão sendo usados nestas universidades são em Inglês, de modo que o aluno não só deve escrever hebraico, mas também precisa ler Inglês e muito provavelmente, pensar em árabe. Agora, teoricamente, segundo a lei, a universidade deveria permitir que os alunos árabes escrevessem suas tarefas acadêmicas ou realizassem seus seminários em sua língua materna, sendo também obrigadas a fornecer professores capacitados para avaliar estas tarefas e lhes atribuir uma nota. Na prática, contudo, quando fui ao departamento Cinema na universidade reivindicando o meu direito de escrever um seminário em língua árabe, devido às minhas dificuldades de linguagem, a resposta foi: "Desculpe-nos, mas não temos nenhum professor que fale árabe para avaliar o seu seminário, assim você terá que escrevê-lo em hebraico ". Estes são apenas a alguns pontos que eu acho que são mais objetivos. Eu não vou falar sobre o racismo entre professores e alunos que acontece sobretudo nos corredores, nem sobre o racismo entre os próprios estudantes, especialmente em tempos difíceis como agora, porque não é o caso para todos, então eu não acho justo generalizar. Mas, vamos dizer, ele está lá em grande parte do tempo. Estou extremamente emotiva ultimamente por causa do massacre de Israel em Gaza[[1]](#1). Eu tentei ser o mais objetiva possível quanto a isso, mas eu ainda estou procurando a luz no fim do túnel. Eu sei que ela está lá, só precisamos querer alcançá-la, muito mesmo!"
 
 # Conclusões sobre a nossa participação no _Film Bus Project_
 
@@ -190,7 +200,7 @@ Este não é um protesto silencioso. Acreditamos que é importante termos clarez
 
 Como artistas e cineastas internacionais, a nossa participação em projetos que não tomam uma posição ativa contra a ocupação só leva à normalização e legitimação da Universidade de Tel Aviv e da política israelense atual, incluindo a ocupação que viola diversas leis internacionais.
 
-Aqui está um extrato de uma chamada para o boicote da "Coferência de Cinema e Estudos de Mídia" da Iniversidade de Tel Aviv:
+Aqui está um extrato de uma chamada para o boicote da "Conferência de Cinema e Estudos de Mídia" da Iniversidade de Tel Aviv:
 
 
 > "À Universidade de Tel Aviv.

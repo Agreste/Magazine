@@ -2,7 +2,7 @@ template: article.html
 background: /static/img/1/DOO_6789.jpg
 title: "AGRESTE"
 
-<iframe src="https://player.vimeo.com/video/125755482" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<center><iframe src="https://player.vimeo.com/video/125755482" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 Não é mais uma 
 
@@ -22,7 +22,7 @@ Estudos
 
 Excêntricos
 
-<iframe src="https://player.vimeo.com/video/126794315" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<center><iframe src="https://player.vimeo.com/video/126794315" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 por
 

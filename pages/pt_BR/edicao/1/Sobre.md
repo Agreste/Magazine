@@ -26,7 +26,7 @@ Excêntricos
 <iframe src="https://player.vimeo.com/video/126748217" style="float:right;border:1px solid white;" width="100" height="56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/126794312" style="float:right;border:1px solid white;" width="100" height="56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/126794314" style="float:right;border:1px solid white;" width="100" height="56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/126794315" style="float:right;border:1px solid white;" width="100" height="56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/126794315" style="float:right;border:1px solid white; clear: both;" width="100" height="56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 por
 

@@ -26,9 +26,9 @@ Excêntricos
 
 por
 
-Bruno Lottelli
-Edgar Zanella
-Eduardo Liron
-Frederico Moreira
-Marcio Castro
-Mirrah Iañez
+Bruno Lottelli<br />
+Edgar Zanella<br />
+Eduardo Liron<br />
+Frederico Moreira<br />
+Marcio Castro<br />
+Mirrah Iañez<br />

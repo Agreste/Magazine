@@ -23,6 +23,7 @@
 @font-face {
     font-family: Lekton;
     src: url('/static/fonts/Lekton-Regular.ttf');
+}
 
 /* background setup */
 .background {

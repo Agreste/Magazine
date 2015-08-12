@@ -39,16 +39,16 @@ quem cria os museus? para que servem suas paredes? para quem esteve em casa por 
 
 no início, decerto & portanto, o museu 
 
-esta imagem veio surrupiada de uma flor; uma semente, para ser mais precisa, de _me roubaram uns dias contados-. após atingir a fama & a glória como o van gogh brasileiro, o rodrigo pintor concede entrevistas aos principais jornais e programas de televisão - ratinho incluso. aliás, quem imaginou um dia a participação do maior artista plástico do país em um teste de DNA com o seu sósia / replicante / fã? examinado em minúcias, o ácido comentário de rodrigo é uma proposta radical: vamos investigar a concepção criadora dos inspiradores e dos inspirados; há mesmo algo que fica na obra quando alguém levanta a mão para dizer - fulano de tal é a minha grande referência?. mas voltando ao tema principal - perdão, a tergiversação é um sólido costume por aqui -, com o ápice fulgurante de sua produção plástica, o governo brasileiro erige-lhe um museu.
+esta imagem veio surrupiada de uma flor; uma semente, para ser mais precisa, de _me roubaram uns dias contados_. após atingir a fama & a glória como o van gogh brasileiro, o rodrigo pintor concede entrevistas aos principais jornais e programas de televisão - ratinho incluso. aliás, quem imaginou um dia a participação do maior artista plástico do país em um teste de DNA com o seu sósia / replicante / fã? examinado em minúcias, o ácido comentário de rodrigo é uma proposta radical: vamos investigar a concepção criadora dos inspiradores e dos inspirados; há mesmo algo que fica na obra quando alguém levanta a mão para dizer - fulano de tal é a minha grande referência?. mas voltando ao tema principal - perdão, a tergiversação é um sólido costume por aqui -, com o ápice fulgurante de sua produção plástica, o governo brasileiro erige-lhe um museu.
 
-<font color="#ff9624">Nomear</font>
-a porta é um rito
+<font color="#ff9624">Nomear</font><br />
+a porta é um rito<br />
 uma passagem para algo
 
-o algo é o absurdo
+o algo é o absurdo<br />
 ou o ocaso, concluo
 
-o algo se imagina alguém
+o algo se imagina alguém<br />
 periga estar ou ser
 
 
@@ -67,17 +67,17 @@ a quarta, o hospital psiquiátrico onde rimbaud & baudelaire brigam pela atenç�
 a quinta & última, a sala azul da memória (os sonhos, as projeções). 
 
 
-<font color="#ff9624">Realcoisacional</font>
-escrever poesia
+<font color="#ff9624">Realcoisacional</font><br />
+escrever poesia<br />
 é como se perder
 
-perder-se em si
+perder-se em si<br />
 para sobreviver
 
-não ouvir do silêncio
+não ouvir do silêncio<br />
 coisas tão verdade
 
-que tão mais coisas
+que tão mais coisas<br />
 se tornem realidade
 
 
@@ -91,18 +91,18 @@ os entrevistados não sabiam do cenário onde seriam entrevistados nem a pauta d
 
 (perguntas feitas também com as anotações pessoais de rodrigo)
 
-somos todos personagens
-somos todos sósias de nós próprios
+somos todos personagens<br />
+somos todos sósias de nós próprios<br />
 onde está o teste de dna? 
 
 
 
-   <font face="JosefinSlab">Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.
-   Você pensa uma coisa e é outra que acontece. As personagens têm vida própria?
-   Não sei. Personagens não são alucinações.
-   Pensamentos são entidades autônomas?
-   A gente fica parecido com os nossos pensamentos. Com as nossas personagens. Todas vocês se encontram em mim. Duvida disso?
-   Não. Esse é o segundo livro que sou personagem.
+   <font face="JosefinSlab">Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.<br />
+   Você pensa uma coisa e é outra que acontece. As personagens têm vida própria?<br />
+   Não sei. Personagens não são alucinações.<br />
+   Pensamentos são entidades autônomas?<br />
+   A gente fica parecido com os nossos pensamentos. Com as nossas personagens. Todas vocês se encontram em mim. Duvida disso?<br />
+   Não. Esse é o segundo livro que sou personagem.<br />
    Vou te dar um fim melhor do que a morte. Mas você sabe que aqui todo mundo ressuscita, né?</font>
 
  
@@ -124,78 +124,46 @@ desse processo, veio tudo vai ficar da cor que você quiser.
  
 Frases soltas da recepção em Toulouse
 
-`-` este filme é um golpe, obrigado por esta porrada (a tradutora foi de
-soco, imagino que tenha sido algo mais agressivo) (de um senhor de uns
-70 anos);
+`-` este filme é um golpe, obrigado por esta porrada (a tradutora foi de soco, imagino que tenha sido algo mais agressivo) (de um senhor de uns 70 anos);
 
-`-` é possível comprar o disco de rodrigo? sou um animal extinto: dono
-de uma gravadora punk na frança (deixo a cargo de vocês imaginar a
-pessoa);
+`-` é possível comprar o disco de rodrigo? sou um animal extinto: dono de uma gravadora punk na frança (deixo a cargo de vocês imaginar a pessoa);
 
-`-` rodrigo me fez lembrar a minha juventude punk e agradeço por isso
-(mesma pessoa);
+`-` rodrigo me fez lembrar a minha juventude punk e agradeço por isso (mesma pessoa);
 
-`-` mas ele morreu???? pelo final, achei que ele tinha sobrevivido e
-forjado o suicídio para parar de falar com as pessoas... (de uma
-adolescente de uns 15 anos);
+`-` mas ele morreu???? pelo final, achei que ele tinha sobrevivido e forjado o suicídio para parar de falar com as pessoas... (de uma adolescente de uns 15 anos);
 
 `-` esse ritmo não me deixou respirar (da minha anja de guarda, nëith);
 
-`-` não sei o que consigo falar pelas próximas horas; o filme tirou
-todas as minhas palavras (da amiga da anja de guarda, melissa,
-estudante de administração);
+`-` não sei o que consigo falar pelas próximas horas; o filme tirou todas as minhas palavras (da amiga da anja de guarda, melissa, estudante de administração);
 
-`-` a artificialidade com que vocês constroem a imagem é uma proposta
-estética diretamente ligada à artificialidade do mundo de rodrigo e
-poucos documentários de artista conseguem transpor para a imagem com
-tanta exatidão o que propõem no discurso. mas há muita ternura também.
-unir ternura & artificialidade num só filme não é fácil (de uma
-professora da ESAV, escola superior de audiovisual).
+`-` a artificialidade com que vocês constroem a imagem é uma proposta estética diretamente ligada à artificialidade do mundo de rodrigo e poucos documentários de artista conseguem transpor para a imagem com tanta exatidão o que propõem no discurso. mas há muita ternura também. unir ternura & artificialidade num só filme não é fácil (de uma professora da ESAV, escola superior de audiovisual).
 
-`-` qual o endereço desse museu? gostaria JÁ de comprar uma passagem
-para ir visitá-lo. { doeu um pouco o coração ter que dizer que
-inventamos o museu daquela seqüência  }
+`-` qual o endereço desse museu? gostaria JÁ de comprar uma passagem para ir visitá-lo. { doeu um pouco o coração ter que dizer que inventamos o museu daquela seqüência  }
 
-dois dias depois, houve um encontro com alunos do ensino médio de uma
-escola rural nas franjas de toulouse. durante as férias, a
-universidade oferece diversos cursos livres e esta turma escolheu a de
-documentário. eles são oito, entre 15 e 17 anos, e são responsáveis
-por um dos prêmios de amanhã (que aqui é hoje).
+dois dias depois, houve um encontro com alunos do ensino médio de uma escola rural nas franjas de toulouse. durante as férias, a
+universidade oferece diversos cursos livres e esta turma escolheu a de documentário. eles são oito, entre 15 e 17 anos, e são responsáveis por um dos prêmios de amanhã (que aqui é hoje).
 
-eles ~realmente~ anotaram impressões sobre o filme e cada um tinha uma
-pergunta a fazer. { como toulouse, e toda a região dos médio-pirineus,
-têm uma identificação mais forte com a catalunha do que propriamente
-com a cultura francesa recorrente, quase todas as pessoas falam os
-dois idiomas; os alunos, por exemplo, têm aulas bilíngües. toda a
-conversa deu-se em espanhol }
+eles ~realmente~ anotaram impressões sobre o filme e cada um tinha uma pergunta a fazer. { como toulouse, e toda a região dos médio-pirineus, têm uma identificação mais forte com a catalunha do que propriamente com a cultura francesa recorrente, quase todas as pessoas falam os dois idiomas; os alunos, por exemplo, têm aulas bilíngües. toda a conversa deu-se em espanhol }
 
 mashup perguntas & comentários:
 
-`-` por que você decidiu filmar dessa forma tão suja quando hoje em dia
-se pode filmar em 4K, 6K?
+`-` por que você decidiu filmar dessa forma tão suja quando hoje em dia se pode filmar em 4K, 6K?
 
-`-` bla bla bla explicação videoestética bla bla bla referência anos 80
-bla bla bla VHS
+`-` bla bla bla explicação videoestética bla bla bla referência anos 80 bla bla bla VHS
 
 `-` mas o que é um VHS?
 
-PAUSA PARA: pegar um iPad, abrir no YouTube e mostrar a essa geração
-como eram as imagens há 30 anos atrás
+PAUSA PARA: pegar um iPad, abrir no YouTube e mostrar a essa geração como eram as imagens há 30 anos atrás
 
 `-` ahhhhhhhhhh, agora tudo faz sentido
 
 `-` quem é a funcionária pública? foi que ela que provocou a crise de rodrigo?
 
-`-` bla bla bla parte ficcionalizada de carbono pautado bla bla bla
-explicação do livro bla bla bla referências novelas brasileiras
+`-` bla bla bla parte ficcionalizada de carbono pautado bla bla bla explicação do livro bla bla bla referências novelas brasileiras
 
-PAUSA PARA: um dos garotos notou que Xarluz falava de uma maneira
-muito esquisita e queria saber se era uma língua inventada por
-rodrigo. (ponto para nós!)
+PAUSA PARA: um dos garotos notou que Xarluz falava de uma maneira muito esquisita e queria saber se era uma língua inventada por rodrigo. (ponto para nós!)
 
 
 & o melhor comentário do dia:
 
-`-` eu achava que o documentário era só sobre realidade, a vida real, as
-coisas que acontecem. não sabia que no documentário a gente podia
-inventar. obrigada.
+`-` eu achava que o documentário era só sobre realidade, a vida real, as coisas que acontecem. não sabia que no documentário a gente podia inventar. obrigada.

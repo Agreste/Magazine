@@ -124,35 +124,35 @@ desse processo, veio tudo vai ficar da cor que você quiser.
  
 Frases soltas da recepção em Toulouse
 
-- este filme é um golpe, obrigado por esta porrada (a tradutora foi de
+`-` este filme é um golpe, obrigado por esta porrada (a tradutora foi de
 soco, imagino que tenha sido algo mais agressivo) (de um senhor de uns
 70 anos);
 
-- é possível comprar o disco de rodrigo? sou um animal extinto: dono
+`-` é possível comprar o disco de rodrigo? sou um animal extinto: dono
 de uma gravadora punk na frança (deixo a cargo de vocês imaginar a
 pessoa);
 
-- rodrigo me fez lembrar a minha juventude punk e agradeço por isso
+`-` rodrigo me fez lembrar a minha juventude punk e agradeço por isso
 (mesma pessoa);
 
-- mas ele morreu???? pelo final, achei que ele tinha sobrevivido e
+`-` mas ele morreu???? pelo final, achei que ele tinha sobrevivido e
 forjado o suicídio para parar de falar com as pessoas... (de uma
 adolescente de uns 15 anos);
 
-- esse ritmo não me deixou respirar (da minha anja de guarda, nëith);
+`-` esse ritmo não me deixou respirar (da minha anja de guarda, nëith);
 
-- não sei o que consigo falar pelas próximas horas; o filme tirou
+`-` não sei o que consigo falar pelas próximas horas; o filme tirou
 todas as minhas palavras (da amiga da anja de guarda, melissa,
 estudante de administração);
 
-- a artificialidade com que vocês constroem a imagem é uma proposta
+`-` a artificialidade com que vocês constroem a imagem é uma proposta
 estética diretamente ligada à artificialidade do mundo de rodrigo e
 poucos documentários de artista conseguem transpor para a imagem com
 tanta exatidão o que propõem no discurso. mas há muita ternura também.
 unir ternura & artificialidade num só filme não é fácil (de uma
 professora da ESAV, escola superior de audiovisual).
 
-- qual o endereço desse museu? gostaria JÁ de comprar uma passagem
+`-` qual o endereço desse museu? gostaria JÁ de comprar uma passagem
 para ir visitá-lo. { doeu um pouco o coração ter que dizer que
 inventamos o museu daquela seqüência  }
 
@@ -171,22 +171,22 @@ conversa deu-se em espanhol }
 
 mashup perguntas & comentários:
 
-- por que você decidiu filmar dessa forma tão suja quando hoje em dia
+`-` por que você decidiu filmar dessa forma tão suja quando hoje em dia
 se pode filmar em 4K, 6K?
 
-- bla bla bla explicação videoestética bla bla bla referência anos 80
+`-` bla bla bla explicação videoestética bla bla bla referência anos 80
 bla bla bla VHS
 
-- mas o que é um VHS?
+`-` mas o que é um VHS?
 
 PAUSA PARA: pegar um iPad, abrir no YouTube e mostrar a essa geração
 como eram as imagens há 30 anos atrás
 
-- ahhhhhhhhhh, agora tudo faz sentido
+`-` ahhhhhhhhhh, agora tudo faz sentido
 
-- quem é a funcionária pública? foi que ela que provocou a crise de rodrigo?
+`-` quem é a funcionária pública? foi que ela que provocou a crise de rodrigo?
 
-- bla bla bla parte ficcionalizada de carbono pautado bla bla bla
+`-` bla bla bla parte ficcionalizada de carbono pautado bla bla bla
 explicação do livro bla bla bla referências novelas brasileiras
 
 PAUSA PARA: um dos garotos notou que Xarluz falava de uma maneira
@@ -196,6 +196,6 @@ rodrigo. (ponto para nós!)
 
 & o melhor comentário do dia:
 
-- eu achava que o documentário era só sobre realidade, a vida real, as
+`-` eu achava que o documentário era só sobre realidade, a vida real, as
 coisas que acontecem. não sabia que no documentário a gente podia
 inventar. obrigada.

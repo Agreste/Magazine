@@ -16,23 +16,23 @@ no início, era o verbo.
 
 no entanto, no caso de rodrigo de souza leão, este verbo é retrabalhado à exaustão: até virar tinta, até virar suzana vieira, até virar VHS, até virar webcam, até virar remédio enganosamente engolido e transformado em maraca para instrumento da banda eletro-espacial 
 
-<font face="Lekton">noite de verão
-gramados amarelo-punk
-chaminés cuspindo
-redondas formas
-que poderiam ser
-cachos de cabelo
-círculos concêntricos
-(mas que são
-fumaça
-do século
-dezenove)
-e o sol no quadro
-na tela
-e em posição
-de sorriso
-eterno fluxo
-flutuante
+<font face="Lekton">noite de verão<br />
+gramados amarelo-punk<br />
+chaminés cuspindo<br />
+redondas formas<br />
+que poderiam ser<br />
+cachos de cabelo<br />
+círculos concêntricos<br />
+(mas que são<br />
+fumaça<br />
+do século<br />
+dezenove)<br />
+e o sol no quadro<br />
+na tela<br />
+e em posição<br />
+de sorriso<br />
+eterno fluxo<br />
+flutuante<br />
 inclusive crepúsculo</font>
 
 quem cria os museus? para que servem suas paredes? para quem esteve em casa por vinte e três anos, o mundo é o museu 

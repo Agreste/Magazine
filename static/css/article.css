@@ -15,6 +15,14 @@
     src: url('/static/fonts/BebasNeue.otf');
 }
 
+@font-face {
+    font-family: JosefinSlab;
+    src: url('/static/fonts/JosefinSlab-Light.ttf');
+}
+
+@font-face {
+    font-family: Lekton;
+    src: url('/static/fonts/Lekton-Regular.ttf');
 
 /* background setup */
 .background {

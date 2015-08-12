@@ -16,7 +16,7 @@ no início, era o verbo.
 
 no entanto, no caso de rodrigo de souza leão, este verbo é retrabalhado à exaustão: até virar tinta, até virar suzana vieira, até virar VHS, até virar webcam, até virar remédio enganosamente engolido e transformado em maraca para instrumento da banda eletro-espacial 
 
-<font face="Courier New">noite de verão
+<font face="Lekton">noite de verão
 gramados amarelo-punk
 chaminés cuspindo
 redondas formas
@@ -97,13 +97,13 @@ onde está o teste de dna?
 
 
 
-   Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.
+   <font face="JosefinSlab">Ser perseguido por alucinações não é como ser perseguido por personagens, mas é parecido um pouco.
    Você pensa uma coisa e é outra que acontece. As personagens têm vida própria?
    Não sei. Personagens não são alucinações.
    Pensamentos são entidades autônomas?
    A gente fica parecido com os nossos pensamentos. Com as nossas personagens. Todas vocês se encontram em mim. Duvida disso?
    Não. Esse é o segundo livro que sou personagem.
-   Vou te dar um fim melhor do que a morte. Mas você sabe que aqui todo mundo ressuscita, né?
+   Vou te dar um fim melhor do que a morte. Mas você sabe que aqui todo mundo ressuscita, né?</font>
 
  
 anifesto videodrome

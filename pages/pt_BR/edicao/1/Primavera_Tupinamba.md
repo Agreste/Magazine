@@ -3,7 +3,7 @@ background: /static/img/1/primavera.jpg
 title: "Primavera Tupinambá"
 subtitle: "Ajude-nos a trazer 15 lideranças Tupinambá de Olivença para São Paulo e promova essa luta!"
 
-Originalmente em  [[https://beta.benfeitoria.com/primaveratupinamba]]
+Originalmente em [beta.benfeitoria.com/primaveratupinamba](https://beta.benfeitoria.com/primaveratupinamba)
 
 >De 27 de agosto à 7 de setembro, ocorrerá, em São Paulo, a Etapa Paulista do Seminário Índio Caboclo Marcelino. O evento, criado e gerido pelo Povo Tupinambá de Olivença/BA, está em sua 7º edição.
 
@@ -29,7 +29,7 @@ Traremos 15 lideranças do Povo Tupinambá de Olivença à São Paulo. Já conta
 
 É por isso, que agora precisamos de você. Apóie a realização e participe do nosso seminário!
 
-Apoie: [[https://beta.benfeitoria.com/primaveratupinamba]]
+Apoie: [beta.benfeitoria.com/primaveratupinamba](https://beta.benfeitoria.com/primaveratupinamba)
 
 
 <hr />

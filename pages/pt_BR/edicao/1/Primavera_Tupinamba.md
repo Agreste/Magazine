@@ -5,6 +5,8 @@ subtitle: "Ajude-nos a trazer 15 lideranças Tupinambá de Olivença para São P
 
 Originalmente em [beta.benfeitoria.com/primaveratupinamba](https://beta.benfeitoria.com/primaveratupinamba)
 
+<iframe src="https://player.vimeo.com/video/135925944" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 >De 27 de agosto à 7 de setembro, ocorrerá, em São Paulo, a Etapa Paulista do Seminário Índio Caboclo Marcelino. O evento, criado e gerido pelo Povo Tupinambá de Olivença/BA, está em sua 7º edição.
 
 >Esse ano, 15 lideranças desejam ir à capital paulista para promover sua luta e contar suas histórias. Isso só será possível se conseguirmos custear as passagens, hospedagens e alimentação. Ajude-nos a tornar isso realidade e venha participar das nossas atividades!

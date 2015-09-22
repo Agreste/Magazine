@@ -32,3 +32,14 @@ tr.prova {
 a {
     color: #0068BD;
 }
+
+#message {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#inner-message {
+    margin: 0 auto;
+}

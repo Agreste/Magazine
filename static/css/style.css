@@ -38,10 +38,6 @@ a {
     top: 0;
     left: 0;
     width: 100%;
-}
-
-#inner-message {
-    margin: 0 auto;
     color: #8A6D3B;
     background-color: #FCF8E3;
     border-color: #FAEBCC;
@@ -49,4 +45,8 @@ a {
     margin-bottom: 20px;
     border: 1px solid transparent;
     border-radius: 4px;
+}
+
+#inner-message {
+    margin: 0 auto;
 }

@@ -40,10 +40,9 @@ a {
     width: 100%;
     color: #8A6D3B;
     background-color: #FCF8E3;
-    border-color: #FAEBCC;
     padding: 15px;
     margin-bottom: 20px;
-    border: 1px solid transparent;
+    border: 1px solid #FAEBCC;
     border-radius: 4px;
 }
 

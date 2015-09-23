@@ -8,29 +8,24 @@
     <link href="/static/css/bootstrap.min.css" rel="stylesheet">
     <link href="/static/css/frontpage.css" rel="stylesheet">
     <link rel="icon" type="image/png" href="/static/img/favicon.png"/>
-      <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    <script>
-  $(function() {
-    $( "#dialog-message" ).dialog({
-      modal: true,
-      buttons: {
-        Ok: function() {
-          $( this ).dialog( "close" );
-        }
-      }
+<script type="text/javascript">
+    $(window).load(function(){
+        $('#myModal').modal('show');
     });
-  });
-  </script>
+</script>
 </head>
 <body class="background">
-<div class="container">
-<div id="dialog-message" title="Mapa Xilográfico">
-    <span class="ui-icon ui-icon-circle-check" style="float:left; margin:0 7px 50px 0;"></span>
-    <img src="/static/img/1/Convite_MapaXilo.jpg" alt="Convite conversa com Mapa Xilografico — ECLA, 01/10 19h" />
+    
+<!-- Modal -->
+<div class="modal fade bs-example-modal-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+          <img src="/static/img/1/Convite_MapaXilo.jpg" alt="Convite conversa com Mapa Xilografico — ECLA, 01/10 19h" />
+        </div>
+    </div>
 </div>
-
+    
+<div class="container">
     <div class="row">
             <div id="frontpage_1_1" class="col-md-5">
             	<div style="float:left;padding:0px 40px;"><a href="/edicao/1/Sobre"><h1 class="gray3back" style="font-size: 50px;">?</h1></a></div>

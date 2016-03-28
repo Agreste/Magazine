@@ -126,10 +126,14 @@ a {
     position: absolute;
     right: 0;
     top: auto;
-    width: 150px;
     background-color: #fff;
     width: 100%;
     max-width: 750px;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
 }
 
 /* visual styles */

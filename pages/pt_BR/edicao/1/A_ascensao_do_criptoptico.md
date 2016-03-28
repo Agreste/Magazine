@@ -90,8 +90,6 @@ Estamos começando a entender as ramificações da rápida mudança em nosso eco
 
 ### Notas
 
-<a name="1"> 1. Francis Ford Coppola (Produtor e Diretor), _The Conversation_ \[Longa Metragem\] (Estados Unidos: Paramount Pictures, 1974); Jerry Bruckheimer (Produtor) and Tony Scott (Direcor), _Enemy of the State_ \[Longa Metragem\] (Estados Unidos: Touchstone Pictures, 1998).</a>
-
 <a name="2"> 2. Julie E. Cohen, _Configuring the Networked Self: Law, Code, and the Play of Everyday Practice_ (New Haven, CT: Yale University Press, 2012).</a>
 
 <a name="3"> 3. Samuel D. Warren and Louis D. Brandeis, “The Right to Privacy,” _Harvard Law Review_ 4, no. 5 (1890): 193–220, doi:10.2307/1321160. Também Robert Post, “Re-reading Warren and Brandeis: Privacy, Property, and Appropriation,” _Faculty Scholarship Series_, January 1, 1991; <http://digitalcommons.law.yale.edu/fss_papers/206>.</a>

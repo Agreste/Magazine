@@ -97,3 +97,8 @@ if(!$("html").hasClass("touch")){
     $(window).scroll(parallaxPosition);
     parallaxPosition();
 }
+
+var c=0;
+$(".jumper").click(function(){
+    $(this).stop().animate({left: ++c%2*100 }, 'fast');
+});

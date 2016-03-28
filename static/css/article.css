@@ -130,11 +130,12 @@ a {
     width: 100%;
     max-width: 750px;
     padding: 15px;
+    font-size: smaller;
 }
 
-sup {
+.jumper {
     vertical-align: super;
-    font-size: smaller;
+    font-size: xx-small;
 }
 
 /* visual styles */

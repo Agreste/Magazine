@@ -100,5 +100,5 @@ if(!$("html").hasClass("touch")){
 
 var c=0;
 $(".jumper").click(function(){
-    $("body, html").stop().animate({left: ++c%2*100 }, 'fast');
+    $("body, html").animate({ scrollLeft: $( $(this).attr('href') ).offset().left}, 'fast');
 });

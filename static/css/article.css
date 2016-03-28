@@ -122,11 +122,14 @@ a {
 }
 
 .sidenote {
-  margin-right: -170px;
-  position: absolute;
-  right: 0;
-  top: auto; /* default */
-  width: 150px;
+    margin-right: -110%;
+    position: absolute;
+    right: 0;
+    top: auto;
+    width: 150px;
+    background-color: #fff;
+    width: 100%;
+    max-width: 750px;
 }
 
 /* visual styles */

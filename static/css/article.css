@@ -277,3 +277,10 @@ ul li:hover ul {
   color: white;
   font-size: 30px;
 }
+
+.agre { /* tooltip */
+	border-radius: 5px; 
+	border: 2px solid #000;
+	background: #fff;
+	color: #000;
+}

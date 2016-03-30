@@ -50,5 +50,3 @@ A relação embrionária do cinema, imagem e som não se dá em espaços separad
   <li id="fn:5">RODRIGUES, Claudiney, CHAVES, Renan Paiva In: _O PENSAMENTO SONORO-VISUAL DE WALTER RUTTMANN E A MÚSICA DE BERLIM: SINFONIA DE UMA METRÓPOLE_ (1927)</li>
   </ol>
 </div>
-
-<script>$('.post').sidenotes();</script>

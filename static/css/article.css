@@ -283,4 +283,5 @@ ul li:hover ul {
 	border: 2px solid #000;
 	background: #fff;
 	color: #000;
+    z-index: 9;
 }

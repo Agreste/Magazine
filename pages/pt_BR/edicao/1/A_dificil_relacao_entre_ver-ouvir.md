@@ -43,7 +43,7 @@ A relação embrionária do cinema, imagem e som não se dá em espaços separad
 ## Notas
 <div class="footnotes">
   <ol>
-  <li id="fn:1">CAESAR, Rodolfo.  _O som como imagem_. IV Seminário Música Ciência e Tecnologia: Fronteiras e Rupturas. Departamento de Música- ECA. Universidade de São Paulo, julho, 2012.<a href="#fnref:1" class="reversefootnote">&#8617;</a></li>
+  <li id="fn:1">CAESAR, Rodolfo.  _O som como imagem_. IV Seminário Música Ciência e Tecnologia: Fronteiras e Rupturas. Departamento de Música- ECA. Universidade de São Paulo, julho, 2012.<sup class="jumper"> &#8617;</sup></li>
   <li id="fn:2">_Idem. Ibidem._<a href="#fnref:2" class="reversefootnote">&#8617;</a></li>
   <li id="fn:3">LEITE, _Op. cit_, p. 03<a href="#fnref:3" class="reversefootnote">&#8617;</a></li>
   <li id="fn:4">VERTOV apud XAVIER, Ismail. _Nascimento do cine-olho_, 1924. In:  A experiência do cinema, pg. 260.<a href="#fnref:4" class="reversefootnote">&#8617;</a></li>

@@ -7,7 +7,7 @@
     <link href="/static/css/article.css" rel="stylesheet">
     <script src="/static/javascripts/jquery.sidenotes.min.js"></script>
 </head>
-<body class="background" {% if background_image %} style="background-image:url('{{ background_image }}');" {% endif %}>
+<body class="background" {% if background_image %} style="background-image:url('{{ background_image }}');" {% endif %} onload="$('.post').sidenotes();">
 <div id="menu">
     <a href="/"><img src="/static/img/logo.svg"></a>
     <div id="art-menu">

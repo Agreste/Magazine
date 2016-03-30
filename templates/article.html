@@ -5,6 +5,7 @@
     <title>{{ title }} - Revista Agreste</title>
     <meta name="description" content="{{ description }}">
     <link href="/static/css/article.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/static/css/tooltipster.css" />
 </head>
 <body class="background" {% if background_image %} style="background-image:url('{{ background_image }}');" {% endif %}>
 <div id="menu">
@@ -50,11 +51,13 @@
         </div>
     </div>
 </div>
-<script src="/static/javascripts/jquery-1.12.2.min.js"></script>
-<script src="/static/javascripts/jquery.sidenotes.min.js"></script>
-<script src="/static/javascripts/article.js"></script>
+<script type="text/javascript" src="/static/javascripts/jquery-1.12.2.min.js"></script>
+<script type="text/javascript" src="/static/javascripts/jquery.tooltipster.min.js"></script>
+<script type="text/javascript" src="/static/javascripts/article.js"></script>
 <script type="text/javascript">
-    $('.content-b').sidenotes();
+        $(document).ready(function() {
+            $('.content-b').tooltipster();
+        });
 </script>
 </body>
 </html>

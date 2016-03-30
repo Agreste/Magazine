@@ -132,7 +132,7 @@ a {
     font-size: small;
 }
 
-sup{
+.sup{
     vertical-align: super;
     font-size: xx-small;
     text-decoration: underline;

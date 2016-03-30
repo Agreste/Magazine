@@ -102,3 +102,5 @@ var c=0;
 $(".jumper").click(function(){ 
     $("body, html").animate({ scrollLeft: ++c%2*750}, 'slow');
 });
+
+$('.post').sidenotes();

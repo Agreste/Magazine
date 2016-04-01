@@ -39,3 +39,4 @@ Walter Ruttman, por sua vez, fez um filme sem imagens ou cinema para ouvidos, _W
 Para Ruttman a música não existe no cinema, ela perde sua característica de música, vemos a emergência do visual-sonoro ao mesmo tempo. 
 
 A relação embrionária do cinema, imagem e som não se dá em espaços separados, mas sim na constituição de um mesmo objeto. A ideia de Ruttman era fazer um cinema sonoro, que pudesse ser “ouvido” e não somente “visto”.
+

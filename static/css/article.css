@@ -284,6 +284,7 @@ ul li:hover ul {
     max-width: 600px;
     text-align: justify;
     border: 1px solid #666;
+    border-radius: 0px; 
 }
 
 .tooltipster-default .tooltipster-content {

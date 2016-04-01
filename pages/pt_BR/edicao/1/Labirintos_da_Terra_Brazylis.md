@@ -7,7 +7,7 @@ ___Josafá Veloso___
 
 1. Nunca mais fui o mesmo depois de ver _Os Sertões - Luta II - O Desmassacre_ no Teat(r)o Oficina de São Paulo. “Foi destino certo”, como diz cego Júlio para Antônio das Mortes em _Deus e o Diabo_, de Glauber. Nunca havia visto um espetáculo do Oficina. Haviam me dito que aquela era a última parte da adaptação da obra clássica de Euclides e que durava mais de seis horas (!). Ao término do primeiro Ato. Três horas e meia depois, eu realmente achei que todas as seis horas de espetáculo haviam se passado. Senti isso não por tédio, mas por êxtase. Ali, na terra da Rua Jaceguai, eu havia passado por uma experiência de transe, de não-tempo: Um gostinho de ETHERNIDADE. Bateu no meu corpo um ritual antropofágico que no mesmo caldeirão misturava o profeta-bailarino Zaratustra, o rigor cósmico de Artaud, a alegria de Oswald e as alegorias de Glauber. 
 
->Glauber completaria 76 anos no último dia 14 de Março. No dia, um sábado, revi _Deus e o Diabo_ na tela grande. Ele sempre me pega. Entro num leve transe. Do signo de Peixes, Glauber faz aniversário um dia depois de seu conterrâneo, o baiano Antônio Vicente Mendes Maciel, o Conselheiro, líder messiânico do arraial de Canudos. Revia o filme 51 anos depois de sua primeira exibição que aconteceu no dia 13 de Março de 1964, na mesma hora em que Jango discursava na Central do Brasil: o estopim do Golpe Militar que (ainda) não acabou.[[1]](#1)
+>Glauber completaria 76 anos no último dia 14 de Março. No dia, um sábado, revi _Deus e o Diabo_ na tela grande. Ele sempre me pega. Entro num leve transe. Do signo de Peixes, Glauber faz aniversário um dia depois de seu conterrâneo, o baiano Antônio Vicente Mendes Maciel, o Conselheiro, líder messiânico do arraial de Canudos. Revia o filme 51 anos depois de sua primeira exibição que aconteceu no dia 13 de Março de 1964, na mesma hora em que Jango discursava na Central do Brasil: o estopim do Golpe Militar que (ainda) não acabou.<a class="tooltip sup" href="#nota" title="A Rede Globo e a Polícia Militar são os dois mais vigorosos rebentos do regime...">1</a>
 
 >Vendo o filme, tremo ao ouvir o vaqueiro Manuel, no alto de Monte Santo, confessar aos céus e ao vento bravo que corta como lâmina a pequena multidão de beatos que “Tô condenado, mas tenho coragem! Entrego meu caminho ao Senhor pra libertar o meu povo!”. Sobe a música de Villa-Lobos. Manuel se ajoelha aos pés do beato Sebastião, uma versão de Antônio Conselheiro à Glauber. Um Conselheiro negro. Preto como o Firmino de Antônio Pitanga em _Barravento_, ou como Zumbi em _O Leão de Sete Cabeças_, ou o Cristo Negro (novamente encarnado por Pitanga) de Idade da Terra... 
 
@@ -21,7 +21,7 @@ ___Josafá Veloso___
 
 >Paulo Martins, o poeta-intelectual de _Terra em Transe_, assim delira em sua mórbida decomposição: “Ando nas ruas e vejo o povo magro, apático, abatido. Este povo não pode acreditar em nenhum partido. Este povo alquebrado, cujo sangue sem vigor, este povo precisa da morte mais do que se possa supor. O sangue que estimula no irmão a dor, o sentimento do nada que gera o amor; a morte como fé, não como temor”.
 
->Aviso a todos os esquerdistas de todas as Universidades Federais deste país: Jamais se erguerá uma revolução proletária entre nós. Paulo Francis dizia: “Só mesmo no Brasil pra se levar comunismo a sério”. Ora, o que emana do povo não é a consciência diante da luta de classes, mas o misticismo. É isso que nos diz a obra de Glauber, do Oficina e do próprio saudoso Eduardo Coutinho que, como Glauber, tinha o mesmo gosto pelo plano-sequência, a fabulação, o mágico... [[2]](#2)
+>Aviso a todos os esquerdistas de todas as Universidades Federais deste país: Jamais se erguerá uma revolução proletária entre nós. Paulo Francis dizia: “Só mesmo no Brasil pra se levar comunismo a sério”. Ora, o que emana do povo não é a consciência diante da luta de classes, mas o misticismo. É isso que nos diz a obra de Glauber, do Oficina e do próprio saudoso Eduardo Coutinho que, como Glauber, tinha o mesmo gosto pelo plano-sequência, a fabulação, o mágico... <a class="tooltip sup" href="#nota" title="Coutinho & Glauber: Labirinto a ser investigado... O futuro é a síntese dos dois. (Palavra de Honra). O cinema de Ardiley Queirós já aponta isso.">2</a>
 
 >A _Idade da Terra_, assim como _Luta II_, propõe uma Revolução Estética. A forma é o conteúdo. Brecht é um lindo poeta. Mas mais importante que a consciência é a percepção. As ideologias do século XX só nos deixaram cinzas. Não se enganem. Guerra sem dor. Luta sem armas. Magia. Antropofagia. Quem tiver ouvidos para ouvir, ouça. 
 
@@ -29,7 +29,7 @@ ___Josafá Veloso___
 
 >Esta cena pode ser vista e revista pela ETHERNIDADE em DVD, na caixa com todos os filmes d´Os Sertões, à venda na bilheteria do Teatro Oficina, no Bixiga. Eryk Rocha, filho de Glauber (diretor do belíssimo Rocha que Voa), dirigiu esta quinta e derradeira _Luta II - O Desmassacre_.
 
->Estive presente nas exibições das cinco partes de _Os Sertões nos cinemas_, em Setembro de 2010. Lembro-me que antes de começar a sessão de _Luta II_, Zé Celso, antes de sentar-se, disse aos poucos presentes: “Hoje é um dia histórico!”.[[3]](#3)
+>Estive presente nas exibições das cinco partes de _Os Sertões nos cinemas_, em Setembro de 2010. Lembro-me que antes de começar a sessão de _Luta II_, Zé Celso, antes de sentar-se, disse aos poucos presentes: “Hoje é um dia histórico!”.<a class="tooltip sup" href="#nota" title="Um dos presentes era a crítica de cinema Maria do Rosário Caetano.">3</a>
 
 >Na esteira dos delírios de Richard Wagner, inseri-se _Luta II_. Filme magnífico. Cinema Total. Nele já não há apenas Nietzsche, Artaud, Oswald e Glauber, que dançavam juntos no teatro desenhado por Lina Bardi. Aqui, uma fronteira foi atravessada. Em _Luta II, o filme_, as especificidades do cinema são postas à prova. Em seus procedimentos de filmagem e, notadamente, de montagem, dão o ar da graça inspirações vindas de Eisenstein, Buñel e Kubrick. Meninos, eu vi. 
 
@@ -61,14 +61,4 @@ Pois a arte é sempre conflito:
 
 ALBERA, François. Eisenstein e o Construtivismo Russo. São Paulo. Cosac Naify, 2011.
 
-CUNHA, Euclides da. Os Sertões, campanha de Canudos; Edição, prefácio, cronologia, notas e índices Leopoldo M. Bernucci. São Paulo: Ateliê Editorial, 2001.[[4]](#4)
-
-## NOTAS
-
-<a name="1"> 1. A Rede Globo e a Polícia Militar são os dois mais vigorosos rebentos do regime...</a>
-
-<a name="2"> 2. Coutinho & Glauber: Labirinto a ser investigado... O futuro é a síntese dos dois. (Palavra de Honra). O cinema de Ardiley Queirós já aponta isso.</a>
-
-<a name="3"> 3. Um dos presentes era a crítica de cinema Maria do Rosário Caetano.</a>
-
-<a name="4"> 4. Este texto envolve uma pesquisa maior que mergulha em Euclides, Glauber e o Oficina: Tese de Mestrado a ser defendida em 2016 no PPGCA-UFF denominada “Glauber, Teat(r)o Oficina e a Epifania Final - uma análise crítica de Luta II - O Desmassacre”. Quem viver, verá.</a>
+CUNHA, Euclides da. Os Sertões, campanha de Canudos; Edição, prefácio, cronologia, notas e índices Leopoldo M. Bernucci. São Paulo: Ateliê Editorial, 2001.<a class="tooltip sup" href="#nota" title="Este texto envolve uma pesquisa maior que mergulha em Euclides, Glauber e o Oficina: Tese de Mestrado a ser defendida em 2016 no PPGCA-UFF denominada “Glauber, Teat(r)o Oficina e a Epifania Final - uma análise crítica de Luta II - O Desmassacre”. Quem viver, verá.">4</a>

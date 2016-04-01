@@ -5,15 +5,14 @@ subtitle: "aparência do real e ideologia"
 
 ___Diogo Noventa___
 
-Esse artigo tem como objetivo apresentar as bases que constituem o estilo de narrativa cinematográfica adotado pela indústria cultural no contexto internacional, estilo chamado por Ismail Xavier[[1]](#1) de narrativa clássica[[2]](#2); que consolidou o cinema como um espetáculo gerador de lucro, sendo – no campo das expressões artísticas – um expoente das formas capitalistas de desenvolvimento econômico do início do século XX.
+Esse artigo tem como objetivo apresentar as bases que constituem o estilo de narrativa cinematográfica adotado pela indústria cultural no contexto internacional, estilo chamado por Ismail Xavier<a class="tooltip sup" href="#nota" title="XAVIER, Ismail. _O Discurso cinematográfico: a opacidade e a transparência_. Rio de Janeiro, Paz e Terra, 1977.">1</a> de narrativa clássica<a class="tooltip sup" href="#nota" title="Existem outras denominações como narrativo-dramático ou grau zero da escritura cinematográfica">2</a>; que consolidou o cinema como um espetáculo gerador de lucro, sendo – no campo das expressões artísticas – um expoente das formas capitalistas de desenvolvimento econômico do início do século XX.
 
 A identificação do uso do método da narrativa clássica em um filme, significa identificar, no campo da forma, sua aproximação com os interesses da classe dominante, pois “[...] a construção do método clássico significa a inscrição do cinema (como forma de discurso) dentro dos limites definidos por uma estética dominante, de modo a fazer cumprir através dele necessidades correlatas aos interesses da classe dominante”.(XAVIER, 1977, p.29). Contudo o seu oposto não é verdadeiro, não é possível afirmar que a não utilização da narrativa clássica significa um rompimento com os interesses dominantes, mas não será esse o assunto do artigo.
 
 As bases da narrativa clássica no cinema e sua consolidação de produção em escala industrial ocorrem na década de 20 do século XX, mas o período que a antecede é referente à invenção do cinema, momento essencial para compreender de forma clara que “a linguagem do cinema não tem nada de natural nem de eterna, ela tem uma história e é produzida pela história” (BURCH, 1987, p.16). Para tanto é necessário
 realizar uma breve passagem pelo contexto dos primeiros filmes, que surgiram no final do século XIX e foram difundidos em espaços de diversão popular como circos, quermesses, museu de cera e de aberrações.
 
->Mas foi nas casas de variedades (que, para efeito de simplificação, vamos chamar genericamente de _vaudevilles_[[3]](#3)), em pleno apogeu na virada do século,
-que o cinema floresceu com maior vigor. Eram locais bastante populares e também um tanto mal-afamados por causa da atmosfera plebeia e do “baixo nível” dos espetáculos burlescos ali encenados. (MACHADO, 1997, p.78)
+>Mas foi nas casas de variedades (que, para efeito de simplificação, vamos chamar genericamente de _vaudevilles_<a class="tooltip sup" href="#nota" title="Na França os locais de exibição de filmes eram os café-concerto e na Inglaterra music-hall, o termo _vaudeville_ é referente as casas de shows populares dos Estados Unidos que também eram chamados de _smoking concerts_.">3</a>, em pleno apogeu na virada do século, que o cinema floresceu com maior vigor. Eram locais bastante populares e também um tanto mal-afamados por causa da atmosfera plebeia e do “baixo nível” dos espetáculos burlescos ali encenados. (MACHADO, 1997, p.78)
 
 Os primeiros filmes eram constituídos de apenas um plano de imagem (o termo plano é aqui utilizado em relação ao processo que compreende o início e o fim da gravação em uma única extensão de imagem) com a câmera posicionada, na maioria dos casos, em relação frontal à cena, reproduzindo o ângulo de visão do espectador sentado no centro da plateia do teatro. Posteriormente, nos filmes que articulavam mais de um plano, as cenas eram filmadas em plano geral com simultaneidade de acontecimentos e, em muitos filmes, os atores e atrizes se dirigiam diretamente ao espectador, quebrando o recurso realista do uso da quarta parede. Os filmes apresentavam gags, aberrações, paisagens, quadros vivos, situações burlescas, perseguições, lutas, ilustrações da paixão de Cristo, etc.
 
@@ -161,11 +160,3 @@ ________________. _O cinema brasileiro moderno_. São Paulo. Paz e Terra, 2001.
 
 _______________. _D.W.Griffith – O nascimento de um cinema_. São Paulo.
 Brasilense. 1984.
-
-## Notas
-
-<a name="1">1. XAVIER, Ismail. _O Discurso cinematográfico: a opacidade e a transparência_. Rio de Janeiro, Paz e Terra, 1977.</a>
-
-<a name="2">2. Existem outras denominações como narrativo-dramático ou grau zero da escritura cinematográfica</a>
-
-<a name="3">3. Na França os locais de exibição de filmes eram os café-concerto e na Inglaterra music-hall, o termo _vaudeville_ é referente as casas de shows populares dos Estados Unidos que também eram chamados de _smoking concerts_.</a>

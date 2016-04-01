@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <title>{{ title }} - Revista Agreste</title>
     <meta name="description" content="{{ description }}">
-    <link href="/static/css/article.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/static/css/tooltipster.css" />
+    <link href="/static/css/article.css" rel="stylesheet">
+
 </head>
 <body class="background" {% if background_image %} style="background-image:url('{{ background_image }}');" {% endif %}>
 <div id="menu">
@@ -56,7 +57,7 @@
 <script type="text/javascript" src="/static/javascripts/article.js"></script>
 <script type="text/javascript">
         $(document).ready(function() {
-            $('.tooltip').tooltipster({theme: 'agre'});
+            $('.tooltip').tooltipster();
         });
 </script>
 </body>

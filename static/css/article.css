@@ -287,5 +287,6 @@ ul li:hover ul {
 }
 
 .tooltipster-default .tooltipster-content {
-    font-size: smaller;
+    font-family: OpenSans;
+    font-size: small;
 }

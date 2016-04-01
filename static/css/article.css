@@ -282,4 +282,11 @@ ul li:hover ul {
     background-color: #fff;
     color: black;
     max-width: 600px;
+    text-align: justify;
+    border: 1px solid #666;
+}
+
+.tooltipster-default .tooltipster-content {
+    font-family: OpenSans;
+    font-size: smaller;
 }

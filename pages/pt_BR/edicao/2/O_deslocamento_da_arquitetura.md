@@ -1,8 +1,8 @@
 template: article.html background: /static/img/1/criptopticon.jpg title: "O DESLOCAMENTO DA ARQUITETURA NOS FILMES DE VANGUARDA"
 
-Maureen Turim
+___Maureen Turim___
 
-Tradução por Eduardo Liron
+___Tradução por Eduardo Liron___
 
 Não apenas abstração, mas um ato de descentramento visual e deslocamento simbólico: é nestes termos que nós podemos descrever as interações entre arquitetura e o aparato cinematográfico nos filmes de vanguarda. Estes filmes desconstroem o aparato representacional pelo qual a arquitetura tem sido representada mais comumente no espaço visual bidimensional e, certamente, aquelas funções em que ele é reconhecido na maioria do cinema narrativo, as de suporte e cenário, de construção indicial de um lugar que podemos reconhecer ou conhecer através de nosso olhar. Referência, simbolismo e centralização perspectiva do objeto visto podem, de uma forma ou de outra, ser desfeitos na formação das imagens cinematográficas que definem sua própria arquitetura pela eliminação de diversos aspectos que são imperativos na narrativa convencional.
 
